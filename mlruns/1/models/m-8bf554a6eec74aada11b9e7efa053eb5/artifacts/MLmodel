@@ -1,0 +1,23 @@
+artifact_path: file:C:/Second Year/SEM-1/ML/StreamStay/mlruns/1/models/m-8bf554a6eec74aada11b9e7efa053eb5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.7.1
+    skops_trusted_types: null
+mlflow_version: 3.16.1
+model_id: m-8bf554a6eec74aada11b9e7efa053eb5
+model_size_bytes: 6975
+model_uuid: m-8bf554a6eec74aada11b9e7efa053eb5
+prompts: null
+run_id: 836b922a6df9422583cf0f44087fdb05
+utc_time_created: '2026-10-09 03:58:06.095457'

@@ -1,0 +1,27 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# StreamStay — Python dependencies
+# Split into training (train_pipeline.py) and serving (api.py) groups
+# so Docker can install only the serving subset if needed.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# ── Core data / ML (shared by both training and serving) ─────────────────────
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+joblib==1.4.2
+
+# ── Gradient boosting ─────────────────────────────────────────────────────────
+xgboost==2.1.1
+
+# ── Serving (W12 FastAPI capstone) ────────────────────────────────────────────
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.1
+
+# ── Training-only (not needed in Docker image for inference only) ─────────────
+# Uncomment or install separately for train_pipeline.py:
+# matplotlib==3.9.2
+# seaborn==0.13.2
+# shap==0.46.0
+# imbalanced-learn==0.12.3
+# mlflow==2.16.0

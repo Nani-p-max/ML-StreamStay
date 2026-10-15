@@ -1,0 +1,22 @@
+artifact_path: file:C:/Second Year/SEM-1/ML/StreamStay/mlruns/2/models/m-dbebad71795e4652bdb70bc304c64045/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.5
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.4.1
+mlflow_version: 3.16.1
+model_id: m-dbebad71795e4652bdb70bc304c64045
+model_size_bytes: 88179
+model_uuid: m-dbebad71795e4652bdb70bc304c64045
+prompts: null
+run_id: 380c703c7a8945be8a4ebcf519583d61
+utc_time_created: '2026-10-10 08:30:05.356721'

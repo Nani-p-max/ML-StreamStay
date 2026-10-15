@@ -1,0 +1,1201 @@
+user_id,age,country,platform,device_type,subscription_type,top_genre,top_artist,daily_listening_minutes,songs_per_day,sessions_per_week,avg_song_duration_sec,skip_rate_pct,playlists_created,likes_per_week,unique_artists_per_week,offline_usage_pct,recommendation_rating,days_since_last_active,subscription_months,monthly_fee,auto_renew,payment_failures,previous_cancellations,expected_weekly_listening_minutes,churn_next_30_days
+SS100000,20,India,Web,Laptop,Student,EDM,Avicii,182.0,36,2,211.0,16.2,13,5,12,7.8,4.5,6,18,5.99,0,0,1,955.9,0
+SS100001,50,USA,Web,Mobile,Premium,Jazz,Norah Jones,217.6,45,5,161.3,9.8,7,16,3,33.8,4.5,12,49,9.99,1,1,0,1272.3,0
+SS100002,45,Germany,Android,Mobile,Family,Hip-Hop,Drake,61.5,11,8,202.2,18.8,10,11,22,47.5,3.1,4,4,14.99,1,0,0,422.1,0
+SS100003,35,Canada,Android,Smart Speaker,Premium,Jazz,Chet Baker,201.9,55,1,186.2,7.6,16,16,35,40.2,4.5,6,33,9.99,0,2,0,893.0,0
+SS100004,35,India,Android,Mobile,Family,Lo-fi,Idealism,84.2,17,6,194.7,13.7,8,14,29,15.5,4.1,9,11,14.99,1,0,1,506.4,0
+SS100005,54,Canada,Android,Smart Speaker,Premium,Hip-Hop,J. Cole,116.1,30,7,181.5,11.4,6,21,27,73.6,3.3,7,17,9.99,0,1,0,738.1,1
+SS100006,19,Brazil,Web,Smart Speaker,Family,R&B,Frank Ocean,129.9,30,7,199.1,13.5,4,14,24,32.8,3.7,1,9,14.99,0,0,0,886.3,0
+SS100007,47,Japan,Android,Mobile,Free,Jazz,Chet Baker,192.6,47,6,230.2,16.5,12,13,27,39.3,4.2,12,8,0.0,0,0,0,1181.9,0
+SS100008,25,Japan,iOS,Laptop,Premium,Jazz,John Coltrane,155.8,52,7,205.5,9.9,9,14,13,20.4,3.3,8,36,9.99,0,0,0,902.9,0
+SS100009,20,UK,Android,Tablet,Student,Jazz,Chet Baker,82.3,19,14,139.2,28.0,7,12,33,59.3,4.0,7,13,5.99,1,0,0,695.0,0
+SS100010,39,Brazil,Web,Laptop,Premium,Classical,Ludovico Einaudi,18.3,4,10,181.6,20.5,6,10,33,47.6,5.0,6,20,9.99,1,1,0,72.0,0
+SS100011,59,Canada,Web,Tablet,Premium,Jazz,Miles Davis,138.0,40,6,152.3,29.6,9,11,20,41.9,4.6,5,26,9.99,0,0,1,824.1,0
+SS100012,49,Brazil,Web,Mobile,Family,Jazz,Norah Jones,113.2,21,8,219.3,15.9,13,10,29,9.7,3.9,7,45,14.99,1,0,0,823.8,0
+SS100013,50,India,Android,Smart Speaker,Family,Pop,Ariana Grande,41.2,10,8,229.1,13.2,3,9,5,59.1,4.0,3,8,14.99,1,0,0,210.4,0
+SS100014,48,Australia,Desktop,Mobile,Free,K-Pop,TWICE,121.4,35,5,219.7,29.3,10,17,26,51.7,3.4,19,46,0.0,0,0,1,717.3,1
+SS100015,51,Canada,Web,Laptop,Premium,EDM,Calvin Harris,103.1,22,5,180.1,13.0,7,15,23,57.3,3.4,9,23,9.99,1,1,0,590.6,0
+SS100016,39,Brazil,iOS,Tablet,Premium,Pop,Dua Lipa,216.4,62,12,219.4,15.8,9,19,38,35.8,2.6,9,22,9.99,1,1,1,1706.9,0
+SS100017,21,UK,iOS,Mobile,Free,EDM,Calvin Harris,286.9,91,7,192.1,22.0,8,10,22,33.4,4.0,23,16,0.0,0,0,0,1766.4,0
+SS100018,53,UK,Android,Laptop,Free,EDM,Avicii,179.5,38,4,166.7,8.3,13,9,34,31.0,4.3,8,14,0.0,0,0,0,1031.3,0
+SS100019,36,Germany,iOS,Laptop,Free,Pop,Dua Lipa,99.4,30,8,238.2,22.0,7,14,20,85.1,3.7,10,6,0.0,1,1,1,698.1,0
+SS100020,38,Brazil,Desktop,Smart Speaker,Premium,Lo-fi,Idealism,108.9,33,8,241.1,21.1,9,17,2,23.1,3.1,4,39,9.99,0,0,2,677.1,0
+SS100021,32,Australia,Android,Mobile,Student,Rock,Foo Fighters,60.0,12,1,246.1,25.9,10,17,22,8.9,3.9,9,8,5.99,1,0,0,337.6,0
+SS100022,24,South Korea,Android,Laptop,Family,R&B,H.E.R.,68.0,22,8,186.9,23.2,11,14,26,26.8,4.9,3,13,14.99,1,0,1,419.0,0
+SS100023,57,France,Android,Mobile,Student,EDM,Martin Garrix,95.9,19,11,254.8,26.1,11,21,26,23.3,4.5,12,36,5.99,1,0,0,753.3,0
+SS100024,51,Brazil,Desktop,Mobile,Family,Country,Luke Combs,89.7,18,10,191.2,16.2,11,16,26,62.7,3.8,9,18,14.99,0,1,0,613.8,0
+SS100025,44,Germany,iOS,Mobile,Student,K-Pop,BLACKPINK,39.5,12,16,234.8,11.0,12,10,18,5.2,5.0,4,9,5.99,1,0,0,348.0,0
+SS100026,34,Germany,Desktop,Mobile,Premium,K-Pop,BTS,217.7,51,12,190.6,31.8,10,17,20,22.7,5.0,2,31,9.99,1,1,2,1722.4,0
+SS100027,53,India,iOS,Mobile,Free,Rock,Foo Fighters,235.1,73,13,201.5,6.3,8,18,12,39.2,3.4,14,15,0.0,0,0,1,1909.1,0
+SS100028,40,Australia,Android,Mobile,Premium,Country,Chris Stapleton,213.7,47,18,120.0,7.0,14,14,2,62.9,3.6,1,13,9.99,1,0,1,2132.2,0
+SS100029,35,South Korea,iOS,Mobile,Premium,Country,Luke Combs,239.6,76,11,198.5,21.0,13,16,23,50.7,4.4,3,8,9.99,0,0,0,1829.9,0
+SS100030,36,Brazil,Android,Mobile,Family,EDM,Calvin Harris,333.8,62,9,213.5,28.4,11,15,16,70.6,3.1,6,14,14.99,1,0,0,2400.0,0
+SS100031,26,India,Android,Tablet,Premium,Classical,Ludovico Einaudi,60.8,17,11,194.4,18.3,13,9,36,42.6,4.5,6,16,9.99,1,0,3,494.1,0
+SS100032,20,USA,Android,Mobile,Free,Pop,The Weeknd,325.7,69,6,276.7,24.0,11,14,2,30.5,3.9,5,26,0.0,0,0,0,2177.6,0
+SS100033,40,South Korea,iOS,Mobile,Free,K-Pop,BTS,82.0,25,8,165.8,3.0,4,15,27,53.8,4.1,13,12,0.0,0,0,0,597.0,1
+SS100034,55,Japan,Android,Tablet,Free,Lo-fi,Jinsang,150.3,43,6,188.6,13.5,16,14,47,4.9,3.3,6,40,0.0,0,0,0,999.0,0
+SS100035,18,Australia,iOS,Tablet,Free,EDM,Avicii,32.4,8,9,175.6,3.9,9,15,22,0.0,3.2,10,36,0.0,0,0,1,151.4,0
+SS100036,54,France,Web,Laptop,Premium,Classical,Ludovico Einaudi,75.3,17,6,188.6,22.5,14,16,24,56.5,2.2,7,36,9.99,1,0,0,384.4,0
+SS100037,53,India,Android,Mobile,Premium,EDM,David Guetta,182.4,33,6,249.2,6.2,6,12,29,39.6,5.0,7,22,9.99,1,0,0,1132.0,0
+SS100038,28,Japan,Desktop,Mobile,Premium,Pop,Dua Lipa,154.5,50,9,266.2,8.1,8,17,30,56.2,4.6,2,30,9.99,1,0,1,1203.3,0
+SS100039,44,France,iOS,Mobile,Family,Jazz,Chet Baker,81.0,27,8,183.4,20.6,10,18,20,16.2,4.3,7,29,14.99,1,0,0,668.1,0
+SS100040,23,Australia,iOS,Tablet,Premium,K-Pop,NewJeans,108.9,28,1,182.5,24.4,10,18,13,63.3,4.1,4,34,9.99,1,0,0,493.9,0
+SS100041,50,Australia,Android,Mobile,Premium,Lo-fi,Chillhop Music,70.1,18,3,166.0,15.9,11,7,31,49.7,2.0,4,36,9.99,1,1,0,353.7,0
+SS100042,47,UK,Android,Mobile,Free,Lo-fi,Chillhop Music,182.1,35,4,259.6,21.0,8,18,3,34.3,3.2,8,29,0.0,0,0,1,1056.5,1
+SS100043,31,South Korea,iOS,Mobile,Free,EDM,David Guetta,226.0,43,5,252.6,20.8,11,18,33,39.6,3.6,9,30,0.0,0,0,1,1335.6,0
+SS100044,19,Japan,Desktop,Mobile,Premium,Lo-fi,Jinsang,61.0,12,9,206.0,15.5,10,19,20,42.6,2.9,5,28,9.99,0,0,0,432.4,1
+SS100045,59,Australia,iOS,Mobile,Family,Classical,Max Richter,102.2,30,9,156.9,9.3,8,17,24,16.2,2.4,6,30,14.99,1,0,2,763.6,0
+SS100046,36,UK,Android,Mobile,Free,Jazz,Chet Baker,38.3,9,12,160.3,21.0,10,12,18,26.5,3.0,9,20,0.0,0,1,0,429.5,0
+SS100047,56,Australia,Web,Mobile,Student,Jazz,Miles Davis,119.2,25,11,216.5,21.3,7,16,40,42.3,3.8,3,13,5.99,0,0,0,995.1,1
+SS100048,46,Australia,Desktop,Mobile,Premium,Lo-fi,Chillhop Music,141.1,37,12,230.9,23.3,9,12,27,25.6,3.8,10,9,9.99,1,0,0,1214.8,0
+SS100049,51,Canada,iOS,Mobile,Free,K-Pop,NewJeans,125.1,27,10,131.5,19.2,9,12,20,2.7,4.5,19,8,0.0,0,1,0,824.0,0
+SS100050,50,South Korea,Android,Mobile,Student,Hip-Hop,J. Cole,134.6,37,9,197.8,8.8,12,20,20,41.5,5.0,12,10,5.99,1,0,1,1002.3,0
+SS100051,24,Canada,Android,Laptop,Family,Pop,Ariana Grande,95.5,25,12,271.5,21.8,10,18,22,53.4,4.3,2,35,14.99,1,0,0,738.1,0
+SS100052,32,USA,Desktop,Mobile,Premium,EDM,David Guetta,96.9,19,11,201.7,17.0,9,15,50,58.5,3.7,12,43,9.99,1,1,1,819.4,0
+SS100053,37,Japan,Android,Mobile,Free,Classical,Ludovico Einaudi,94.1,26,9,266.6,13.6,12,18,10,46.7,5.0,14,29,0.0,0,1,1,724.5,1
+SS100054,38,Japan,Android,Laptop,Family,Jazz,Miles Davis,73.8,14,12,234.7,14.9,8,14,36,53.0,2.5,22,23,14.99,0,0,0,599.9,0
+SS100055,17,India,iOS,Mobile,Free,EDM,Avicii,79.9,21,1,168.8,12.2,6,16,30,56.7,2.1,9,6,0.0,1,0,0,346.8,0
+SS100056,40,Brazil,iOS,Mobile,Family,Classical,Max Richter,137.4,45,7,198.9,23.2,13,14,41,36.8,3.1,18,18,14.99,1,1,0,856.6,0
+SS100057,22,Australia,Android,Mobile,Free,Lo-fi,Idealism,217.8,60,7,205.1,7.1,12,24,31,0.0,4.4,4,13,0.0,0,0,0,1425.8,0
+SS100058,49,Brazil,iOS,Smart Speaker,Premium,R&B,Frank Ocean,53.7,16,12,173.8,10.0,16,15,24,60.5,3.9,12,13,9.99,0,0,0,462.4,0
+SS100059,46,UK,Desktop,Mobile,Free,EDM,Martin Garrix,96.7,23,13,173.1,14.7,15,10,35,15.3,2.9,14,21,0.0,0,0,0,813.4,0
+SS100060,57,USA,Web,Mobile,Free,Classical,Ludovico Einaudi,45.8,14,3,267.3,28.3,13,18,27,10.1,3.2,18,29,0.0,0,0,0,303.7,0
+SS100061,49,Germany,Android,Mobile,Family,EDM,Martin Garrix,74.6,16,13,172.9,24.4,6,14,32,10.7,2.8,1,20,14.99,1,0,0,707.0,0
+SS100062,32,India,Web,Laptop,Free,Lo-fi,Jinsang,83.0,16,4,251.0,5.5,14,23,40,89.7,2.8,24,61,0.0,0,0,0,413.0,0
+SS100063,59,UK,iOS,Mobile,Free,Lo-fi,Idealism,114.2,29,4,193.4,26.5,16,19,25,44.7,5.0,37,22,0.0,1,0,0,620.7,0
+SS100064,34,India,Android,Laptop,Free,Classical,Max Richter,112.3,33,7,209.0,26.4,11,13,19,12.1,3.7,5,5,0.0,0,0,0,763.3,0
+SS100065,30,Canada,Android,Mobile,Premium,EDM,Avicii,101.6,25,7,231.4,8.8,17,8,17,20.0,5.0,5,49,9.99,1,1,0,667.4,0
+SS100066,56,France,Desktop,Mobile,Premium,Classical,Hans Zimmer,130.8,26,3,187.3,1.0,8,14,29,35.0,3.1,3,19,9.99,0,1,1,753.6,0
+SS100067,32,Germany,Android,Laptop,Family,Hip-Hop,Kendrick Lamar,57.4,13,10,231.6,16.5,7,16,14,46.9,4.2,11,43,14.99,1,2,3,446.9,0
+SS100068,19,Japan,Android,Mobile,Free,EDM,Martin Garrix,114.8,35,10,132.2,24.9,10,18,20,41.1,4.0,4,8,0.0,1,0,0,838.7,0
+SS100069,37,Japan,iOS,Mobile,Student,Rock,Foo Fighters,157.1,36,12,226.7,28.1,14,14,13,14.6,4.5,11,12,5.99,0,0,0,1248.9,0
+SS100070,51,USA,Web,Tablet,Free,Hip-Hop,Drake,56.9,14,6,120.0,10.9,6,12,30,42.0,4.0,8,10,0.0,0,0,2,340.7,0
+SS100071,24,France,Android,Smart Speaker,Premium,Pop,Dua Lipa,27.5,7,8,201.4,29.3,10,15,16,21.6,4.6,7,34,9.99,1,1,0,156.7,0
+SS100072,36,USA,iOS,Mobile,Family,Classical,Ludovico Einaudi,181.3,55,8,242.5,1.4,8,17,10,58.0,4.2,7,39,14.99,1,0,0,1242.9,0
+SS100073,21,UK,Web,Laptop,Premium,Pop,Ariana Grande,46.9,9,14,233.6,14.4,9,14,12,36.2,2.9,1,27,9.99,1,0,0,354.8,0
+SS100074,46,Brazil,Web,Mobile,Premium,Jazz,Miles Davis,72.2,21,1,160.7,14.1,12,18,18,18.3,4.4,7,24,9.99,1,1,0,367.0,0
+SS100075,37,Australia,Web,Laptop,Free,EDM,Avicii,154.5,44,5,165.6,25.1,5,15,19,50.2,3.7,5,6,0.0,0,0,0,991.8,0
+SS100076,30,UK,Android,Laptop,Family,R&B,Frank Ocean,54.9,16,8,183.8,26.1,6,16,27,43.4,3.2,2,12,14.99,1,1,0,384.6,0
+SS100077,26,Canada,Web,Laptop,Student,K-Pop,BLACKPINK,174.2,39,4,217.1,23.7,7,10,22,24.6,4.4,17,14,5.99,1,0,1,1007.0,0
+SS100078,41,Australia,iOS,Mobile,Free,Classical,Yiruma,65.4,16,7,132.8,7.5,8,12,28,51.1,4.5,13,7,0.0,0,0,1,430.7,0
+SS100079,46,Brazil,Android,Mobile,Free,K-Pop,NewJeans,60.0,17,8,209.5,23.0,10,14,29,48.8,3.4,14,19,0.0,0,1,0,359.6,0
+SS100080,58,Japan,Android,Mobile,Free,K-Pop,BLACKPINK,46.0,11,6,221.8,20.6,8,14,32,61.4,3.5,7,27,0.0,1,1,0,379.2,0
+SS100081,35,Canada,iOS,Laptop,Free,Pop,Dua Lipa,65.8,14,8,199.2,5.3,6,15,3,50.6,2.7,35,32,0.0,0,0,0,311.4,0
+SS100082,23,Canada,Android,Laptop,Free,Rock,Coldplay,142.6,39,10,230.0,2.5,5,12,12,30.3,2.4,8,28,0.0,0,0,1,1064.0,0
+SS100083,53,India,iOS,Mobile,Student,Classical,Ludovico Einaudi,72.3,14,7,218.5,24.3,8,15,30,0.0,3.6,6,17,5.99,1,0,0,442.0,0
+SS100084,44,France,Android,Mobile,Premium,Lo-fi,Chillhop Music,181.7,48,6,189.4,15.7,8,13,26,39.1,4.4,6,14,9.99,0,0,0,1215.0,0
+SS100085,47,Brazil,iOS,Laptop,Free,Hip-Hop,Drake,104.1,30,7,136.4,8.0,7,14,35,42.5,3.3,17,17,0.0,0,0,0,677.3,0
+SS100086,20,UK,Android,Mobile,Student,Hip-Hop,Travis Scott,109.7,20,8,215.1,15.5,10,20,7,36.1,4.9,7,18,5.99,0,0,0,869.7,0
+SS100087,30,India,iOS,Tablet,Family,Lo-fi,Idealism,58.8,12,2,173.8,19.5,11,18,19,0.0,3.6,8,10,14.99,1,0,0,299.7,0
+SS100088,50,France,iOS,Mobile,Premium,Lo-fi,Lofi Girl,197.0,51,10,188.0,16.4,8,12,21,49.9,3.6,16,15,9.99,0,0,0,1404.9,0
+SS100089,53,India,Android,Tablet,Student,Hip-Hop,Kendrick Lamar,157.8,31,6,228.2,6.1,5,19,26,14.9,3.6,10,13,5.99,1,0,0,906.4,0
+SS100090,35,USA,Desktop,Mobile,Free,EDM,Martin Garrix,155.3,36,12,263.9,30.2,6,17,24,50.1,4.6,17,46,0.0,0,1,1,1271.4,1
+SS100091,52,South Korea,iOS,Mobile,Family,Jazz,Norah Jones,92.1,24,10,208.6,24.0,5,19,29,72.4,3.0,3,34,14.99,1,1,1,658.1,0
+SS100092,53,Canada,Web,Smart Speaker,Free,Hip-Hop,Drake,41.9,8,12,231.1,14.7,10,7,23,29.4,3.7,8,27,0.0,0,1,0,318.7,0
+SS100093,33,South Korea,Android,Laptop,Free,R&B,SZA,113.3,23,4,155.1,14.9,15,15,39,44.6,3.4,26,11,0.0,1,0,0,667.8,0
+SS100094,56,Germany,Web,Mobile,Family,R&B,Frank Ocean,139.1,37,7,219.3,19.5,7,18,43,35.7,3.4,13,30,14.99,1,0,0,948.8,0
+SS100095,28,Germany,Web,Smart Speaker,Student,Jazz,John Coltrane,139.9,31,4,207.7,9.1,7,19,12,46.6,3.8,11,12,5.99,1,0,0,759.6,0
+SS100096,26,France,Android,Mobile,Premium,R&B,H.E.R.,129.2,33,6,256.7,19.3,9,15,24,37.3,3.7,9,30,9.99,1,1,1,786.6,0
+SS100097,46,India,Desktop,Laptop,Premium,EDM,Avicii,126.0,42,12,189.5,7.7,6,14,33,23.6,4.6,7,17,9.99,1,0,0,938.7,0
+SS100098,44,Canada,Android,Mobile,Premium,Rock,Linkin Park,65.2,12,13,200.8,16.5,8,13,30,15.1,3.8,3,37,9.99,0,0,0,458.9,0
+SS100099,22,Canada,Web,Tablet,Free,K-Pop,TWICE,67.4,15,4,250.2,8.8,5,10,20,70.0,4.2,9,8,0.0,0,0,1,415.1,0
+SS100100,53,Japan,iOS,Smart Speaker,Free,Hip-Hop,Kendrick Lamar,46.3,10,6,206.5,9.2,11,12,27,44.6,3.9,8,29,0.0,0,0,0,329.5,0
+SS100101,24,Canada,Android,Mobile,Free,Rock,Foo Fighters,182.9,41,8,167.9,28.5,6,13,7,53.3,4.9,8,39,0.0,0,0,0,1270.7,0
+SS100102,52,South Korea,iOS,Mobile,Free,Rock,Foo Fighters,279.6,64,10,307.0,17.4,9,16,24,43.8,3.6,7,17,0.0,0,0,0,2098.5,0
+SS100103,16,Japan,Android,Laptop,Family,Lo-fi,Idealism,360.0,97,2,169.0,18.5,10,17,8,56.5,3.6,5,17,14.99,1,0,0,1807.5,0
+SS100104,51,France,Web,Mobile,Free,Lo-fi,Chillhop Music,118.0,22,2,207.5,2.9,10,15,30,15.3,4.4,22,20,0.0,0,0,1,643.0,0
+SS100105,51,South Korea,Web,Mobile,Premium,Classical,Yiruma,126.2,28,10,223.2,12.8,10,15,12,36.8,3.5,1,27,9.99,1,0,0,877.8,0
+SS100106,51,Japan,iOS,Laptop,Premium,Hip-Hop,Kendrick Lamar,94.4,20,1,220.2,20.2,8,14,26,46.1,4.2,7,14,9.99,1,1,1,430.7,0
+SS100107,45,Canada,Android,Mobile,Premium,K-Pop,NewJeans,116.9,28,6,202.8,18.4,6,17,28,63.4,5.0,21,13,9.99,1,0,0,715.2,0
+SS100108,37,Japan,Desktop,Smart Speaker,Student,EDM,Martin Garrix,54.7,15,9,203.0,1.9,8,17,25,93.8,3.0,15,50,5.99,0,2,2,384.9,0
+SS100109,47,Australia,Web,Laptop,Student,Country,Carrie Underwood,93.2,29,9,201.1,18.4,9,18,17,44.0,5.0,7,16,5.99,1,0,0,669.1,0
+SS100110,28,Canada,iOS,Mobile,Family,R&B,H.E.R.,60.4,16,8,167.6,19.6,5,15,22,20.5,3.4,4,19,14.99,1,1,0,395.1,0
+SS100111,51,UK,Android,Mobile,Premium,Lo-fi,Idealism,85.8,25,7,291.7,26.0,12,13,37,8.7,4.9,1,15,9.99,1,1,1,597.7,0
+SS100112,41,South Korea,iOS,Tablet,Premium,Country,Morgan Wallen,63.9,14,11,201.6,12.4,2,11,19,15.1,4.3,8,28,9.99,1,0,2,440.7,0
+SS100113,36,Japan,Android,Mobile,Family,Rock,Foo Fighters,139.2,27,9,232.7,1.3,12,16,24,18.0,4.3,11,13,14.99,1,1,3,982.2,0
+SS100114,38,India,Web,Smart Speaker,Premium,K-Pop,NewJeans,149.4,40,6,197.3,10.0,3,8,18,0.0,3.7,4,18,9.99,1,1,0,964.7,0
+SS100115,41,Canada,Android,Mobile,Free,Rock,Imagine Dragons,124.0,32,8,196.5,9.3,7,8,35,20.1,3.6,20,35,0.0,0,0,0,809.4,0
+SS100116,17,Germany,Android,Mobile,Premium,R&B,SZA,67.5,14,9,192.7,22.2,6,17,25,50.8,3.2,6,32,9.99,1,0,0,486.2,0
+SS100117,22,Japan,Android,Mobile,Free,Rock,Coldplay,44.0,13,14,151.1,1.0,10,17,16,36.7,3.8,10,16,0.0,1,0,2,388.6,0
+SS100118,27,Canada,Android,Mobile,Premium,Jazz,Chet Baker,150.4,28,11,203.9,13.9,6,12,24,29.3,3.7,7,20,9.99,1,0,2,1089.7,0
+SS100119,21,Japan,iOS,Mobile,Family,Rock,Foo Fighters,103.8,27,12,194.5,27.0,6,14,21,0.0,4.0,15,11,14.99,0,0,0,745.9,0
+SS100120,35,UK,Web,Mobile,Student,Jazz,Chet Baker,26.6,8,6,254.5,17.1,8,11,39,58.1,2.7,16,20,5.99,1,0,0,169.4,0
+SS100121,46,USA,Desktop,Mobile,Student,Classical,Max Richter,112.7,33,6,164.5,23.3,11,12,24,46.3,3.8,10,55,5.99,1,1,0,675.1,0
+SS100122,45,India,Android,Mobile,Free,K-Pop,TWICE,126.8,24,7,188.1,5.5,11,11,9,34.7,4.8,10,31,0.0,0,1,1,803.1,0
+SS100123,37,South Korea,Android,Mobile,Family,Lo-fi,Idealism,33.9,9,7,175.9,5.8,11,12,29,0.0,4.6,7,11,14.99,1,1,0,248.6,0
+SS100124,54,Brazil,Android,Mobile,Free,Pop,The Weeknd,140.6,30,4,264.8,27.1,11,15,44,24.2,3.8,36,7,0.0,0,0,2,695.3,0
+SS100125,41,South Korea,Web,Mobile,Free,Lo-fi,Chillhop Music,37.9,11,12,177.0,17.7,9,22,37,44.5,5.0,23,11,0.0,0,0,1,185.3,1
+SS100126,19,Germany,Desktop,Mobile,Free,Hip-Hop,Kendrick Lamar,62.8,18,11,231.4,17.7,8,14,12,34.4,3.3,8,9,0.0,0,1,1,561.2,0
+SS100127,50,Germany,Android,Smart Speaker,Free,Classical,Yiruma,38.1,7,7,246.9,9.2,3,13,21,39.2,3.7,6,18,0.0,0,1,0,305.9,0
+SS100128,41,UK,Android,Mobile,Student,R&B,SZA,58.4,17,10,204.4,17.7,8,19,24,50.1,2.6,14,36,5.99,1,0,0,482.8,0
+SS100129,44,India,Desktop,Mobile,Student,Jazz,Miles Davis,44.3,15,9,157.7,9.0,11,13,24,38.4,3.5,4,18,5.99,0,1,0,270.0,0
+SS100130,41,Japan,iOS,Smart Speaker,Free,K-Pop,BTS,182.2,43,11,158.2,25.3,12,11,28,49.3,5.0,20,13,0.0,0,2,0,1366.5,0
+SS100131,40,USA,Android,Tablet,Free,Country,Carrie Underwood,89.1,17,3,242.7,36.1,11,13,20,16.4,3.5,5,16,0.0,0,1,1,424.7,1
+SS100132,20,South Korea,Android,Mobile,Free,EDM,Martin Garrix,77.5,20,7,162.1,20.4,15,15,14,8.1,2.6,10,26,0.0,0,0,0,503.4,0
+SS100133,41,India,Android,Tablet,Free,Lo-fi,Jinsang,192.0,58,8,224.9,12.6,12,19,34,45.5,4.5,5,22,0.0,0,0,2,1311.8,0
+SS100134,51,France,Android,Tablet,Free,R&B,Frank Ocean,186.5,34,10,214.3,1.0,12,13,12,50.0,4.1,30,11,0.0,0,1,1,1264.0,0
+SS100135,29,Australia,iOS,Laptop,Premium,Rock,Foo Fighters,81.5,17,6,224.3,5.2,7,14,15,46.4,4.5,3,31,9.99,1,0,0,539.7,1
+SS100136,43,UK,iOS,Laptop,Free,R&B,H.E.R.,122.5,24,1,227.9,27.9,8,12,12,37.9,3.6,14,10,0.0,0,0,2,564.2,0
+SS100137,17,UK,Android,Laptop,Free,Classical,Yiruma,71.0,15,4,174.5,9.8,7,12,31,27.9,3.0,10,21,0.0,0,0,0,477.7,0
+SS100138,31,Brazil,iOS,Smart Speaker,Free,Jazz,John Coltrane,97.6,21,8,172.9,14.4,14,15,25,39.6,3.7,7,15,0.0,1,0,0,674.9,0
+SS100139,35,South Korea,Android,Mobile,Student,Country,Luke Combs,50.1,13,8,237.2,21.6,10,17,34,43.3,4.2,4,17,5.99,1,1,0,232.5,0
+SS100140,60,Australia,Android,Tablet,Free,Rock,Foo Fighters,133.1,35,14,186.1,27.4,11,11,15,44.7,3.7,20,10,0.0,0,0,0,1034.6,0
+SS100141,25,Australia,Android,Mobile,Free,R&B,Frank Ocean,196.3,41,10,120.0,15.6,5,11,10,92.4,4.1,46,20,0.0,0,0,0,1416.3,1
+SS100142,28,South Korea,Android,Laptop,Family,Lo-fi,Jinsang,177.1,37,8,234.7,14.2,6,27,19,14.7,3.4,17,10,14.99,1,1,0,1170.7,0
+SS100143,34,Australia,Desktop,Smart Speaker,Free,EDM,Martin Garrix,106.7,20,8,170.6,17.5,8,13,22,100.0,4.1,7,14,0.0,0,0,0,744.8,0
+SS100144,60,Canada,Android,Mobile,Student,Rock,Imagine Dragons,24.6,6,12,227.8,12.6,12,13,26,7.3,3.8,13,17,5.99,1,0,0,195.8,0
+SS100145,54,France,Android,Mobile,Student,Lo-fi,Idealism,68.9,18,6,262.9,13.0,17,18,5,43.5,3.2,6,12,5.99,1,0,0,497.2,0
+SS100146,17,South Korea,Web,Tablet,Free,EDM,Calvin Harris,97.5,23,8,210.6,19.9,9,15,29,8.7,3.9,11,40,0.0,0,0,0,577.8,0
+SS100147,26,Germany,Android,Laptop,Student,Lo-fi,Idealism,40.2,9,4,247.8,18.3,4,9,14,41.7,3.5,8,14,5.99,1,1,0,287.9,0
+SS100148,52,India,Android,Laptop,Premium,Lo-fi,Lofi Girl,35.3,9,13,215.8,31.9,11,12,17,56.6,4.3,7,16,9.99,1,0,0,352.1,0
+SS100149,18,Canada,Android,Smart Speaker,Premium,Lo-fi,Lofi Girl,226.9,46,9,270.3,20.1,6,11,37,35.7,4.5,10,20,9.99,1,0,0,1616.0,0
+SS100150,54,France,Android,Mobile,Free,Classical,Hans Zimmer,165.5,37,6,169.6,25.1,13,11,2,56.4,4.2,8,8,0.0,0,0,1,1054.9,0
+SS100151,28,France,Android,Laptop,Free,K-Pop,BTS,139.1,46,8,209.7,9.5,7,13,28,25.7,2.5,14,6,0.0,0,0,1,923.0,0
+SS100152,57,Brazil,iOS,Laptop,Free,Lo-fi,Jinsang,154.6,35,10,235.6,20.7,4,11,28,0.0,3.0,7,17,0.0,0,0,0,1080.2,0
+SS100153,29,Australia,Android,Mobile,Student,Rock,Imagine Dragons,45.4,10,7,202.8,11.9,9,12,15,48.8,3.3,7,7,5.99,1,1,1,324.5,0
+SS100154,35,South Korea,Android,Mobile,Premium,Pop,The Weeknd,57.1,11,6,253.8,19.8,6,20,19,35.7,3.2,7,24,9.99,0,0,0,369.6,0
+SS100155,45,Germany,Web,Laptop,Free,R&B,SZA,118.2,29,6,193.6,21.8,7,17,37,24.4,3.4,19,24,0.0,0,0,0,731.7,0
+SS100156,21,India,Android,Laptop,Free,Jazz,Miles Davis,123.7,28,9,288.6,17.3,19,22,46,26.0,4.5,9,24,0.0,0,0,0,905.0,0
+SS100157,41,Canada,Android,Laptop,Family,Classical,Hans Zimmer,38.5,9,7,290.6,33.9,15,11,36,43.9,4.4,10,30,14.99,1,0,1,224.3,0
+SS100158,38,Canada,Android,Mobile,Free,Pop,Dua Lipa,113.3,26,6,220.7,27.0,8,18,45,17.1,3.5,15,17,0.0,0,0,1,764.2,0
+SS100159,51,Brazil,Android,Laptop,Student,Classical,Max Richter,98.6,31,3,231.0,25.2,11,13,16,43.3,4.3,19,41,5.99,1,1,0,514.8,0
+SS100160,60,UK,iOS,Mobile,Premium,Hip-Hop,Kendrick Lamar,173.9,33,8,255.3,22.4,7,13,7,61.2,4.1,5,22,9.99,0,0,1,1226.4,0
+SS100161,45,Japan,Android,Mobile,Free,Classical,Yiruma,124.1,24,7,164.9,29.3,8,16,23,80.3,3.8,20,39,0.0,0,1,0,777.0,0
+SS100162,34,UK,Android,Laptop,Free,Classical,Max Richter,241.4,55,7,160.1,6.9,8,15,33,65.9,4.7,14,29,0.0,0,1,0,1607.3,0
+SS100163,34,Brazil,iOS,Laptop,Free,Jazz,Miles Davis,81.8,19,9,257.7,26.6,9,25,4,38.6,3.3,21,17,0.0,0,0,0,570.8,0
+SS100164,34,Canada,Web,Tablet,Family,EDM,Martin Garrix,47.5,15,11,220.4,10.1,8,21,14,40.7,3.8,7,22,14.99,1,0,1,365.8,0
+SS100165,52,UK,iOS,Mobile,Free,EDM,David Guetta,237.9,53,10,201.4,13.0,8,12,15,26.2,3.0,6,26,0.0,0,1,0,1837.1,0
+SS100166,30,Japan,Android,Tablet,Free,Jazz,Miles Davis,127.9,31,10,210.4,20.9,8,17,28,24.8,3.0,9,6,0.0,0,0,0,873.6,0
+SS100167,23,France,Android,Smart Speaker,Free,K-Pop,BLACKPINK,98.9,21,7,120.0,25.6,8,17,27,54.2,2.7,15,8,0.0,1,0,0,625.0,0
+SS100168,31,Japan,Android,Mobile,Free,Country,Morgan Wallen,58.6,19,6,202.8,8.9,11,18,15,28.2,3.0,7,45,0.0,0,0,0,340.1,0
+SS100169,17,Germany,Android,Mobile,Premium,R&B,H.E.R.,82.4,17,4,181.4,13.4,8,19,26,43.1,3.9,5,26,9.99,1,0,0,487.4,0
+SS100170,20,France,Android,Smart Speaker,Free,EDM,Martin Garrix,79.7,21,6,244.9,17.7,12,13,11,13.8,3.6,10,34,0.0,0,0,0,510.8,0
+SS100171,20,South Korea,iOS,Mobile,Premium,R&B,Frank Ocean,46.1,10,8,247.8,15.7,7,14,19,65.1,3.6,0,17,9.99,1,1,0,322.0,0
+SS100172,50,France,Desktop,Laptop,Premium,Classical,Max Richter,18.7,4,5,231.9,23.0,14,14,10,27.9,3.6,6,39,9.99,1,0,1,80.0,0
+SS100173,48,India,Web,Laptop,Premium,Hip-Hop,J. Cole,78.5,22,8,225.0,41.1,8,18,22,58.9,5.0,7,17,9.99,1,0,1,538.8,0
+SS100174,47,South Korea,Android,Mobile,Free,EDM,Martin Garrix,156.9,38,5,153.1,19.9,10,20,15,19.5,2.9,5,26,0.0,0,0,0,957.7,1
+SS100175,36,Germany,Web,Tablet,Family,Hip-Hop,J. Cole,205.8,40,2,232.4,11.9,6,13,32,18.4,2.8,3,42,14.99,1,1,1,1048.5,0
+SS100176,48,Brazil,Android,Mobile,Premium,Classical,Yiruma,177.7,39,11,233.9,7.9,10,18,24,64.2,3.1,3,28,9.99,1,1,0,1445.7,0
+SS100177,23,France,Web,Mobile,Free,Country,Morgan Wallen,183.6,58,6,257.3,14.7,12,17,22,21.2,3.7,13,10,0.0,0,0,0,1162.8,0
+SS100178,56,Germany,iOS,Mobile,Premium,Lo-fi,Jinsang,50.0,12,5,290.5,10.4,8,23,43,0.5,4.2,5,18,9.99,1,0,0,301.2,0
+SS100179,38,Brazil,iOS,Tablet,Family,EDM,Avicii,119.5,32,4,145.7,20.3,9,13,28,12.1,4.3,6,23,14.99,1,1,0,575.3,0
+SS100180,58,France,Android,Mobile,Free,Pop,Dua Lipa,139.7,30,9,195.2,20.2,5,9,20,53.8,4.6,3,27,0.0,0,0,0,1003.2,0
+SS100181,22,USA,iOS,Laptop,Family,Rock,Linkin Park,144.9,32,13,181.8,13.8,11,13,18,51.7,3.7,15,37,14.99,1,0,0,1216.9,0
+SS100182,38,Japan,iOS,Mobile,Student,Hip-Hop,Drake,97.6,32,7,216.6,30.9,9,8,11,18.2,3.5,18,27,5.99,1,0,0,611.5,1
+SS100183,47,Japan,iOS,Mobile,Premium,K-Pop,BLACKPINK,111.0,25,7,210.5,11.9,5,11,23,21.1,5.0,2,19,9.99,1,2,0,753.4,0
+SS100184,38,USA,iOS,Mobile,Family,Lo-fi,Chillhop Music,174.8,36,12,201.1,16.2,9,19,27,49.8,1.6,5,16,14.99,1,0,0,1408.0,0
+SS100185,36,India,Android,Mobile,Free,Classical,Ludovico Einaudi,136.8,28,2,249.0,21.5,8,16,3,64.0,3.9,11,17,0.0,1,0,1,699.0,0
+SS100186,23,Brazil,iOS,Mobile,Premium,Hip-Hop,J. Cole,151.6,48,15,168.1,23.2,12,15,9,33.5,4.1,9,14,9.99,1,0,0,1416.1,0
+SS100187,33,Canada,Android,Mobile,Free,Pop,Dua Lipa,76.2,20,17,170.4,25.9,7,14,18,47.2,5.0,10,14,0.0,0,0,0,759.0,0
+SS100188,26,Canada,Android,Mobile,Premium,Lo-fi,Jinsang,147.1,36,1,171.1,20.0,13,13,12,54.2,2.5,14,34,9.99,1,0,1,632.8,0
+SS100189,29,UK,iOS,Mobile,Premium,R&B,H.E.R.,110.2,32,8,196.3,24.4,6,9,24,82.4,3.5,2,21,9.99,1,0,2,692.6,0
+SS100190,46,Germany,Android,Laptop,Free,Hip-Hop,Travis Scott,164.9,41,5,163.3,12.3,4,10,26,9.6,2.7,12,15,0.0,1,1,1,993.5,0
+SS100191,44,UK,Android,Mobile,Student,Hip-Hop,Travis Scott,65.2,21,7,208.2,23.4,8,14,23,20.3,2.4,9,20,5.99,1,1,0,479.2,0
+SS100192,43,India,Android,Mobile,Free,Rock,Linkin Park,157.3,48,7,203.7,23.3,5,16,30,23.9,3.6,8,15,0.0,0,2,2,957.7,1
+SS100193,32,India,iOS,Mobile,Free,Jazz,Norah Jones,83.1,18,11,180.1,27.6,11,12,18,53.2,4.5,5,6,0.0,0,0,1,640.0,0
+SS100194,59,UK,Desktop,Smart Speaker,Free,Country,Carrie Underwood,157.8,43,8,243.2,5.3,12,15,23,29.5,4.8,7,27,0.0,0,1,2,1191.7,0
+SS100195,19,Brazil,iOS,Laptop,Free,Rock,Imagine Dragons,120.0,25,5,207.7,10.6,10,18,13,41.9,3.4,30,35,0.0,0,0,0,663.5,0
+SS100196,31,Germany,Web,Smart Speaker,Free,Jazz,Norah Jones,105.4,34,7,250.4,22.8,12,21,27,37.7,4.3,12,32,0.0,0,0,0,798.0,0
+SS100197,21,Japan,Android,Mobile,Free,Pop,Dua Lipa,86.0,20,10,202.6,1.0,7,9,25,35.0,3.6,8,31,0.0,0,1,1,604.0,1
+SS100198,31,Germany,Android,Tablet,Premium,Pop,Ariana Grande,99.2,25,4,209.1,20.4,8,22,11,37.4,4.2,1,10,9.99,1,0,1,543.1,0
+SS100199,59,UK,Android,Mobile,Premium,Pop,The Weeknd,78.6,16,2,188.6,24.4,9,19,22,57.7,4.7,9,39,9.99,1,0,0,366.0,0
+SS100200,32,France,Android,Laptop,Premium,Lo-fi,Chillhop Music,84.9,17,15,209.7,13.0,10,15,24,13.6,3.6,5,14,9.99,1,0,0,707.5,0
+SS100201,56,Germany,Desktop,Mobile,Free,Classical,Ludovico Einaudi,134.7,34,6,237.1,14.0,11,9,27,31.7,4.7,17,9,0.0,1,0,0,748.4,0
+SS100202,38,Brazil,Android,Laptop,Family,Country,Carrie Underwood,30.2,7,8,194.4,9.5,3,14,27,8.3,2.8,20,4,14.99,1,0,0,190.6,0
+SS100203,47,Australia,Android,Tablet,Premium,Pop,Ariana Grande,156.5,44,7,229.7,13.3,13,17,16,40.0,4.3,13,23,9.99,1,1,0,1020.5,0
+SS100204,36,Australia,iOS,Laptop,Free,Pop,Dua Lipa,158.0,36,10,179.1,13.6,6,15,32,30.7,4.6,3,40,0.0,1,1,1,1161.1,0
+SS100205,27,France,iOS,Mobile,Free,Country,Chris Stapleton,87.6,27,14,238.8,12.2,13,13,30,58.5,4.5,8,37,0.0,1,1,0,736.2,0
+SS100206,50,Canada,iOS,Laptop,Premium,Hip-Hop,Kendrick Lamar,112.8,28,10,188.0,11.8,8,17,16,34.9,2.9,2,20,9.99,1,0,0,918.7,0
+SS100207,59,South Korea,Android,Laptop,Free,Hip-Hop,J. Cole,54.4,16,3,242.4,15.1,4,11,11,25.2,3.6,9,33,0.0,1,0,1,335.1,0
+SS100208,27,India,Desktop,Mobile,Student,Classical,Yiruma,129.7,25,3,212.3,15.0,11,17,17,29.6,4.0,15,56,5.99,1,0,1,672.3,0
+SS100209,51,France,Android,Mobile,Family,Jazz,John Coltrane,59.1,14,7,267.8,30.1,12,14,8,72.9,4.2,4,16,14.99,1,0,0,411.2,0
+SS100210,27,Japan,Android,Laptop,Free,Rock,Linkin Park,9.1,2,7,166.1,14.2,11,16,26,0.5,3.9,17,25,0.0,1,0,0,30.0,0
+SS100211,48,South Korea,Web,Mobile,Free,EDM,David Guetta,201.3,52,2,153.9,19.4,6,16,37,21.2,4.9,11,40,0.0,0,1,0,1025.2,0
+SS100212,51,Canada,Desktop,Mobile,Family,Jazz,Norah Jones,50.3,14,11,186.6,13.0,9,18,40,35.8,2.8,12,9,14.99,1,1,0,383.4,0
+SS100213,36,Brazil,Desktop,Tablet,Premium,EDM,Martin Garrix,97.9,28,4,157.4,12.9,10,13,12,21.0,3.6,2,9,9.99,0,0,0,546.5,0
+SS100214,49,Japan,iOS,Smart Speaker,Free,R&B,Bruno Mars,115.3,22,13,157.5,5.1,10,15,33,45.8,2.4,9,44,0.0,0,1,0,962.0,0
+SS100215,28,India,Web,Mobile,Family,Pop,Dua Lipa,134.6,27,14,233.6,6.0,8,14,25,33.8,4.3,26,34,14.99,0,1,1,1104.6,0
+SS100216,19,Brazil,Android,Smart Speaker,Family,EDM,David Guetta,103.2,31,7,209.8,8.6,8,13,2,40.6,4.2,3,13,14.99,1,0,0,626.7,0
+SS100217,20,South Korea,Web,Tablet,Student,Country,Carrie Underwood,121.3,25,10,191.8,18.3,7,15,20,37.6,5.0,15,10,5.99,1,1,0,964.1,0
+SS100218,36,South Korea,Web,Laptop,Premium,Jazz,Chet Baker,86.3,21,4,195.3,24.5,9,17,19,32.7,4.6,10,10,9.99,1,0,2,529.4,0
+SS100219,56,Japan,Android,Laptop,Free,Country,Carrie Underwood,34.5,11,10,187.3,4.5,10,21,37,6.6,4.1,5,22,0.0,0,0,0,242.0,0
+SS100220,21,South Korea,Android,Smart Speaker,Free,Hip-Hop,J. Cole,100.8,23,6,272.7,13.2,10,11,14,38.9,4.0,7,13,0.0,0,1,0,553.9,0
+SS100221,36,UK,Web,Laptop,Premium,Pop,The Weeknd,145.3,44,4,182.1,7.4,12,9,30,0.0,3.5,5,13,9.99,1,0,0,719.1,1
+SS100222,47,Brazil,Android,Mobile,Free,Classical,Yiruma,52.5,15,7,159.8,15.2,8,21,23,20.2,3.9,19,10,0.0,0,0,0,424.9,0
+SS100223,25,UK,Desktop,Mobile,Premium,Hip-Hop,Kendrick Lamar,116.0,24,6,240.2,24.5,12,18,8,45.8,4.0,4,20,9.99,0,0,0,726.2,0
+SS100224,48,South Korea,Web,Mobile,Premium,Classical,Max Richter,268.3,74,7,201.8,13.9,15,7,18,61.2,2.2,11,9,9.99,1,3,0,1781.4,0
+SS100225,29,Germany,Web,Mobile,Free,Lo-fi,Chillhop Music,96.8,19,11,287.5,16.7,9,14,41,86.7,4.0,9,28,0.0,0,1,1,706.4,0
+SS100226,52,South Korea,Android,Mobile,Premium,R&B,Frank Ocean,99.9,22,5,190.0,27.2,13,15,22,25.6,3.9,9,37,9.99,1,0,0,580.5,0
+SS100227,42,UK,iOS,Mobile,Free,Classical,Ludovico Einaudi,32.4,6,14,242.1,20.2,7,19,34,16.0,5.0,30,23,0.0,0,0,0,252.9,0
+SS100228,40,Canada,Web,Mobile,Family,Jazz,Norah Jones,48.2,11,3,251.1,11.7,7,19,33,46.5,3.7,11,34,14.99,1,0,0,267.9,0
+SS100229,23,France,Android,Mobile,Free,Hip-Hop,Drake,59.5,12,14,190.2,18.1,10,14,19,76.1,3.2,11,18,0.0,0,1,1,515.1,0
+SS100230,36,France,Android,Tablet,Premium,Country,Luke Combs,142.0,36,4,181.8,11.2,10,20,10,68.7,4.0,1,12,9.99,1,0,1,777.9,0
+SS100231,54,USA,iOS,Mobile,Premium,Rock,Linkin Park,55.0,13,8,238.2,19.9,8,12,11,12.2,3.9,18,16,9.99,0,1,0,325.4,0
+SS100232,16,Canada,Android,Laptop,Free,Country,Luke Combs,24.2,6,6,231.8,20.6,5,19,40,31.9,3.7,19,7,0.0,1,2,0,143.8,0
+SS100233,50,USA,Android,Laptop,Premium,Jazz,Miles Davis,128.2,24,7,156.4,7.4,14,11,26,53.7,2.8,9,14,9.99,1,1,0,759.9,0
+SS100234,38,Brazil,Android,Smart Speaker,Premium,Hip-Hop,Drake,63.2,19,11,167.1,18.2,8,19,5,55.2,3.7,5,18,9.99,1,0,1,456.9,0
+SS100235,48,India,Android,Mobile,Premium,K-Pop,BTS,33.4,8,13,120.0,16.2,9,10,33,48.0,3.3,1,20,9.99,1,1,1,276.8,0
+SS100236,45,India,iOS,Mobile,Premium,Hip-Hop,J. Cole,152.1,31,12,232.6,20.8,6,10,4,25.1,3.6,11,34,9.99,1,0,2,1233.0,0
+SS100237,35,Germany,Android,Laptop,Family,Classical,Yiruma,80.2,20,7,200.1,22.8,12,17,15,47.8,4.4,7,41,14.99,1,0,0,595.5,1
+SS100238,29,South Korea,iOS,Laptop,Student,Lo-fi,Jinsang,135.1,26,9,203.8,20.3,9,18,25,55.4,3.3,25,22,5.99,1,0,1,904.0,0
+SS100239,44,Japan,Web,Tablet,Student,Lo-fi,Chillhop Music,32.5,8,5,145.7,14.9,11,17,52,14.5,3.6,12,10,5.99,1,1,0,193.5,0
+SS100240,22,Brazil,iOS,Mobile,Free,Country,Luke Combs,17.0,5,5,168.3,23.5,6,14,33,64.3,4.2,14,10,0.0,0,0,0,30.0,1
+SS100241,42,Germany,iOS,Mobile,Premium,EDM,David Guetta,109.6,25,4,191.8,10.9,5,11,19,56.8,3.6,30,14,9.99,0,1,0,601.2,1
+SS100242,20,USA,Android,Mobile,Student,Classical,Hans Zimmer,47.0,12,6,184.5,7.8,6,17,24,18.7,5.0,7,12,5.99,0,0,3,254.4,0
+SS100243,45,UK,Android,Laptop,Student,R&B,Bruno Mars,108.6,36,9,214.5,1.0,9,10,34,55.3,4.0,23,22,5.99,0,0,1,734.1,0
+SS100244,44,Brazil,iOS,Mobile,Free,Lo-fi,Jinsang,110.0,35,1,232.2,16.5,8,15,40,52.9,2.8,3,10,0.0,1,1,0,553.3,0
+SS100245,19,France,Web,Mobile,Family,EDM,Calvin Harris,101.8,29,8,296.2,11.2,9,25,21,53.7,3.1,35,42,14.99,1,0,2,673.7,0
+SS100246,50,India,Web,Laptop,Free,K-Pop,NewJeans,182.8,37,13,209.2,19.8,9,8,22,69.7,3.0,20,31,0.0,0,0,0,1414.2,0
+SS100247,34,Canada,iOS,Mobile,Premium,R&B,Bruno Mars,360.0,69,12,252.4,3.2,9,11,15,34.8,3.1,3,35,9.99,0,0,0,2400.0,1
+SS100248,51,USA,Android,Mobile,Free,K-Pop,BLACKPINK,126.8,29,6,178.5,12.5,10,12,31,42.3,4.2,32,13,0.0,0,2,1,744.1,1
+SS100249,17,USA,iOS,Mobile,Family,Rock,Linkin Park,268.2,82,3,146.4,20.3,8,11,35,0.0,2.9,0,10,14.99,1,0,0,1526.0,0
+SS100250,24,Canada,Desktop,Tablet,Free,K-Pop,BLACKPINK,81.6,19,10,196.6,9.8,7,19,3,59.5,3.5,3,13,0.0,0,0,1,682.1,0
+SS100251,38,USA,Desktop,Laptop,Free,Pop,Taylor Swift,40.9,8,1,149.3,19.9,8,14,20,57.4,4.7,10,21,0.0,0,0,0,266.3,0
+SS100252,24,UK,Desktop,Mobile,Family,Hip-Hop,J. Cole,66.0,14,12,210.6,13.1,7,14,11,64.8,3.4,18,19,14.99,0,0,0,454.2,0
+SS100253,30,Australia,Android,Mobile,Family,R&B,H.E.R.,84.7,23,7,180.3,16.8,11,10,26,14.4,4.3,9,39,14.99,0,0,0,572.5,0
+SS100254,45,Japan,Web,Smart Speaker,Free,EDM,David Guetta,280.8,85,14,135.7,21.2,10,14,10,56.2,2.5,5,43,0.0,1,0,0,2376.6,0
+SS100255,22,Germany,Android,Mobile,Student,K-Pop,NewJeans,105.4,20,2,276.0,23.7,10,11,9,57.4,3.5,3,21,5.99,1,1,0,599.6,0
+SS100256,46,Germany,Android,Mobile,Premium,R&B,H.E.R.,186.6,36,11,189.6,17.6,11,15,36,20.7,3.1,4,8,9.99,1,0,0,1527.0,0
+SS100257,20,Brazil,iOS,Tablet,Family,Pop,Dua Lipa,77.4,25,8,147.8,11.3,6,13,22,58.2,4.0,10,16,14.99,1,0,0,572.1,0
+SS100258,23,UK,Android,Mobile,Free,R&B,Frank Ocean,71.5,14,7,244.1,13.8,13,15,23,45.2,3.0,13,70,0.0,0,0,0,443.9,0
+SS100259,42,India,Android,Smart Speaker,Student,EDM,Avicii,31.5,10,3,182.3,21.5,8,16,29,0.0,5.0,17,8,5.99,1,0,1,189.6,0
+SS100260,51,India,Android,Laptop,Premium,Classical,Yiruma,275.8,87,10,251.4,9.9,13,13,35,47.9,2.5,1,23,9.99,1,0,1,2068.3,0
+SS100261,23,South Korea,Android,Laptop,Premium,Jazz,Norah Jones,221.8,45,10,182.1,15.8,6,8,19,18.1,4.7,12,13,9.99,0,1,0,1637.6,0
+SS100262,29,South Korea,Android,Laptop,Premium,Rock,Foo Fighters,116.7,27,14,189.4,14.3,6,22,20,0.0,4.5,2,53,9.99,1,0,0,1020.9,0
+SS100263,57,Canada,iOS,Mobile,Premium,Jazz,Norah Jones,87.8,22,12,223.1,16.3,9,18,20,43.1,4.0,21,24,9.99,1,0,1,594.0,0
+SS100264,60,Japan,Android,Smart Speaker,Free,Jazz,Norah Jones,107.8,20,6,232.5,9.9,13,18,36,33.6,3.8,18,13,0.0,0,0,0,621.5,1
+SS100265,42,UK,iOS,Mobile,Family,K-Pop,TWICE,39.7,8,4,239.2,4.0,11,7,23,65.9,5.0,6,15,14.99,1,1,0,328.2,0
+SS100266,36,Canada,iOS,Mobile,Family,Classical,Yiruma,135.0,43,3,206.6,20.6,7,10,21,39.0,5.0,5,5,14.99,1,1,1,726.4,0
+SS100267,31,Brazil,Android,Mobile,Premium,Country,Morgan Wallen,211.6,47,13,230.1,23.7,4,19,28,52.1,3.6,10,23,9.99,0,0,0,1765.1,0
+SS100268,43,France,Web,Mobile,Free,Rock,Imagine Dragons,217.6,44,5,238.3,4.5,3,16,44,46.2,3.9,21,23,0.0,0,0,0,1254.4,0
+SS100269,42,Brazil,Android,Mobile,Free,K-Pop,NewJeans,32.5,7,13,217.6,19.6,14,10,25,57.5,3.4,12,8,0.0,0,0,1,250.2,0
+SS100270,29,France,Web,Mobile,Premium,Pop,Dua Lipa,185.6,34,10,204.6,24.6,6,18,21,15.5,2.9,6,27,9.99,1,0,2,1393.0,0
+SS100271,17,France,Desktop,Mobile,Free,Hip-Hop,Travis Scott,39.9,8,9,155.1,21.2,8,10,45,39.4,4.2,8,43,0.0,0,0,0,267.1,0
+SS100272,22,India,Desktop,Tablet,Family,Country,Morgan Wallen,18.1,6,7,232.8,14.1,8,8,39,31.9,4.0,6,9,14.99,1,0,1,30.0,0
+SS100273,59,Australia,iOS,Laptop,Free,EDM,Martin Garrix,189.6,54,10,211.6,10.4,13,13,37,49.4,2.5,23,27,0.0,0,1,0,1395.2,1
+SS100274,34,Australia,Web,Mobile,Premium,Jazz,Miles Davis,73.4,14,8,194.3,17.6,10,17,18,40.6,4.2,13,27,9.99,1,0,0,569.8,0
+SS100275,37,USA,Android,Mobile,Family,Jazz,John Coltrane,174.7,32,7,258.6,18.7,8,20,17,21.5,4.0,19,21,14.99,1,1,0,1061.5,0
+SS100276,37,UK,Desktop,Tablet,Free,Jazz,John Coltrane,165.8,51,10,155.7,17.7,4,13,4,27.6,3.3,5,22,0.0,0,0,0,1227.5,0
+SS100277,51,France,Android,Laptop,Free,Rock,Imagine Dragons,154.0,47,7,272.5,15.7,11,25,35,71.3,3.3,8,15,0.0,0,0,1,1077.7,0
+SS100278,18,USA,iOS,Mobile,Premium,Hip-Hop,J. Cole,107.0,22,5,209.2,9.4,10,9,25,0.0,4.1,12,5,9.99,1,0,0,597.0,0
+SS100279,19,Australia,iOS,Smart Speaker,Premium,Pop,Ariana Grande,43.2,14,10,222.1,20.0,5,18,4,50.6,5.0,2,24,9.99,1,0,0,344.4,0
+SS100280,28,Australia,Web,Mobile,Student,Country,Luke Combs,84.8,27,8,195.0,20.3,7,13,37,62.3,4.1,18,31,5.99,0,0,0,761.7,0
+SS100281,37,Brazil,iOS,Mobile,Premium,Rock,Foo Fighters,219.6,42,10,146.7,18.4,9,12,20,47.7,4.4,13,11,9.99,0,1,1,1645.1,0
+SS100282,46,Germany,Android,Mobile,Family,Classical,Ludovico Einaudi,177.2,35,6,204.7,17.8,7,17,22,78.4,3.1,9,13,14.99,0,0,2,1110.3,1
+SS100283,38,India,Android,Smart Speaker,Student,EDM,Calvin Harris,87.6,17,4,222.7,28.8,7,15,7,55.6,3.5,2,12,5.99,1,0,0,543.9,0
+SS100284,35,Australia,Web,Tablet,Free,Hip-Hop,Travis Scott,87.0,19,14,235.7,12.6,9,18,29,43.5,4.3,13,25,0.0,0,0,0,777.5,1
+SS100285,58,Canada,Desktop,Laptop,Free,EDM,Calvin Harris,146.1,38,13,202.5,26.0,6,10,30,24.7,2.7,10,23,0.0,1,0,0,1184.4,0
+SS100286,23,USA,Android,Mobile,Free,Pop,Dua Lipa,111.7,21,11,126.7,11.9,7,18,23,43.9,4.0,15,11,0.0,0,0,3,772.5,0
+SS100287,41,France,iOS,Mobile,Free,Hip-Hop,Drake,90.5,24,7,151.4,24.8,13,14,19,50.0,4.2,27,19,0.0,0,0,1,591.8,0
+SS100288,40,Germany,iOS,Mobile,Free,Hip-Hop,Drake,139.1,38,7,288.0,25.6,12,19,53,35.1,3.8,3,19,0.0,0,0,0,958.0,0
+SS100289,37,France,Android,Mobile,Premium,Country,Carrie Underwood,136.4,26,13,168.5,14.9,10,14,11,18.7,4.1,5,24,9.99,1,0,2,1134.8,1
+SS100290,52,France,Android,Tablet,Free,Classical,Max Richter,67.3,14,7,264.2,28.6,9,17,16,8.5,3.8,11,16,0.0,0,0,1,512.0,0
+SS100291,28,France,iOS,Laptop,Family,Lo-fi,Lofi Girl,125.1,24,6,174.5,20.3,5,14,32,39.1,3.3,19,36,14.99,1,0,1,826.7,0
+SS100292,58,UK,Android,Mobile,Free,EDM,David Guetta,131.6,39,15,203.1,10.9,7,12,13,2.4,2.9,14,24,0.0,0,0,0,1194.7,0
+SS100293,30,South Korea,Web,Smart Speaker,Free,Rock,Linkin Park,102.1,19,8,233.8,14.4,12,12,12,24.6,3.7,16,35,0.0,0,0,0,673.7,0
+SS100294,40,India,Android,Mobile,Premium,Jazz,John Coltrane,62.6,14,14,178.8,24.9,6,14,36,0.0,4.8,21,24,9.99,1,0,0,429.1,0
+SS100295,39,Germany,iOS,Mobile,Family,Lo-fi,Chillhop Music,83.2,18,3,270.5,23.5,11,13,31,53.3,4.6,9,25,14.99,1,0,0,437.5,0
+SS100296,54,South Korea,Android,Mobile,Free,Classical,Yiruma,54.3,10,10,212.9,9.6,12,13,29,60.4,3.5,12,7,0.0,0,0,2,317.9,0
+SS100297,35,Germany,iOS,Smart Speaker,Free,Pop,The Weeknd,127.1,32,15,227.5,16.0,6,13,26,36.7,3.5,25,23,0.0,0,0,0,982.1,0
+SS100298,28,UK,Android,Mobile,Free,R&B,H.E.R.,32.7,7,8,199.8,18.4,5,18,16,75.3,3.4,24,19,0.0,0,2,0,244.0,1
+SS100299,16,India,Android,Mobile,Student,Lo-fi,Lofi Girl,232.4,51,7,235.0,13.4,11,16,21,64.6,3.4,11,38,5.99,0,0,0,1565.8,0
+SS100300,32,Australia,iOS,Mobile,Student,Classical,Yiruma,206.0,41,4,270.0,33.5,6,13,23,45.6,4.0,4,35,5.99,0,1,1,1091.5,0
+SS100301,53,Japan,iOS,Smart Speaker,Free,Lo-fi,Idealism,133.5,25,12,205.0,18.6,3,17,33,32.5,4.6,6,40,0.0,0,0,0,1068.9,0
+SS100302,16,France,iOS,Mobile,Free,Classical,Ludovico Einaudi,171.4,36,5,275.7,16.6,14,10,29,27.3,5.0,28,13,0.0,1,0,1,969.2,0
+SS100303,56,Japan,Android,Laptop,Student,Pop,The Weeknd,164.9,52,8,186.8,25.3,5,14,14,47.4,3.1,12,20,5.99,1,0,2,1106.4,0
+SS100304,40,Australia,Android,Tablet,Family,Country,Morgan Wallen,112.7,33,4,239.0,14.4,6,12,33,31.9,4.3,6,42,14.99,1,0,2,580.0,0
+SS100305,22,Japan,Android,Laptop,Premium,K-Pop,TWICE,92.1,17,13,228.6,24.1,10,13,6,47.1,4.2,1,13,9.99,1,0,0,842.6,0
+SS100306,29,Japan,Android,Mobile,Student,K-Pop,NewJeans,85.7,16,12,169.4,5.3,10,13,20,48.7,3.5,13,38,5.99,1,0,0,620.4,0
+SS100307,40,Canada,Android,Mobile,Free,Lo-fi,Jinsang,237.2,44,8,218.1,13.8,9,19,11,29.9,3.0,18,35,0.0,0,0,0,1497.8,0
+SS100308,30,UK,Android,Mobile,Free,Hip-Hop,Kendrick Lamar,61.1,20,4,210.3,24.3,8,14,15,59.1,4.0,18,19,0.0,0,0,1,275.4,0
+SS100309,20,UK,iOS,Tablet,Free,Lo-fi,Lofi Girl,61.9,16,13,177.6,28.0,11,10,45,30.0,5.0,10,48,0.0,0,0,0,535.8,0
+SS100310,45,Japan,Android,Tablet,Premium,Rock,Foo Fighters,180.0,37,7,223.6,11.6,12,20,8,35.5,4.0,5,36,9.99,1,0,1,1178.0,0
+SS100311,46,South Korea,Android,Mobile,Family,Lo-fi,Idealism,170.4,35,4,215.6,10.8,8,15,15,13.5,3.2,16,9,14.99,1,0,0,911.4,0
+SS100312,21,USA,Web,Mobile,Family,Hip-Hop,J. Cole,88.8,28,2,207.2,21.0,8,23,30,29.0,3.7,5,44,14.99,1,0,1,477.3,0
+SS100313,28,France,Web,Mobile,Family,Classical,Ludovico Einaudi,141.8,31,6,207.4,12.6,8,14,19,82.5,2.9,1,19,14.99,1,1,0,919.3,0
+SS100314,26,India,iOS,Mobile,Family,K-Pop,BTS,152.7,45,3,206.6,15.1,7,15,26,15.2,3.8,3,25,14.99,1,0,0,726.5,0
+SS100315,45,Australia,Android,Mobile,Family,Pop,The Weeknd,41.7,10,6,196.0,23.1,10,14,40,44.6,4.3,14,25,14.99,1,0,1,280.3,0
+SS100316,48,Australia,iOS,Smart Speaker,Free,Pop,The Weeknd,213.5,59,11,215.3,13.2,11,13,31,25.0,3.2,7,28,0.0,0,0,0,1712.9,0
+SS100317,48,India,Android,Mobile,Free,Country,Luke Combs,152.7,49,7,185.5,3.2,7,11,19,0.0,1.2,6,42,0.0,0,0,0,1001.4,0
+SS100318,58,Japan,iOS,Mobile,Free,Pop,Dua Lipa,134.9,42,9,311.0,7.9,11,12,23,47.3,4.0,16,25,0.0,0,0,1,935.6,0
+SS100319,50,France,Desktop,Mobile,Premium,Jazz,Miles Davis,153.4,29,5,156.4,17.1,8,22,30,22.8,3.4,4,19,9.99,1,1,0,1009.4,0
+SS100320,30,UK,iOS,Smart Speaker,Free,Lo-fi,Jinsang,125.6,26,8,187.8,4.0,9,11,31,42.0,3.2,10,11,0.0,0,0,0,825.2,0
+SS100321,20,Brazil,Desktop,Mobile,Premium,Jazz,Norah Jones,98.6,18,15,190.8,14.9,8,24,24,56.8,3.2,8,15,9.99,0,1,0,874.5,0
+SS100322,43,France,Android,Tablet,Premium,EDM,Avicii,23.3,6,7,287.5,7.3,10,18,28,40.2,4.1,19,35,9.99,1,0,0,163.5,0
+SS100323,57,Brazil,Android,Mobile,Student,EDM,Avicii,113.3,28,9,159.8,28.5,8,19,28,42.2,3.5,8,39,5.99,1,0,0,813.4,0
+SS100324,59,Australia,Android,Laptop,Free,Jazz,Miles Davis,38.9,10,3,226.2,32.2,9,21,23,15.9,4.5,10,16,0.0,0,0,0,195.7,0
+SS100325,26,France,Android,Mobile,Free,Classical,Yiruma,289.8,64,13,219.4,9.6,15,23,17,50.6,4.6,12,31,0.0,0,0,0,2399.3,0
+SS100326,26,Australia,Android,Tablet,Free,Classical,Ludovico Einaudi,97.6,25,6,222.7,18.8,10,18,32,30.8,3.6,15,14,0.0,0,1,1,670.7,1
+SS100327,17,Brazil,Desktop,Laptop,Family,Hip-Hop,Travis Scott,287.0,59,12,257.0,10.3,6,13,27,0.0,3.4,4,6,14.99,1,0,0,2371.2,0
+SS100328,22,Japan,iOS,Mobile,Premium,Jazz,Norah Jones,114.5,23,8,256.2,14.8,9,13,2,53.2,3.9,6,8,9.99,1,0,0,785.9,0
+SS100329,40,Brazil,Desktop,Tablet,Premium,K-Pop,TWICE,71.0,14,10,192.9,29.6,11,20,15,59.9,3.7,7,37,9.99,1,0,0,492.2,0
+SS100330,40,Canada,Web,Mobile,Free,K-Pop,BLACKPINK,210.0,58,10,217.4,13.7,5,19,19,67.6,2.4,22,6,0.0,0,1,1,1477.3,0
+SS100331,32,Japan,iOS,Mobile,Free,Pop,The Weeknd,131.8,31,6,139.2,15.0,7,14,22,82.8,5.0,0,30,0.0,0,0,1,884.9,0
+SS100332,29,Canada,Desktop,Mobile,Student,K-Pop,BLACKPINK,348.1,98,12,213.8,10.4,9,11,37,52.0,4.4,9,24,5.99,0,0,0,2400.0,0
+SS100333,53,Australia,Android,Laptop,Premium,K-Pop,BTS,69.9,23,5,179.8,25.0,11,15,59,46.3,3.4,13,38,9.99,1,1,1,519.6,0
+SS100334,36,Germany,Web,Tablet,Premium,Hip-Hop,Travis Scott,215.0,45,11,202.9,1.0,12,15,2,59.0,2.3,16,22,9.99,1,0,1,1631.8,0
+SS100335,52,UK,iOS,Laptop,Free,Country,Morgan Wallen,221.4,51,7,146.0,13.9,5,19,27,15.5,3.7,7,27,0.0,0,0,0,1394.6,0
+SS100336,59,Japan,iOS,Mobile,Family,Classical,Hans Zimmer,160.0,33,9,225.4,16.7,4,16,25,0.0,3.3,1,23,14.99,0,0,0,1174.2,0
+SS100337,30,UK,iOS,Mobile,Free,EDM,Avicii,222.5,69,6,145.5,12.4,6,17,22,24.5,3.8,4,25,0.0,0,0,0,1371.6,0
+SS100338,25,USA,Desktop,Smart Speaker,Family,K-Pop,BTS,98.9,18,8,215.6,23.0,6,11,30,63.1,2.1,12,20,14.99,1,0,0,652.9,0
+SS100339,58,Japan,Desktop,Mobile,Free,Classical,Max Richter,60.9,11,4,163.4,25.4,9,6,26,20.5,3.4,22,27,0.0,0,2,0,264.6,0
+SS100340,44,South Korea,Android,Mobile,Free,Classical,Hans Zimmer,75.2,18,9,177.7,7.1,7,12,20,45.2,3.5,7,17,0.0,1,0,0,529.0,0
+SS100341,29,UK,Android,Tablet,Premium,R&B,SZA,109.8,21,8,253.9,31.7,13,13,24,47.6,3.6,8,34,9.99,1,1,2,657.7,0
+SS100342,43,Germany,Android,Tablet,Free,Lo-fi,Idealism,164.8,46,6,232.3,7.0,16,19,30,40.4,3.6,17,22,0.0,0,0,0,981.3,0
+SS100343,39,France,Web,Mobile,Student,Lo-fi,Idealism,63.7,13,8,253.7,26.0,10,14,29,6.9,3.8,5,32,5.99,1,2,0,403.4,0
+SS100344,56,Canada,Android,Mobile,Student,Hip-Hop,Travis Scott,85.7,16,8,269.3,18.0,13,12,26,42.5,5.0,9,13,5.99,1,0,0,564.0,0
+SS100345,27,Australia,iOS,Tablet,Free,K-Pop,NewJeans,67.2,13,6,180.6,13.5,9,15,18,25.7,3.4,3,16,0.0,1,0,0,391.7,0
+SS100346,60,Brazil,Android,Mobile,Premium,Pop,The Weeknd,181.6,36,8,267.0,14.1,8,11,55,72.5,3.1,11,8,9.99,1,2,1,1238.1,0
+SS100347,58,Brazil,Desktop,Smart Speaker,Family,R&B,H.E.R.,285.7,69,4,154.3,16.8,7,20,28,60.0,2.4,6,25,14.99,0,0,0,1667.5,0
+SS100348,24,USA,Web,Mobile,Family,Lo-fi,Lofi Girl,54.0,11,16,238.4,18.5,8,13,32,26.5,3.4,5,25,14.99,1,0,0,519.8,0
+SS100349,23,India,iOS,Mobile,Free,Hip-Hop,Travis Scott,145.7,31,12,191.3,10.6,13,10,18,73.8,2.7,9,15,0.0,0,0,0,1229.1,0
+SS100350,39,Canada,Android,Mobile,Student,R&B,SZA,194.6,58,9,174.6,15.4,2,15,26,42.6,4.6,1,21,5.99,1,0,2,1395.6,0
+SS100351,18,Australia,Web,Mobile,Free,Rock,Foo Fighters,93.6,29,12,233.3,11.6,13,14,26,0.0,3.7,7,11,0.0,0,1,0,770.6,0
+SS100352,29,Brazil,Android,Mobile,Free,K-Pop,BLACKPINK,40.5,8,1,245.9,8.5,9,17,3,33.3,4.6,14,35,0.0,0,1,1,206.6,0
+SS100353,35,Canada,iOS,Mobile,Free,EDM,Avicii,208.9,46,1,244.8,11.3,10,12,16,71.0,5.0,8,35,0.0,0,0,0,1048.9,0
+SS100354,59,USA,Desktop,Smart Speaker,Family,Classical,Max Richter,38.7,9,7,218.2,9.0,10,19,16,17.0,3.1,1,20,14.99,1,0,0,225.3,0
+SS100355,60,Japan,iOS,Mobile,Family,Lo-fi,Jinsang,243.7,46,3,215.0,14.1,14,17,17,33.5,3.5,4,18,14.99,1,0,0,1357.3,0
+SS100356,22,Australia,Desktop,Mobile,Premium,Classical,Max Richter,66.2,14,7,230.0,20.0,11,18,12,5.1,4.9,7,7,9.99,0,1,0,397.1,1
+SS100357,56,India,Android,Mobile,Student,K-Pop,BTS,34.5,9,9,221.5,17.8,8,8,24,8.6,4.0,8,32,5.99,1,1,0,221.5,0
+SS100358,20,Germany,iOS,Mobile,Student,Pop,Taylor Swift,78.8,20,11,230.6,30.8,13,17,39,16.6,4.2,25,12,5.99,0,1,1,568.8,1
+SS100359,49,Australia,Desktop,Laptop,Student,Rock,Linkin Park,104.6,23,4,217.8,1.5,15,11,25,8.0,4.6,8,33,5.99,1,0,1,613.0,0
+SS100360,54,Germany,iOS,Mobile,Student,Lo-fi,Lofi Girl,118.1,24,9,242.0,20.3,11,19,11,21.4,4.5,9,8,5.99,1,0,1,794.4,0
+SS100361,56,South Korea,Desktop,Mobile,Student,Country,Morgan Wallen,152.8,35,8,148.2,17.0,12,17,13,73.2,4.1,16,11,5.99,1,0,0,984.3,0
+SS100362,26,USA,Web,Laptop,Free,Jazz,John Coltrane,124.5,29,9,205.0,22.7,7,15,20,34.2,4.9,8,9,0.0,0,0,1,862.1,0
+SS100363,56,Brazil,Android,Mobile,Free,R&B,H.E.R.,272.7,57,6,157.4,22.0,14,13,8,52.3,3.7,10,12,0.0,0,2,0,1701.7,0
+SS100364,21,USA,Android,Tablet,Family,Hip-Hop,Kendrick Lamar,101.6,21,13,220.5,15.8,9,25,27,59.0,4.2,12,63,14.99,1,0,2,797.7,0
+SS100365,39,Japan,iOS,Laptop,Student,Country,Morgan Wallen,128.4,25,8,272.4,18.2,14,21,39,10.6,3.7,10,19,5.99,1,0,0,888.3,0
+SS100366,37,Canada,Web,Mobile,Family,K-Pop,TWICE,122.1,39,14,192.0,11.8,13,9,18,16.7,4.6,8,29,14.99,1,1,1,1040.4,0
+SS100367,30,Japan,Web,Mobile,Free,Rock,Imagine Dragons,31.5,6,5,214.8,21.3,17,14,25,51.8,3.2,15,10,0.0,0,0,0,213.9,1
+SS100368,16,India,Android,Mobile,Premium,Classical,Hans Zimmer,47.2,11,11,238.7,3.8,7,15,19,21.0,2.5,2,13,9.99,0,0,0,374.7,0
+SS100369,50,Brazil,iOS,Smart Speaker,Free,Jazz,Miles Davis,110.1,35,8,131.4,22.4,5,20,17,50.4,4.3,6,50,0.0,0,0,1,837.8,0
+SS100370,31,UK,iOS,Tablet,Free,EDM,Avicii,137.7,29,7,190.2,16.8,14,13,26,71.9,3.0,22,19,0.0,0,0,0,876.5,0
+SS100371,45,Canada,Android,Smart Speaker,Free,Lo-fi,Lofi Girl,22.5,5,10,223.9,13.6,8,13,17,3.0,2.9,10,22,0.0,0,0,0,112.1,0
+SS100372,34,UK,iOS,Laptop,Free,Hip-Hop,J. Cole,279.8,65,7,120.0,15.4,7,23,15,27.1,4.8,12,26,0.0,0,0,0,1807.4,0
+SS100373,32,Canada,Desktop,Smart Speaker,Family,Rock,Coldplay,144.2,29,1,172.9,15.9,12,17,6,30.6,4.6,7,47,14.99,1,1,0,690.7,0
+SS100374,55,Japan,iOS,Mobile,Free,Pop,Taylor Swift,106.4,28,1,251.8,26.1,9,14,25,23.4,3.5,13,3,0.0,0,2,0,460.2,0
+SS100375,20,India,Android,Laptop,Premium,Jazz,Miles Davis,140.3,40,12,248.1,39.6,14,14,36,21.6,1.4,7,37,9.99,1,0,0,1201.2,0
+SS100376,49,Brazil,iOS,Mobile,Student,Jazz,Miles Davis,76.0,20,12,224.2,25.5,15,18,32,24.2,4.2,6,41,5.99,0,0,0,601.1,0
+SS100377,49,USA,Android,Tablet,Student,Lo-fi,Lofi Girl,118.9,30,15,243.5,13.0,14,12,40,34.7,4.3,14,28,5.99,1,1,0,1018.4,0
+SS100378,33,Canada,iOS,Smart Speaker,Student,Classical,Ludovico Einaudi,130.2,27,8,218.2,21.4,10,14,17,38.6,4.2,8,17,5.99,0,1,1,901.6,0
+SS100379,27,Germany,Desktop,Laptop,Free,Hip-Hop,Kendrick Lamar,210.3,41,3,231.1,21.7,10,14,33,56.0,4.2,8,24,0.0,0,0,1,1088.4,0
+SS100380,16,India,iOS,Tablet,Family,EDM,Martin Garrix,96.1,20,7,198.0,10.5,11,13,12,34.4,3.7,4,10,14.99,1,0,0,680.6,0
+SS100381,58,South Korea,Web,Tablet,Premium,Pop,Dua Lipa,39.4,11,8,214.4,8.2,12,13,32,59.6,3.5,5,5,9.99,0,0,0,307.0,0
+SS100382,58,Brazil,iOS,Mobile,Premium,Jazz,Norah Jones,59.8,15,4,186.0,16.6,8,18,42,22.0,2.9,9,22,9.99,1,0,0,343.9,0
+SS100383,26,Brazil,Android,Mobile,Student,Jazz,Chet Baker,91.4,27,14,258.0,22.7,9,16,29,8.6,3.2,15,2,5.99,1,0,0,803.1,0
+SS100384,17,France,iOS,Laptop,Free,Country,Chris Stapleton,42.7,9,16,267.8,5.7,9,20,42,28.3,4.1,20,15,0.0,0,1,1,360.1,1
+SS100385,21,Canada,iOS,Laptop,Family,R&B,Bruno Mars,55.5,15,10,262.4,12.0,6,18,17,45.2,4.1,9,11,14.99,1,0,0,344.9,0
+SS100386,19,USA,Android,Mobile,Free,R&B,H.E.R.,60.2,14,8,194.5,21.0,5,18,23,53.9,4.4,33,17,0.0,1,1,0,371.8,0
+SS100387,53,South Korea,Android,Mobile,Free,Pop,Taylor Swift,87.6,18,3,173.8,17.3,3,11,14,67.1,2.7,7,18,0.0,0,0,0,448.9,0
+SS100388,56,Brazil,iOS,Mobile,Free,EDM,Martin Garrix,143.1,31,13,258.5,26.9,12,9,24,41.4,2.5,6,9,0.0,0,0,0,1109.3,0
+SS100389,22,Australia,Android,Smart Speaker,Premium,EDM,Calvin Harris,85.0,23,8,230.7,7.1,15,17,27,51.6,3.5,17,27,9.99,1,0,0,522.3,0
+SS100390,49,India,Android,Laptop,Premium,K-Pop,TWICE,148.7,39,7,222.5,33.5,10,24,24,65.1,3.0,8,39,9.99,1,0,0,920.4,0
+SS100391,24,UK,iOS,Laptop,Premium,K-Pop,NewJeans,106.4,23,10,185.9,6.2,11,10,19,17.9,3.9,4,10,9.99,1,0,1,754.2,0
+SS100392,32,Germany,Desktop,Mobile,Premium,Hip-Hop,Kendrick Lamar,56.8,13,6,226.2,2.8,6,14,19,30.4,2.8,7,9,9.99,1,0,0,416.4,0
+SS100393,42,India,Android,Mobile,Free,Rock,Imagine Dragons,131.5,41,9,168.8,16.6,13,18,28,96.0,4.7,4,20,0.0,0,0,1,974.2,0
+SS100394,48,Germany,Web,Mobile,Family,Classical,Hans Zimmer,119.8,23,3,234.1,9.1,4,22,22,53.8,3.1,6,5,14.99,1,0,2,689.8,0
+SS100395,55,South Korea,Android,Mobile,Student,R&B,Frank Ocean,151.0,35,12,262.4,16.7,9,17,11,46.2,5.0,2,20,5.99,0,0,0,1257.4,0
+SS100396,18,Australia,Android,Mobile,Premium,Pop,Dua Lipa,169.0,40,8,272.0,16.5,5,9,3,54.7,4.2,3,37,9.99,1,0,0,1223.2,0
+SS100397,24,Brazil,Android,Mobile,Free,Country,Chris Stapleton,214.1,61,12,236.9,15.6,9,15,17,5.6,3.0,10,10,0.0,1,0,1,1716.3,0
+SS100398,28,UK,Android,Mobile,Family,K-Pop,TWICE,145.9,37,7,157.5,11.1,13,13,9,20.8,5.0,0,45,14.99,1,1,1,1044.8,0
+SS100399,29,Germany,Android,Mobile,Free,Classical,Max Richter,117.4,31,8,217.5,20.0,9,10,15,12.7,4.0,5,16,0.0,0,2,2,756.4,1
+SS100400,60,USA,Android,Laptop,Free,R&B,Frank Ocean,151.4,41,4,291.3,14.8,10,13,19,44.2,3.9,8,17,0.0,0,0,0,854.8,0
+SS100401,50,Japan,iOS,Laptop,Student,Country,Luke Combs,79.8,18,11,177.0,24.7,10,16,22,26.9,3.7,5,14,5.99,1,0,0,577.5,0
+SS100402,30,Germany,Android,Mobile,Free,Pop,Dua Lipa,76.1,18,5,207.8,15.7,4,17,17,37.1,4.2,17,31,0.0,0,0,0,499.3,0
+SS100403,59,Brazil,Android,Smart Speaker,Free,EDM,Avicii,230.6,44,6,263.7,10.2,9,11,48,28.2,4.2,11,21,0.0,1,2,0,1452.0,0
+SS100404,38,Canada,Android,Mobile,Premium,Country,Carrie Underwood,74.7,14,8,233.5,5.2,8,14,10,0.0,3.1,20,16,9.99,1,1,0,550.0,0
+SS100405,38,Canada,Web,Tablet,Free,Lo-fi,Lofi Girl,61.2,17,8,304.2,15.8,9,12,37,54.5,3.6,11,12,0.0,0,0,2,353.6,0
+SS100406,35,Brazil,Android,Mobile,Family,Rock,Foo Fighters,145.8,45,2,182.2,8.1,11,13,22,0.0,3.9,1,23,14.99,1,1,0,725.4,0
+SS100407,22,Brazil,iOS,Mobile,Free,Jazz,Chet Baker,80.2,16,7,172.4,7.6,10,14,17,19.0,4.3,5,41,0.0,0,2,0,450.3,0
+SS100408,58,Brazil,iOS,Mobile,Premium,Hip-Hop,Kendrick Lamar,168.1,31,11,256.5,20.7,7,18,30,6.1,4.3,8,17,9.99,1,0,0,1319.6,0
+SS100409,16,USA,Android,Smart Speaker,Student,Hip-Hop,Drake,205.2,40,7,164.6,4.6,6,12,19,15.6,3.9,3,21,5.99,1,1,0,1344.6,0
+SS100410,23,USA,Android,Smart Speaker,Premium,R&B,SZA,67.0,22,7,202.5,26.9,10,10,15,39.4,3.4,4,7,9.99,1,0,0,477.9,0
+SS100411,26,UK,iOS,Mobile,Premium,Country,Morgan Wallen,156.0,43,9,207.5,18.1,16,9,44,62.2,3.3,17,21,9.99,1,0,1,1092.5,0
+SS100412,28,Canada,Desktop,Tablet,Student,Jazz,John Coltrane,73.5,24,8,249.4,16.7,11,12,2,0.7,2.8,21,64,5.99,0,0,0,391.8,0
+SS100413,21,Germany,Web,Mobile,Family,EDM,Avicii,92.6,18,4,233.3,9.8,11,27,21,22.7,4.3,2,9,14.99,1,0,0,458.1,0
+SS100414,16,Germany,Android,Laptop,Free,Rock,Linkin Park,128.0,29,8,227.4,22.4,13,14,26,0.0,3.3,6,25,0.0,0,0,0,886.4,0
+SS100415,46,India,Android,Mobile,Free,Hip-Hop,Drake,76.2,18,11,194.7,17.0,4,11,39,21.7,3.6,12,14,0.0,0,2,0,605.8,1
+SS100416,59,India,Android,Laptop,Premium,Rock,Linkin Park,121.3,28,4,256.2,12.2,6,16,20,36.6,4.0,14,7,9.99,1,0,0,577.3,0
+SS100417,21,South Korea,Android,Mobile,Premium,Hip-Hop,Travis Scott,97.4,27,7,330.0,18.4,14,21,53,51.9,3.8,5,16,9.99,1,0,0,639.9,0
+SS100418,29,Germany,Desktop,Laptop,Free,Hip-Hop,Drake,170.2,38,3,236.3,5.2,6,9,32,0.0,3.8,14,56,0.0,0,0,0,854.1,0
+SS100419,38,India,Android,Mobile,Student,Jazz,John Coltrane,170.5,55,11,213.8,5.6,15,12,2,47.1,3.1,16,24,5.99,1,0,0,1245.1,0
+SS100420,57,South Korea,Android,Laptop,Family,Hip-Hop,Kendrick Lamar,76.4,17,8,160.7,9.2,15,14,8,13.6,4.0,7,23,14.99,1,1,2,496.2,0
+SS100421,47,Canada,Android,Mobile,Premium,Pop,Dua Lipa,129.7,27,5,185.8,19.4,8,13,27,8.2,3.5,0,9,9.99,1,2,1,795.2,0
+SS100422,50,Brazil,Web,Mobile,Family,Classical,Max Richter,185.2,40,8,201.9,17.0,11,23,11,36.5,3.7,6,35,14.99,1,2,1,1245.0,0
+SS100423,42,Australia,iOS,Mobile,Student,Rock,Linkin Park,54.9,14,4,189.7,24.3,14,18,30,48.8,4.7,3,42,5.99,1,0,0,225.4,0
+SS100424,34,USA,Android,Mobile,Premium,EDM,Avicii,97.0,19,4,209.4,10.6,8,15,19,32.8,4.2,3,42,9.99,1,1,0,561.8,0
+SS100425,24,Brazil,Android,Mobile,Free,Hip-Hop,Kendrick Lamar,126.4,26,3,277.6,21.0,8,20,11,11.0,3.3,11,34,0.0,0,0,2,657.8,0
+SS100426,54,Canada,Android,Mobile,Family,Rock,Coldplay,53.3,16,4,257.4,16.2,6,14,13,32.8,3.7,0,11,14.99,0,0,0,265.8,0
+SS100427,52,USA,Android,Mobile,Free,EDM,Martin Garrix,82.2,24,13,204.0,10.4,13,10,33,19.0,5.0,27,10,0.0,0,0,0,639.6,0
+SS100428,17,UK,Desktop,Mobile,Premium,Jazz,Miles Davis,256.9,56,5,164.1,19.7,10,13,2,48.3,3.6,15,5,9.99,1,0,1,1489.6,0
+SS100429,48,South Korea,iOS,Mobile,Student,EDM,Calvin Harris,74.5,20,10,260.8,16.5,8,14,35,58.7,3.8,22,10,5.99,1,0,0,537.9,0
+SS100430,19,Germany,iOS,Mobile,Premium,Classical,Ludovico Einaudi,79.8,24,5,208.1,12.6,9,16,36,57.3,4.3,29,24,9.99,1,0,0,439.4,0
+SS100431,49,Australia,iOS,Mobile,Premium,Classical,Hans Zimmer,34.5,10,11,144.4,17.3,8,11,20,34.6,4.0,8,10,9.99,0,1,0,275.2,0
+SS100432,53,Japan,iOS,Mobile,Student,Rock,Coldplay,144.9,42,4,237.1,16.1,10,20,9,59.7,3.5,4,36,5.99,1,0,0,827.3,0
+SS100433,21,UK,Web,Laptop,Family,Rock,Imagine Dragons,48.9,12,8,249.0,15.9,15,16,30,12.5,3.2,10,39,14.99,1,0,2,370.9,0
+SS100434,35,USA,Android,Tablet,Student,EDM,Calvin Harris,98.3,22,8,120.0,14.1,10,14,19,74.2,3.8,10,38,5.99,0,3,1,742.0,1
+SS100435,21,India,iOS,Mobile,Premium,Pop,Dua Lipa,61.6,18,16,178.7,7.9,6,20,7,12.4,4.3,4,6,9.99,1,0,0,574.8,0
+SS100436,41,USA,iOS,Mobile,Free,Jazz,Norah Jones,121.2,25,10,205.8,17.5,9,2,45,0.0,4.9,9,23,0.0,0,0,0,873.4,0
+SS100437,57,France,Android,Tablet,Student,Jazz,Chet Baker,10.1,3,6,237.9,11.4,16,20,14,65.0,2.6,6,21,5.99,1,0,0,30.0,1
+SS100438,19,France,Android,Mobile,Student,R&B,H.E.R.,111.5,30,10,190.4,9.9,6,24,8,19.4,5.0,4,37,5.99,0,0,2,869.2,0
+SS100439,33,Australia,Web,Mobile,Free,R&B,H.E.R.,128.5,36,15,178.4,15.3,5,10,27,37.6,3.6,10,7,0.0,0,0,0,1103.2,0
+SS100440,59,Australia,Desktop,Mobile,Free,R&B,Frank Ocean,83.6,17,2,237.6,22.1,5,16,23,12.3,4.5,2,21,0.0,0,0,0,535.9,0
+SS100441,29,Canada,Android,Smart Speaker,Premium,Jazz,Chet Baker,86.8,16,5,192.2,18.3,11,10,40,87.0,3.2,12,7,9.99,1,0,0,637.9,0
+SS100442,21,Germany,Android,Mobile,Premium,K-Pop,NewJeans,77.2,18,7,230.6,13.3,11,17,20,75.1,2.5,18,34,9.99,1,0,1,484.3,0
+SS100443,37,USA,iOS,Mobile,Premium,Hip-Hop,J. Cole,97.5,31,7,167.8,13.0,5,7,20,69.0,2.7,21,3,9.99,1,1,0,543.5,0
+SS100444,38,Brazil,Web,Mobile,Free,EDM,Calvin Harris,232.3,64,7,158.6,21.5,10,12,28,36.9,3.5,36,55,0.0,1,0,0,1444.7,0
+SS100445,45,Germany,iOS,Mobile,Free,Pop,Taylor Swift,173.2,51,3,238.7,1.0,7,13,26,56.6,4.2,18,27,0.0,1,0,0,1000.8,0
+SS100446,30,France,Desktop,Mobile,Free,EDM,Avicii,97.4,19,13,219.6,22.6,3,20,27,33.8,3.8,2,19,0.0,1,0,0,767.1,0
+SS100447,59,Canada,Web,Smart Speaker,Premium,Rock,Linkin Park,82.3,26,3,245.1,3.9,11,8,27,59.7,3.6,8,13,9.99,1,1,0,527.0,0
+SS100448,39,Japan,Android,Mobile,Family,R&B,H.E.R.,164.1,30,7,189.8,7.1,11,18,26,26.0,4.7,28,38,14.99,1,0,0,938.8,0
+SS100449,28,USA,Android,Laptop,Free,EDM,Avicii,116.6,26,12,179.8,13.4,5,15,19,69.9,3.8,24,7,0.0,1,1,1,835.6,0
+SS100450,59,India,Android,Tablet,Premium,R&B,SZA,52.4,12,8,261.7,32.2,8,13,33,24.9,4.0,5,3,9.99,1,0,2,375.9,0
+SS100451,57,Japan,Web,Mobile,Free,R&B,Frank Ocean,90.7,18,5,152.1,28.7,7,13,20,27.4,5.0,6,26,0.0,0,0,1,589.5,0
+SS100452,38,South Korea,iOS,Mobile,Free,K-Pop,TWICE,218.6,71,3,257.6,21.9,10,11,33,24.7,3.8,16,19,0.0,0,0,0,1146.7,0
+SS100453,17,South Korea,Desktop,Mobile,Free,Country,Carrie Underwood,141.6,29,7,260.2,19.5,8,12,39,39.2,3.2,6,24,0.0,0,0,0,954.2,0
+SS100454,42,India,iOS,Laptop,Free,Pop,The Weeknd,82.8,25,5,242.7,4.0,9,16,17,26.5,4.2,15,22,0.0,0,1,0,534.9,0
+SS100455,40,Canada,iOS,Mobile,Premium,R&B,Frank Ocean,37.5,7,9,183.9,18.1,9,19,50,45.7,4.4,11,28,9.99,1,0,1,321.1,0
+SS100456,22,Australia,Android,Mobile,Family,Country,Morgan Wallen,120.8,28,3,179.0,13.2,6,15,16,24.4,4.0,20,20,14.99,0,0,1,600.9,0
+SS100457,44,UK,Android,Mobile,Free,Classical,Hans Zimmer,106.8,34,11,202.0,11.3,16,20,16,52.4,3.9,5,15,0.0,0,0,1,795.4,0
+SS100458,53,UK,Desktop,Mobile,Student,Rock,Foo Fighters,95.6,19,8,160.8,18.1,12,23,30,68.4,5.0,14,20,5.99,1,0,1,693.3,0
+SS100459,20,Canada,iOS,Mobile,Premium,Classical,Ludovico Einaudi,165.2,54,9,173.5,13.7,9,16,29,36.7,4.9,6,31,9.99,1,1,0,1208.7,0
+SS100460,48,India,Desktop,Mobile,Family,Hip-Hop,J. Cole,142.6,43,13,234.5,23.1,10,16,25,83.8,3.7,24,32,14.99,1,1,0,1168.9,0
+SS100461,22,France,Android,Tablet,Premium,Pop,Taylor Swift,38.4,8,6,234.7,3.4,12,14,33,59.8,3.3,13,24,9.99,1,0,0,207.7,0
+SS100462,49,Canada,iOS,Smart Speaker,Free,Jazz,Norah Jones,107.1,26,5,170.1,17.5,8,17,27,82.0,4.1,13,4,0.0,0,0,0,659.6,0
+SS100463,34,Germany,iOS,Smart Speaker,Premium,Classical,Hans Zimmer,45.4,9,6,235.7,10.8,10,22,47,33.7,3.3,3,23,9.99,1,0,3,239.0,0
+SS100464,16,Japan,Android,Mobile,Free,K-Pop,NewJeans,78.1,17,7,227.3,14.1,16,20,23,0.0,4.5,14,6,0.0,0,0,0,515.5,0
+SS100465,59,USA,iOS,Mobile,Family,R&B,H.E.R.,43.1,9,8,267.4,19.1,6,12,15,19.5,4.1,17,33,14.99,1,0,0,293.9,0
+SS100466,23,UK,Desktop,Mobile,Free,Country,Carrie Underwood,44.2,12,5,231.6,9.2,11,16,18,21.7,5.0,9,31,0.0,0,2,1,268.3,0
+SS100467,42,Brazil,iOS,Mobile,Premium,EDM,Avicii,129.5,39,1,250.2,18.1,9,11,29,14.0,5.0,7,11,9.99,1,0,2,654.7,0
+SS100468,24,France,iOS,Smart Speaker,Free,K-Pop,TWICE,122.2,23,6,228.1,15.5,11,12,29,0.0,2.9,8,28,0.0,1,0,0,719.3,0
+SS100469,57,Australia,iOS,Laptop,Student,Hip-Hop,Travis Scott,102.4,31,9,247.2,12.4,9,14,26,57.5,3.4,4,21,5.99,1,0,1,771.1,0
+SS100470,49,France,Web,Mobile,Family,Pop,Taylor Swift,73.9,17,8,161.1,13.7,8,13,15,0.0,2.3,3,12,14.99,1,0,0,514.1,0
+SS100471,52,India,Web,Tablet,Premium,K-Pop,BLACKPINK,40.9,11,12,205.4,15.9,8,14,36,55.4,2.1,3,28,9.99,1,1,0,297.9,0
+SS100472,35,Japan,iOS,Mobile,Student,Country,Morgan Wallen,78.3,21,15,208.5,11.6,9,12,45,83.1,3.9,8,44,5.99,0,1,0,641.0,0
+SS100473,37,France,Android,Tablet,Family,Lo-fi,Lofi Girl,122.5,27,11,200.7,17.0,10,12,24,17.9,2.8,15,15,14.99,0,0,1,1017.9,0
+SS100474,44,Japan,iOS,Mobile,Family,R&B,Bruno Mars,120.9,24,13,226.9,15.1,8,16,44,43.5,5.0,9,25,14.99,0,2,0,1003.6,1
+SS100475,51,USA,Desktop,Tablet,Free,Pop,Taylor Swift,216.1,44,11,234.1,12.7,8,25,34,26.2,4.7,23,11,0.0,0,0,1,1595.6,0
+SS100476,54,India,Desktop,Smart Speaker,Student,Lo-fi,Chillhop Music,199.0,38,14,224.9,28.1,6,15,48,53.2,3.6,21,13,5.99,1,0,2,1612.6,0
+SS100477,16,Australia,iOS,Mobile,Student,Jazz,Chet Baker,104.9,28,14,203.3,19.9,10,11,29,8.7,3.5,29,20,5.99,0,0,0,907.4,0
+SS100478,45,Germany,Android,Laptop,Premium,Rock,Coldplay,77.8,19,11,182.0,14.3,7,20,26,32.1,5.0,27,12,9.99,1,1,0,619.4,0
+SS100479,20,Brazil,Desktop,Mobile,Free,K-Pop,BTS,62.6,21,10,251.7,18.0,10,17,33,59.7,5.0,9,12,0.0,1,1,0,502.7,0
+SS100480,28,France,Android,Tablet,Free,Lo-fi,Idealism,36.5,7,7,223.3,9.8,9,18,19,33.9,3.1,12,9,0.0,0,0,0,234.3,0
+SS100481,53,Germany,Android,Mobile,Family,Rock,Foo Fighters,48.9,13,8,171.3,13.9,9,15,28,0.0,3.0,5,39,14.99,0,0,0,371.8,0
+SS100482,27,UK,Android,Smart Speaker,Family,K-Pop,NewJeans,122.6,28,7,202.6,14.8,11,17,39,62.3,3.6,3,31,14.99,1,1,0,777.6,0
+SS100483,51,India,iOS,Tablet,Premium,K-Pop,NewJeans,148.3,43,10,143.8,8.3,10,17,33,6.5,4.1,6,20,9.99,1,0,1,1120.9,0
+SS100484,36,France,Android,Mobile,Family,Classical,Max Richter,87.7,17,5,211.3,19.7,6,16,24,36.7,3.4,22,33,14.99,1,1,0,501.8,0
+SS100485,26,Brazil,Android,Mobile,Premium,Jazz,Norah Jones,341.6,68,7,202.5,13.5,6,11,26,47.8,4.2,17,34,9.99,1,1,0,2201.8,0
+SS100486,31,Brazil,Web,Laptop,Premium,Rock,Coldplay,49.2,9,1,188.2,14.5,3,15,32,37.6,5.0,8,18,9.99,1,1,1,153.3,0
+SS100487,39,Japan,iOS,Mobile,Premium,Lo-fi,Jinsang,33.9,11,14,270.2,13.0,11,17,32,90.8,2.7,13,10,9.99,0,0,0,374.0,0
+SS100488,50,South Korea,Android,Mobile,Student,Lo-fi,Lofi Girl,338.2,62,7,166.1,37.7,9,11,32,51.1,3.4,10,25,5.99,1,0,2,2280.9,0
+SS100489,43,South Korea,Android,Mobile,Student,Lo-fi,Lofi Girl,39.5,11,10,236.8,12.4,6,22,28,30.5,2.7,6,39,5.99,1,0,1,244.3,0
+SS100490,57,South Korea,iOS,Mobile,Free,K-Pop,NewJeans,86.9,23,13,293.1,2.5,10,15,15,48.3,3.1,11,30,0.0,0,0,0,746.4,0
+SS100491,55,USA,Android,Mobile,Premium,Pop,Dua Lipa,66.1,18,9,250.9,5.8,9,17,17,39.6,3.6,7,43,9.99,0,0,0,407.1,0
+SS100492,49,UK,Android,Mobile,Free,R&B,Frank Ocean,127.9,35,13,208.8,22.3,7,25,29,36.0,3.2,20,34,0.0,1,0,2,1039.1,0
+SS100493,43,India,Desktop,Mobile,Free,EDM,Avicii,83.0,19,4,166.9,26.4,6,22,33,40.4,4.2,24,59,0.0,0,0,0,352.1,1
+SS100494,29,USA,iOS,Mobile,Premium,Lo-fi,Jinsang,148.5,41,16,158.2,12.2,7,14,32,25.5,3.9,12,26,9.99,1,1,1,1346.1,0
+SS100495,34,France,Android,Laptop,Student,Classical,Max Richter,167.1,42,12,194.4,26.0,10,16,17,39.7,4.0,5,17,5.99,1,0,0,1333.7,0
+SS100496,21,Australia,iOS,Mobile,Free,Classical,Ludovico Einaudi,36.2,8,9,183.9,22.2,3,17,22,23.9,3.6,6,31,0.0,0,1,0,312.8,0
+SS100497,32,Brazil,iOS,Mobile,Premium,Hip-Hop,Travis Scott,61.3,12,13,182.7,15.7,13,16,11,0.0,3.6,10,40,9.99,1,1,0,584.5,0
+SS100498,57,Germany,iOS,Smart Speaker,Family,K-Pop,BTS,155.8,33,4,197.6,15.2,9,17,9,60.1,3.5,1,23,14.99,1,0,0,974.7,0
+SS100499,35,Australia,iOS,Smart Speaker,Free,R&B,H.E.R.,186.0,41,7,206.1,18.3,8,13,25,22.6,3.6,47,34,0.0,0,1,1,1151.1,1
+SS100500,21,USA,iOS,Mobile,Free,Pop,Taylor Swift,114.8,34,13,228.4,23.1,11,16,39,38.1,4.1,15,16,0.0,0,0,0,945.6,1
+SS100501,45,Japan,Android,Tablet,Free,Lo-fi,Jinsang,133.4,26,1,163.0,19.8,11,10,25,18.3,2.3,25,34,0.0,0,0,0,626.3,0
+SS100502,59,Japan,Android,Mobile,Premium,Hip-Hop,Drake,223.8,72,10,184.1,12.3,5,11,45,18.9,4.0,16,72,9.99,1,0,0,1651.7,0
+SS100503,55,USA,Android,Laptop,Premium,Pop,The Weeknd,83.6,23,10,203.9,15.8,7,18,22,12.1,3.1,11,16,9.99,0,0,1,565.5,0
+SS100504,28,Canada,Web,Mobile,Free,Pop,Taylor Swift,114.1,36,15,202.6,30.9,16,12,24,55.9,3.5,17,24,0.0,0,1,1,1049.1,0
+SS100505,36,France,Web,Mobile,Premium,EDM,Martin Garrix,199.1,43,2,279.8,18.8,11,11,13,61.2,2.6,14,29,9.99,1,0,1,1025.2,0
+SS100506,39,South Korea,Web,Smart Speaker,Free,Hip-Hop,Kendrick Lamar,206.1,53,14,218.8,23.1,8,12,20,35.6,3.5,9,19,0.0,0,0,0,1811.2,0
+SS100507,27,Brazil,Android,Laptop,Free,Country,Carrie Underwood,97.9,21,6,148.7,20.8,4,13,11,23.2,4.0,10,16,0.0,1,0,0,507.6,0
+SS100508,28,France,iOS,Mobile,Family,Classical,Ludovico Einaudi,62.6,16,6,225.9,18.9,9,24,7,0.0,4.2,15,21,14.99,0,0,1,405.4,0
+SS100509,26,South Korea,iOS,Tablet,Free,R&B,Frank Ocean,97.3,24,4,230.7,17.8,8,16,11,52.5,2.9,7,37,0.0,1,0,0,597.9,0
+SS100510,60,Brazil,Android,Mobile,Free,Pop,Dua Lipa,103.0,25,4,205.2,23.3,8,12,25,20.1,4.1,11,7,0.0,1,0,0,578.3,0
+SS100511,49,Germany,Desktop,Mobile,Student,EDM,Martin Garrix,61.1,20,9,163.9,22.0,10,13,16,10.4,4.7,7,12,5.99,1,0,1,416.1,0
+SS100512,53,Brazil,Android,Mobile,Premium,Hip-Hop,Drake,67.1,16,4,276.8,18.8,9,19,19,35.6,3.4,1,19,9.99,0,2,1,325.7,1
+SS100513,52,South Korea,iOS,Laptop,Family,Lo-fi,Lofi Girl,206.3,45,11,169.3,12.1,11,14,29,27.6,3.8,12,35,14.99,1,0,0,1518.6,0
+SS100514,59,France,Web,Laptop,Family,Rock,Coldplay,136.9,31,6,235.1,19.7,9,23,7,1.6,2.1,9,21,14.99,1,0,0,862.3,0
+SS100515,20,Canada,iOS,Mobile,Free,EDM,Avicii,87.2,27,4,217.6,16.5,14,8,25,4.6,3.1,11,14,0.0,0,0,1,479.7,0
+SS100516,55,Canada,iOS,Mobile,Free,Pop,Ariana Grande,51.3,11,6,232.8,14.8,10,15,33,42.4,4.0,19,46,0.0,1,1,0,301.0,0
+SS100517,18,USA,Android,Mobile,Premium,Hip-Hop,Drake,67.6,18,9,274.9,35.8,5,15,34,20.6,4.6,15,23,9.99,1,0,0,544.2,0
+SS100518,37,India,iOS,Mobile,Free,Rock,Linkin Park,32.0,11,7,231.3,6.2,6,13,30,46.2,3.3,20,16,0.0,1,1,0,146.9,0
+SS100519,42,Canada,Android,Mobile,Family,Pop,Taylor Swift,116.6,34,8,188.8,23.7,7,13,23,38.2,5.0,7,29,14.99,1,0,1,786.4,0
+SS100520,32,UK,iOS,Mobile,Premium,K-Pop,BLACKPINK,65.3,15,10,252.0,11.0,5,21,17,58.0,4.1,5,28,9.99,1,0,0,566.6,0
+SS100521,22,South Korea,Web,Laptop,Free,Lo-fi,Jinsang,122.0,32,12,186.0,17.9,7,16,23,16.7,2.8,13,24,0.0,0,0,0,955.9,0
+SS100522,24,Australia,Android,Tablet,Premium,Lo-fi,Idealism,154.9,33,7,216.2,35.0,8,12,42,40.1,4.8,11,13,9.99,1,0,0,1011.6,0
+SS100523,53,Brazil,iOS,Mobile,Free,Rock,Coldplay,123.0,34,4,160.9,10.3,8,16,27,49.0,2.8,15,34,0.0,0,0,0,676.9,0
+SS100524,30,UK,Android,Mobile,Student,K-Pop,NewJeans,80.7,16,8,170.7,11.9,9,16,23,21.2,4.1,3,50,5.99,0,0,0,592.6,1
+SS100525,29,Australia,iOS,Laptop,Premium,Classical,Hans Zimmer,59.1,16,10,212.0,16.9,8,12,30,59.8,3.1,11,26,9.99,1,0,1,344.8,0
+SS100526,57,South Korea,Android,Mobile,Student,Pop,Ariana Grande,46.4,10,3,224.0,11.1,4,14,25,0.0,2.7,19,8,5.99,0,0,0,232.8,0
+SS100527,22,UK,iOS,Laptop,Premium,Pop,Taylor Swift,195.2,39,5,145.3,23.2,9,14,26,16.7,4.6,4,64,9.99,0,0,1,1178.8,0
+SS100528,57,Canada,Android,Mobile,Premium,Classical,Ludovico Einaudi,120.0,30,5,228.9,13.3,15,11,21,0.0,3.6,1,28,9.99,1,1,0,683.4,0
+SS100529,57,Germany,Android,Mobile,Family,EDM,Calvin Harris,83.6,27,7,178.9,21.6,5,13,19,18.8,5.0,0,11,14.99,1,1,2,575.0,0
+SS100530,42,UK,iOS,Mobile,Family,Pop,Ariana Grande,143.5,33,5,258.6,7.7,7,8,35,31.6,3.0,5,33,14.99,1,1,0,897.7,0
+SS100531,23,Germany,Android,Smart Speaker,Student,Lo-fi,Jinsang,178.0,32,10,196.6,4.4,11,10,3,53.3,2.6,3,39,5.99,1,0,0,1364.3,0
+SS100532,23,Brazil,iOS,Mobile,Free,K-Pop,BLACKPINK,66.1,12,2,167.3,15.4,11,11,29,31.6,3.4,14,22,0.0,0,0,0,410.3,0
+SS100533,28,Germany,Desktop,Mobile,Premium,Classical,Max Richter,117.9,33,2,212.9,6.0,11,17,19,21.9,5.0,10,6,9.99,1,0,0,575.1,0
+SS100534,41,USA,Android,Mobile,Family,Lo-fi,Idealism,119.3,24,7,175.2,27.6,16,16,3,0.9,4.5,1,25,14.99,1,0,0,818.9,0
+SS100535,22,Japan,Android,Tablet,Free,Lo-fi,Chillhop Music,218.5,57,7,258.2,6.3,10,10,13,8.3,4.2,21,11,0.0,0,0,1,1407.4,1
+SS100536,36,South Korea,iOS,Tablet,Student,Lo-fi,Idealism,82.9,24,3,210.0,9.7,7,19,24,41.8,4.3,4,29,5.99,0,0,1,438.7,0
+SS100537,21,UK,Web,Mobile,Student,Rock,Foo Fighters,57.7,12,6,204.2,19.9,8,16,25,54.4,3.4,3,14,5.99,1,0,0,417.1,0
+SS100538,40,USA,Android,Mobile,Free,Country,Luke Combs,125.5,30,7,232.5,12.9,6,13,32,25.8,5.0,14,27,0.0,0,0,0,823.7,0
+SS100539,16,Germany,Android,Mobile,Premium,Classical,Hans Zimmer,150.2,35,7,171.8,6.4,6,15,33,61.6,4.2,5,17,9.99,1,0,0,939.2,0
+SS100540,47,USA,Web,Mobile,Free,K-Pop,BLACKPINK,112.3,22,9,161.0,31.3,7,10,7,14.1,4.1,12,25,0.0,0,0,0,829.6,0
+SS100541,18,Canada,iOS,Mobile,Premium,Country,Carrie Underwood,226.7,59,6,225.5,10.0,9,17,28,26.4,4.6,7,34,9.99,1,0,0,1401.4,0
+SS100542,24,Brazil,Web,Mobile,Premium,Hip-Hop,Travis Scott,82.7,18,13,168.2,15.6,9,16,32,28.3,2.8,19,34,9.99,1,0,1,656.7,1
+SS100543,23,UK,Android,Laptop,Premium,EDM,Calvin Harris,113.9,29,10,168.2,15.5,9,13,26,68.6,3.1,9,13,9.99,1,1,0,836.3,0
+SS100544,53,Canada,Android,Laptop,Student,Hip-Hop,Kendrick Lamar,38.3,12,5,241.8,22.0,12,19,30,37.9,3.6,6,18,5.99,1,0,0,262.8,0
+SS100545,18,Canada,iOS,Smart Speaker,Free,Rock,Coldplay,55.6,14,8,230.0,20.2,10,10,3,0.0,4.6,10,18,0.0,0,0,1,428.3,1
+SS100546,35,Japan,Android,Mobile,Premium,EDM,Calvin Harris,66.4,12,8,162.4,11.2,9,15,13,55.9,2.8,17,24,9.99,0,0,0,437.9,0
+SS100547,42,South Korea,iOS,Laptop,Premium,Country,Luke Combs,91.2,22,12,186.5,14.7,13,18,39,75.6,3.7,3,41,9.99,1,0,1,734.1,0
+SS100548,39,South Korea,Android,Smart Speaker,Student,Country,Luke Combs,42.8,13,6,175.7,15.4,11,15,21,29.5,3.6,12,20,5.99,1,1,1,173.0,0
+SS100549,46,USA,iOS,Mobile,Family,R&B,Bruno Mars,142.3,30,11,277.5,22.2,8,16,48,15.3,2.5,8,27,14.99,1,0,1,1071.7,0
+SS100550,52,Japan,Desktop,Mobile,Free,R&B,SZA,62.7,12,8,244.4,8.8,9,13,10,54.0,3.4,9,19,0.0,1,0,0,386.4,1
+SS100551,33,UK,Desktop,Laptop,Family,Classical,Yiruma,308.2,58,13,194.0,31.1,7,21,41,78.2,4.2,3,14,14.99,1,0,1,2400.0,0
+SS100552,53,South Korea,Android,Laptop,Free,Lo-fi,Chillhop Music,64.1,14,13,231.9,11.7,9,16,17,53.7,2.6,12,8,0.0,0,1,0,525.2,0
+SS100553,30,Germany,Android,Tablet,Free,Lo-fi,Lofi Girl,107.2,27,9,158.5,16.9,4,13,33,0.0,4.9,6,16,0.0,0,1,1,730.1,0
+SS100554,60,France,Desktop,Laptop,Student,Rock,Linkin Park,99.4,22,7,184.4,8.9,11,11,21,51.6,4.2,8,10,5.99,1,0,0,659.1,0
+SS100555,38,Australia,iOS,Smart Speaker,Free,Hip-Hop,J. Cole,52.6,10,10,214.0,7.9,6,12,25,43.9,4.1,2,10,0.0,0,0,1,394.9,0
+SS100556,49,Canada,iOS,Mobile,Free,K-Pop,TWICE,91.4,18,7,227.2,10.9,6,15,31,14.0,3.8,3,25,0.0,0,0,0,493.2,0
+SS100557,55,South Korea,Web,Tablet,Free,R&B,Bruno Mars,90.7,18,14,206.3,10.2,10,14,17,63.4,2.9,12,27,0.0,0,0,1,826.7,0
+SS100558,51,Canada,Android,Mobile,Student,Hip-Hop,Drake,167.2,40,8,219.4,14.1,10,16,33,44.6,3.3,17,35,5.99,0,0,0,1165.8,1
+SS100559,54,Japan,Android,Mobile,Premium,Pop,The Weeknd,128.2,39,7,213.0,10.1,11,18,21,63.9,4.1,11,6,9.99,0,0,1,823.9,0
+SS100560,40,India,Web,Mobile,Free,EDM,Avicii,141.1,32,6,203.8,21.9,7,15,26,11.6,3.3,9,32,0.0,0,0,1,897.6,0
+SS100561,17,Brazil,iOS,Laptop,Premium,R&B,H.E.R.,165.1,49,4,198.7,11.5,11,9,2,43.8,4.0,3,3,9.99,1,0,0,933.0,0
+SS100562,38,France,iOS,Mobile,Premium,Classical,Yiruma,142.4,45,10,193.8,10.7,7,12,20,15.3,3.1,4,14,9.99,1,0,0,1000.7,0
+SS100563,24,UK,Desktop,Mobile,Free,Rock,Linkin Park,117.3,28,5,218.8,14.2,7,14,38,40.4,4.2,9,19,0.0,0,0,0,795.3,0
+SS100564,56,France,Android,Laptop,Free,K-Pop,BLACKPINK,66.0,14,12,225.6,23.9,17,13,32,67.5,4.2,9,14,0.0,0,0,0,564.0,0
+SS100565,26,India,Web,Mobile,Family,Jazz,Miles Davis,113.0,22,3,217.5,18.5,8,15,34,3.6,2.5,11,21,14.99,1,1,2,644.4,0
+SS100566,26,USA,Android,Mobile,Premium,EDM,David Guetta,58.3,12,8,165.2,16.3,17,20,25,4.9,3.9,11,23,9.99,1,0,0,384.2,0
+SS100567,27,Canada,Desktop,Mobile,Student,Hip-Hop,Travis Scott,95.6,19,12,172.0,7.0,7,18,42,56.0,2.6,5,2,5.99,1,0,0,826.5,0
+SS100568,44,Canada,Android,Tablet,Premium,Classical,Yiruma,88.3,18,1,225.2,9.0,6,12,27,34.7,2.3,7,28,9.99,0,0,1,360.8,0
+SS100569,41,Brazil,Android,Laptop,Free,Jazz,John Coltrane,91.7,19,15,265.9,8.1,8,15,17,60.8,3.3,10,15,0.0,0,2,0,805.4,0
+SS100570,58,South Korea,iOS,Mobile,Free,R&B,H.E.R.,43.1,14,7,215.8,26.1,4,14,33,17.2,5.0,11,31,0.0,0,0,0,313.7,0
+SS100571,34,USA,Desktop,Tablet,Premium,Rock,Foo Fighters,10.3,2,8,194.4,20.7,6,13,34,36.1,4.4,3,32,9.99,1,0,2,43.4,0
+SS100572,28,Japan,Web,Tablet,Free,Classical,Hans Zimmer,78.7,24,10,218.5,11.0,13,10,31,50.1,4.9,46,22,0.0,1,1,2,571.0,0
+SS100573,18,South Korea,iOS,Mobile,Premium,R&B,SZA,186.8,59,11,166.8,13.0,10,19,20,39.6,4.3,2,34,9.99,1,0,0,1484.3,0
+SS100574,16,Germany,Desktop,Mobile,Student,EDM,Avicii,106.2,31,9,259.7,11.2,7,16,27,0.0,4.0,3,12,5.99,1,0,0,779.6,0
+SS100575,32,France,iOS,Mobile,Premium,R&B,Bruno Mars,179.3,35,11,217.1,10.8,10,18,39,97.1,4.5,9,14,9.99,1,0,0,1354.3,0
+SS100576,57,India,Web,Laptop,Student,R&B,SZA,58.6,12,10,184.6,20.2,7,15,29,39.7,3.3,24,5,5.99,1,1,1,437.1,0
+SS100577,39,Japan,Android,Smart Speaker,Free,K-Pop,BLACKPINK,76.3,14,14,203.7,15.0,10,15,8,5.5,4.2,10,28,0.0,0,1,0,743.9,0
+SS100578,56,Australia,Android,Mobile,Free,EDM,Calvin Harris,318.4,58,10,190.0,31.6,5,16,17,41.9,4.7,5,21,0.0,0,0,0,2400.0,0
+SS100579,20,Australia,Android,Mobile,Free,EDM,Avicii,60.9,12,15,259.8,25.8,10,12,17,44.4,4.4,12,19,0.0,0,1,0,564.1,0
+SS100580,20,Brazil,Desktop,Mobile,Premium,Jazz,Miles Davis,139.6,42,11,202.3,26.2,6,7,16,56.9,4.8,13,18,9.99,1,1,1,1100.3,0
+SS100581,53,Japan,Android,Mobile,Free,R&B,H.E.R.,139.5,27,2,215.9,21.7,9,22,2,55.4,3.9,18,17,0.0,0,0,2,637.6,0
+SS100582,20,Australia,Android,Tablet,Free,Hip-Hop,Kendrick Lamar,130.9,26,17,231.8,14.0,9,13,45,30.3,5.0,16,10,0.0,0,0,0,1217.8,0
+SS100583,18,UK,Android,Tablet,Free,Country,Luke Combs,140.6,27,6,181.9,21.2,4,18,14,0.0,3.6,27,9,0.0,0,1,1,830.6,0
+SS100584,34,UK,Android,Smart Speaker,Free,Pop,Taylor Swift,60.3,18,13,217.4,14.6,3,12,15,45.1,5.0,16,50,0.0,1,0,1,397.8,0
+SS100585,57,France,iOS,Mobile,Premium,Classical,Max Richter,81.0,25,8,220.4,28.4,14,12,3,0.0,4.3,15,27,9.99,0,1,0,581.5,1
+SS100586,47,Australia,Android,Laptop,Free,Rock,Imagine Dragons,13.2,2,12,150.9,19.8,9,15,34,61.7,3.5,17,19,0.0,1,1,0,61.5,1
+SS100587,20,Canada,Web,Tablet,Family,Rock,Linkin Park,222.5,65,6,219.6,18.8,8,13,23,18.9,2.9,2,17,14.99,1,1,0,1445.7,0
+SS100588,53,Germany,Web,Laptop,Free,Pop,The Weeknd,140.1,36,10,208.3,17.9,7,19,20,49.0,3.2,9,25,0.0,0,0,1,1008.0,0
+SS100589,53,Brazil,iOS,Smart Speaker,Premium,Lo-fi,Jinsang,66.5,16,7,214.9,29.2,7,19,21,20.6,3.0,3,38,9.99,1,1,1,533.5,0
+SS100590,52,India,Android,Mobile,Student,EDM,David Guetta,59.0,18,14,211.4,7.0,11,17,30,24.2,3.7,4,22,5.99,1,0,0,502.8,0
+SS100591,56,India,Web,Mobile,Free,R&B,SZA,188.6,62,10,219.8,29.9,11,14,19,17.4,2.8,8,60,0.0,0,1,0,1492.6,0
+SS100592,26,Germany,iOS,Mobile,Family,K-Pop,NewJeans,63.5,12,11,260.8,15.7,7,17,2,50.8,4.8,10,29,14.99,1,1,0,482.3,0
+SS100593,60,Brazil,Android,Tablet,Family,Pop,Dua Lipa,66.3,13,1,165.2,7.2,10,18,10,21.3,3.9,24,15,14.99,1,0,0,301.2,0
+SS100594,30,Australia,Android,Mobile,Family,Classical,Yiruma,51.1,10,8,197.0,11.7,15,16,9,51.9,3.9,12,9,14.99,1,0,1,417.4,0
+SS100595,52,UK,Android,Tablet,Free,EDM,David Guetta,155.1,42,9,235.3,5.4,7,16,27,21.9,2.9,11,37,0.0,0,0,0,1060.5,0
+SS100596,42,Japan,iOS,Mobile,Free,Classical,Max Richter,177.8,50,9,228.3,21.6,11,11,34,29.9,3.2,5,11,0.0,0,1,0,1284.9,0
+SS100597,51,USA,Android,Laptop,Premium,Hip-Hop,Kendrick Lamar,88.6,22,11,227.5,9.7,3,14,40,35.8,2.0,25,32,9.99,1,0,0,681.8,0
+SS100598,44,Brazil,Web,Laptop,Free,Lo-fi,Jinsang,178.5,43,7,314.6,18.2,10,15,6,38.4,5.0,3,25,0.0,0,1,0,1204.2,0
+SS100599,44,Australia,iOS,Mobile,Premium,Rock,Linkin Park,124.6,41,8,233.3,24.9,8,14,31,14.7,2.7,13,7,9.99,1,0,1,846.0,0
+SS100600,43,Canada,Android,Mobile,Premium,Jazz,Chet Baker,49.0,10,12,253.0,12.3,11,16,17,50.5,2.7,1,25,9.99,1,1,0,397.7,0
+SS100601,51,USA,Android,Laptop,Premium,K-Pop,TWICE,213.6,39,1,198.3,15.1,8,11,56,29.0,4.9,8,27,9.99,1,0,1,1057.7,0
+SS100602,49,Brazil,iOS,Smart Speaker,Premium,R&B,Bruno Mars,50.7,12,10,172.3,7.9,13,17,39,47.0,4.1,16,17,9.99,1,0,0,378.5,0
+SS100603,22,USA,Android,Mobile,Premium,Hip-Hop,Travis Scott,92.5,23,7,198.1,14.3,12,16,43,34.6,3.9,8,16,9.99,0,0,1,650.7,0
+SS100604,53,Germany,Android,Mobile,Free,Rock,Imagine Dragons,88.8,22,5,237.1,35.0,11,15,33,47.9,4.1,26,17,0.0,0,0,0,523.0,0
+SS100605,40,South Korea,iOS,Tablet,Free,Country,Luke Combs,79.5,25,9,225.5,22.4,4,17,28,26.0,4.6,7,37,0.0,1,0,1,599.8,0
+SS100606,30,Japan,Android,Mobile,Premium,Lo-fi,Idealism,24.6,7,12,225.3,15.1,12,22,20,17.6,3.9,0,16,9.99,1,0,0,253.5,0
+SS100607,39,India,Android,Mobile,Student,Lo-fi,Jinsang,282.3,66,12,201.9,12.7,7,16,17,44.4,2.6,2,6,5.99,1,0,0,2294.4,0
+SS100608,59,France,iOS,Tablet,Free,Rock,Foo Fighters,27.3,7,8,195.8,16.7,10,20,15,24.1,4.4,13,21,0.0,0,0,0,235.0,0
+SS100609,54,Brazil,iOS,Tablet,Student,Jazz,Norah Jones,221.0,51,11,203.2,17.9,14,20,31,67.1,4.1,10,5,5.99,1,0,0,1698.3,0
+SS100610,53,South Korea,Android,Mobile,Premium,Hip-Hop,Drake,57.7,11,11,237.5,14.1,12,12,41,36.5,4.7,4,24,9.99,1,1,2,388.9,0
+SS100611,36,India,Web,Smart Speaker,Premium,K-Pop,BLACKPINK,70.4,20,8,241.9,20.7,10,15,20,4.8,2.8,8,10,9.99,1,1,1,468.3,0
+SS100612,51,France,iOS,Laptop,Premium,EDM,Avicii,209.1,68,6,171.8,10.3,8,18,16,22.1,3.2,11,18,9.99,1,0,0,1267.3,0
+SS100613,33,Japan,Android,Mobile,Free,K-Pop,NewJeans,132.3,43,6,239.0,10.3,11,19,8,13.0,4.1,6,11,0.0,0,0,0,850.1,0
+SS100614,46,South Korea,Web,Mobile,Free,Jazz,John Coltrane,39.2,12,11,185.3,19.6,5,16,27,58.6,3.0,9,44,0.0,0,0,0,290.7,0
+SS100615,44,France,iOS,Tablet,Student,Lo-fi,Chillhop Music,38.7,9,8,227.8,8.8,9,17,38,52.0,1.9,1,25,5.99,1,0,0,275.8,0
+SS100616,27,South Korea,Desktop,Laptop,Free,EDM,Calvin Harris,121.4,24,4,202.7,22.1,12,19,38,33.7,4.0,22,10,0.0,1,0,0,709.1,0
+SS100617,27,Australia,Android,Laptop,Premium,R&B,SZA,50.1,10,2,269.5,16.9,6,22,39,41.4,4.5,20,22,9.99,1,1,1,313.3,1
+SS100618,18,South Korea,Android,Mobile,Premium,Classical,Yiruma,135.9,30,11,194.1,4.2,9,13,29,33.1,3.7,8,9,9.99,1,0,1,1067.1,0
+SS100619,22,France,iOS,Mobile,Free,Hip-Hop,Travis Scott,143.9,36,6,216.8,17.8,7,13,25,53.9,4.2,2,18,0.0,0,0,0,963.7,0
+SS100620,35,France,Desktop,Laptop,Free,Hip-Hop,J. Cole,61.7,18,9,233.1,5.2,7,18,38,46.4,4.1,29,38,0.0,1,0,1,410.2,0
+SS100621,37,Brazil,Web,Mobile,Free,Classical,Max Richter,72.8,18,12,176.8,21.9,12,11,12,50.4,3.8,8,26,0.0,0,2,0,516.1,0
+SS100622,23,France,iOS,Tablet,Family,Country,Morgan Wallen,123.7,32,3,207.2,15.3,6,13,19,30.8,3.9,1,11,14.99,1,0,0,622.8,0
+SS100623,34,Germany,Web,Mobile,Premium,Classical,Ludovico Einaudi,60.0,12,8,199.9,30.0,6,12,43,21.1,4.9,3,8,9.99,1,1,0,407.9,0
+SS100624,43,Australia,Android,Mobile,Free,K-Pop,BLACKPINK,106.3,25,7,190.5,24.5,11,27,12,49.6,3.0,3,28,0.0,0,1,0,742.4,0
+SS100625,26,USA,iOS,Mobile,Family,Hip-Hop,Drake,329.1,92,9,193.3,9.6,5,27,24,69.1,4.4,2,48,14.99,1,1,0,2383.1,0
+SS100626,31,Australia,iOS,Tablet,Student,EDM,Martin Garrix,127.1,34,12,252.3,2.9,4,19,31,59.3,2.9,4,18,5.99,1,1,0,1087.4,0
+SS100627,32,France,Android,Mobile,Student,Jazz,Miles Davis,80.2,24,3,187.3,11.7,11,12,25,69.8,3.2,8,37,5.99,1,0,0,512.9,0
+SS100628,38,USA,Android,Mobile,Family,R&B,SZA,298.2,56,10,231.5,8.5,11,23,37,38.6,4.8,13,26,14.99,0,1,1,2155.5,0
+SS100629,32,South Korea,Android,Mobile,Free,Pop,Dua Lipa,161.4,52,12,222.0,29.8,9,15,41,13.7,2.8,7,27,0.0,0,1,0,1398.5,0
+SS100630,49,Brazil,Android,Laptop,Free,Pop,Dua Lipa,51.0,17,7,156.9,16.9,12,13,29,15.6,3.6,6,9,0.0,0,0,1,262.5,0
+SS100631,30,USA,Android,Tablet,Premium,Lo-fi,Chillhop Music,57.5,17,8,229.7,23.5,12,13,39,65.4,5.0,6,18,9.99,1,0,0,479.7,0
+SS100632,35,UK,Android,Mobile,Free,Jazz,John Coltrane,29.8,6,9,156.3,15.0,6,14,14,0.0,4.6,4,19,0.0,0,0,0,214.3,0
+SS100633,33,India,iOS,Mobile,Premium,Rock,Foo Fighters,122.4,28,9,233.9,15.7,10,15,22,68.1,3.2,13,4,9.99,1,0,0,854.5,0
+SS100634,24,Japan,iOS,Tablet,Free,Rock,Foo Fighters,21.2,5,10,190.7,16.8,7,18,50,17.7,3.3,18,13,0.0,0,1,0,153.9,0
+SS100635,46,Canada,Android,Mobile,Free,Pop,Dua Lipa,298.0,77,10,210.3,24.7,10,15,45,77.3,3.7,22,14,0.0,0,0,0,2107.0,0
+SS100636,26,USA,iOS,Laptop,Free,Lo-fi,Lofi Girl,86.2,27,5,160.8,19.2,13,20,10,33.4,4.8,10,11,0.0,1,0,1,579.1,0
+SS100637,29,USA,Android,Mobile,Student,Hip-Hop,Drake,167.0,32,11,214.7,9.6,13,13,24,50.9,3.0,21,17,5.99,1,0,0,1221.0,0
+SS100638,51,Germany,iOS,Tablet,Free,K-Pop,BLACKPINK,81.5,23,12,245.2,28.4,8,17,25,87.5,3.0,17,31,0.0,0,0,0,615.7,1
+SS100639,58,Canada,Desktop,Smart Speaker,Free,Rock,Foo Fighters,121.2,39,9,179.3,15.0,12,29,29,27.7,4.4,8,31,0.0,0,1,0,805.2,1
+SS100640,46,France,Web,Mobile,Family,R&B,Bruno Mars,93.3,21,3,186.9,13.8,6,28,38,27.4,2.5,3,41,14.99,1,0,0,474.4,0
+SS100641,57,France,iOS,Mobile,Free,Rock,Foo Fighters,104.5,33,8,227.3,1.0,12,13,44,19.7,3.1,11,34,0.0,0,1,0,680.1,0
+SS100642,54,UK,iOS,Mobile,Free,Country,Chris Stapleton,196.4,61,9,228.2,21.4,14,14,24,13.0,3.7,7,23,0.0,0,0,0,1375.3,0
+SS100643,37,South Korea,Android,Mobile,Free,Pop,Dua Lipa,249.8,50,4,120.0,17.7,9,8,36,27.7,3.8,2,42,0.0,0,0,0,1429.5,0
+SS100644,50,India,Android,Mobile,Free,R&B,Frank Ocean,239.1,57,7,286.6,17.7,12,15,31,22.8,2.7,9,15,0.0,0,1,0,1514.7,0
+SS100645,30,Australia,Android,Mobile,Free,Rock,Coldplay,360.0,100,3,230.1,14.2,7,12,24,7.5,4.1,12,20,0.0,0,0,0,1984.8,0
+SS100646,36,Germany,iOS,Laptop,Premium,Rock,Foo Fighters,64.3,17,10,236.5,13.0,9,17,5,30.4,4.2,14,50,9.99,1,0,0,465.2,0
+SS100647,40,UK,Desktop,Mobile,Free,Hip-Hop,Kendrick Lamar,128.0,27,9,204.5,14.4,9,16,35,44.9,3.3,10,15,0.0,0,0,1,928.7,0
+SS100648,59,Brazil,Web,Mobile,Family,Lo-fi,Lofi Girl,65.3,21,2,139.5,20.2,9,16,31,15.3,5.0,3,3,14.99,1,0,0,373.9,0
+SS100649,54,Germany,iOS,Smart Speaker,Family,R&B,SZA,191.9,58,9,235.6,21.5,7,11,28,31.4,4.1,1,8,14.99,1,0,0,1489.6,0
+SS100650,38,France,iOS,Mobile,Free,EDM,Calvin Harris,52.6,12,8,188.5,15.4,7,8,13,65.9,3.0,11,18,0.0,0,0,1,399.2,0
+SS100651,45,France,iOS,Smart Speaker,Free,R&B,Bruno Mars,198.4,44,10,230.7,23.6,9,17,46,3.8,5.0,9,11,0.0,0,1,0,1464.2,0
+SS100652,25,South Korea,iOS,Laptop,Free,Lo-fi,Jinsang,114.6,21,7,201.7,16.4,12,15,26,77.5,3.4,27,8,0.0,0,0,1,666.9,0
+SS100653,52,Japan,Web,Mobile,Premium,R&B,H.E.R.,96.5,25,5,219.0,13.5,2,15,11,20.2,3.9,13,32,9.99,1,1,1,583.7,0
+SS100654,40,Canada,iOS,Laptop,Free,R&B,Frank Ocean,103.3,33,5,180.6,18.4,11,13,10,39.4,3.4,7,26,0.0,0,0,1,665.4,0
+SS100655,39,South Korea,iOS,Smart Speaker,Family,R&B,SZA,46.5,11,6,242.8,7.5,15,13,31,63.1,4.3,7,4,14.99,0,1,1,298.2,0
+SS100656,50,Canada,Android,Tablet,Premium,R&B,SZA,49.2,11,8,164.8,18.6,10,11,32,69.9,3.4,2,35,9.99,0,0,2,345.6,0
+SS100657,44,Japan,iOS,Mobile,Premium,Pop,The Weeknd,115.8,35,9,295.3,6.2,9,12,19,45.3,3.5,5,58,9.99,0,1,0,844.5,0
+SS100658,19,Australia,Android,Mobile,Student,Jazz,Norah Jones,115.3,26,7,295.0,9.8,11,17,29,19.7,3.7,8,13,5.99,1,0,0,672.4,0
+SS100659,28,Germany,Android,Mobile,Family,Pop,Dua Lipa,67.2,19,7,272.0,2.9,6,13,31,17.8,3.4,25,26,14.99,0,0,0,428.3,1
+SS100660,23,South Korea,iOS,Mobile,Free,Rock,Linkin Park,85.6,17,7,258.5,15.8,9,21,26,22.4,4.7,6,10,0.0,0,0,0,597.6,0
+SS100661,49,USA,Desktop,Mobile,Student,Rock,Imagine Dragons,134.3,26,17,206.8,28.3,10,13,16,76.6,2.8,19,22,5.99,1,0,1,1243.9,0
+SS100662,17,South Korea,iOS,Smart Speaker,Free,Rock,Foo Fighters,59.8,15,5,254.3,16.2,5,15,35,26.6,3.8,15,27,0.0,0,0,0,400.7,0
+SS100663,25,South Korea,Android,Laptop,Family,K-Pop,BLACKPINK,27.2,5,6,206.3,21.5,6,18,33,42.1,3.9,13,18,14.99,1,0,0,220.5,0
+SS100664,42,Australia,Android,Tablet,Premium,Classical,Ludovico Einaudi,227.0,42,20,151.0,33.5,7,11,30,12.0,3.7,7,12,9.99,0,0,1,2353.1,0
+SS100665,47,Brazil,Android,Mobile,Premium,Lo-fi,Idealism,120.5,36,9,267.1,19.8,7,17,15,9.6,4.6,4,14,9.99,0,1,0,891.6,0
+SS100666,38,UK,Android,Mobile,Free,R&B,SZA,75.0,19,3,252.9,11.6,7,13,9,35.6,2.6,19,5,0.0,0,0,0,393.5,0
+SS100667,54,Japan,Android,Mobile,Family,Lo-fi,Lofi Girl,65.1,14,11,208.8,12.6,7,19,25,27.9,4.3,5,20,14.99,1,0,0,417.7,0
+SS100668,57,USA,Android,Tablet,Student,Pop,Ariana Grande,59.4,18,5,163.4,17.0,12,9,34,29.5,2.8,13,46,5.99,1,0,0,341.3,0
+SS100669,21,Japan,Android,Mobile,Student,Classical,Hans Zimmer,191.5,48,11,187.7,12.6,4,14,35,2.5,3.4,2,8,5.99,0,0,0,1461.5,0
+SS100670,58,Brazil,Android,Mobile,Family,K-Pop,TWICE,41.1,11,7,140.8,13.1,9,11,30,33.4,2.7,3,41,14.99,1,0,1,279.5,0
+SS100671,43,UK,Android,Mobile,Free,Classical,Hans Zimmer,127.8,24,6,245.9,23.9,10,12,19,69.1,3.5,4,16,0.0,1,0,1,839.6,0
+SS100672,44,South Korea,Web,Mobile,Free,Lo-fi,Jinsang,127.8,32,14,149.1,24.2,13,19,15,16.2,3.3,6,5,0.0,0,0,0,1101.1,0
+SS100673,20,UK,Desktop,Mobile,Premium,R&B,SZA,156.7,32,10,220.9,5.5,9,11,24,54.7,5.0,9,32,9.99,0,0,2,1125.0,0
+SS100674,43,Germany,Web,Mobile,Free,Pop,Taylor Swift,79.6,20,11,177.9,11.3,11,11,24,0.0,4.0,11,20,0.0,0,0,0,623.3,0
+SS100675,48,South Korea,Android,Tablet,Free,K-Pop,TWICE,216.3,65,10,155.8,13.8,9,21,36,17.3,4.2,6,9,0.0,0,1,0,1730.8,1
+SS100676,42,India,Android,Laptop,Free,Pop,The Weeknd,159.3,31,6,219.1,21.2,8,20,19,0.0,2.9,4,12,0.0,0,1,0,910.5,0
+SS100677,19,Australia,iOS,Tablet,Free,K-Pop,TWICE,77.9,26,10,197.3,25.0,13,19,20,62.2,4.4,17,14,0.0,0,0,0,578.3,0
+SS100678,39,Brazil,Web,Tablet,Family,K-Pop,BTS,63.2,20,12,241.9,35.9,6,12,47,54.3,5.0,4,18,14.99,1,1,0,489.4,0
+SS100679,58,USA,iOS,Laptop,Premium,Country,Carrie Underwood,93.5,24,8,161.8,13.7,9,19,41,12.2,4.5,8,22,9.99,1,1,0,621.9,0
+SS100680,48,Germany,Web,Mobile,Free,EDM,Martin Garrix,76.3,16,14,181.2,14.1,9,14,14,41.4,2.8,11,22,0.0,0,1,0,650.3,0
+SS100681,22,Brazil,iOS,Mobile,Student,Country,Morgan Wallen,56.5,15,11,120.0,21.1,11,13,40,61.4,3.4,12,30,5.99,1,0,1,418.6,0
+SS100682,59,South Korea,Desktop,Mobile,Student,Hip-Hop,Kendrick Lamar,106.0,33,9,127.0,12.2,12,12,12,64.9,3.9,4,20,5.99,1,0,1,793.9,0
+SS100683,59,UK,Web,Tablet,Premium,EDM,Martin Garrix,86.0,23,9,278.3,16.0,8,13,19,26.1,3.3,6,24,9.99,1,0,2,607.6,0
+SS100684,23,South Korea,Android,Tablet,Family,Hip-Hop,Travis Scott,245.1,68,8,289.2,14.1,12,13,20,0.0,5.0,16,20,14.99,1,0,0,1550.1,0
+SS100685,52,Brazil,Android,Mobile,Family,K-Pop,BTS,76.2,25,4,213.5,1.0,5,18,23,15.2,3.4,7,70,14.99,1,1,0,490.7,0
+SS100686,34,Germany,iOS,Mobile,Free,K-Pop,BTS,62.8,14,8,178.7,17.9,10,16,31,51.9,3.8,8,2,0.0,0,1,1,481.6,0
+SS100687,42,Germany,Android,Mobile,Free,Country,Chris Stapleton,102.0,31,9,198.7,15.7,10,12,25,81.2,3.3,13,8,0.0,1,0,1,693.3,0
+SS100688,36,France,Android,Mobile,Student,K-Pop,NewJeans,118.3,32,7,243.2,25.9,5,7,31,33.8,4.0,1,10,5.99,1,0,0,792.4,0
+SS100689,51,Brazil,iOS,Mobile,Premium,R&B,Frank Ocean,123.7,27,9,190.5,17.0,8,16,20,21.6,4.9,3,19,9.99,1,1,1,951.3,0
+SS100690,60,Australia,iOS,Smart Speaker,Student,Pop,The Weeknd,123.0,26,8,219.0,8.2,5,11,28,87.8,3.9,1,21,5.99,0,0,1,905.1,0
+SS100691,51,France,Web,Mobile,Premium,Lo-fi,Jinsang,104.1,28,11,209.5,15.2,8,14,25,43.9,3.6,12,17,9.99,1,0,0,859.8,0
+SS100692,57,Brazil,Android,Smart Speaker,Premium,EDM,David Guetta,99.6,26,10,188.4,2.4,6,16,9,8.0,2.9,10,26,9.99,1,0,0,755.5,0
+SS100693,58,UK,Desktop,Mobile,Free,Pop,Taylor Swift,144.3,40,9,190.0,8.5,15,11,29,32.4,4.8,17,28,0.0,0,1,0,1044.1,0
+SS100694,20,Brazil,Android,Mobile,Free,Lo-fi,Jinsang,53.2,10,3,221.1,21.4,7,11,25,57.0,3.7,13,18,0.0,0,0,0,345.2,1
+SS100695,27,France,Desktop,Mobile,Free,Lo-fi,Chillhop Music,63.1,18,14,172.9,15.3,6,8,16,33.5,3.7,24,30,0.0,0,2,1,508.0,1
+SS100696,48,Brazil,Android,Mobile,Free,EDM,Martin Garrix,34.0,10,8,227.2,23.5,9,23,19,52.5,1.9,13,16,0.0,1,1,0,249.9,0
+SS100697,42,Japan,iOS,Mobile,Free,K-Pop,BLACKPINK,53.8,13,8,192.1,3.2,4,22,20,0.0,3.7,8,23,0.0,0,0,0,272.2,0
+SS100698,18,Brazil,Desktop,Laptop,Premium,Pop,Dua Lipa,181.0,52,7,214.8,15.3,2,18,21,3.4,3.5,3,3,9.99,1,0,1,1131.7,0
+SS100699,20,South Korea,Android,Mobile,Free,Pop,Taylor Swift,140.9,42,6,262.6,13.7,11,13,43,18.8,2.3,12,18,0.0,1,0,0,895.7,0
+SS100700,39,India,Web,Mobile,Free,Rock,Linkin Park,263.4,81,13,203.6,23.7,4,14,47,28.8,4.6,21,31,0.0,0,0,0,2156.2,0
+SS100701,43,South Korea,iOS,Mobile,Premium,Jazz,Miles Davis,228.9,50,13,245.0,21.7,16,22,2,42.3,3.4,2,3,9.99,1,0,0,1923.1,0
+SS100702,23,France,Android,Mobile,Premium,Hip-Hop,Drake,141.5,31,10,141.9,21.5,8,15,29,49.0,5.0,11,20,9.99,1,0,0,1020.1,0
+SS100703,23,India,iOS,Laptop,Free,Pop,Ariana Grande,111.0,24,8,192.1,27.8,7,15,35,89.3,4.9,9,10,0.0,0,1,0,743.8,0
+SS100704,21,Japan,Android,Laptop,Premium,Jazz,Norah Jones,103.1,21,10,211.1,14.4,10,11,22,18.8,3.2,15,22,9.99,1,0,0,764.0,0
+SS100705,41,Germany,iOS,Mobile,Family,K-Pop,NewJeans,20.2,5,8,283.1,26.3,7,16,34,28.1,4.9,1,17,14.99,1,0,0,36.7,0
+SS100706,16,Canada,Android,Tablet,Premium,K-Pop,BTS,96.4,18,7,135.5,9.7,6,12,42,19.4,5.0,24,24,9.99,1,3,0,627.6,0
+SS100707,41,USA,iOS,Mobile,Premium,K-Pop,BTS,70.4,15,9,206.3,9.4,6,16,9,58.7,3.4,6,12,9.99,1,0,1,507.9,0
+SS100708,37,Canada,iOS,Tablet,Free,Country,Carrie Underwood,55.4,11,6,265.4,22.3,9,13,25,59.9,3.0,4,17,0.0,0,0,1,361.5,0
+SS100709,36,Brazil,Android,Mobile,Family,Jazz,Chet Baker,128.8,27,9,180.2,6.5,6,17,46,25.2,2.1,2,9,14.99,1,0,0,930.2,0
+SS100710,46,Germany,Android,Laptop,Free,Classical,Hans Zimmer,89.4,23,9,201.9,21.0,9,13,10,80.4,4.1,33,14,0.0,0,1,1,537.2,1
+SS100711,39,India,iOS,Mobile,Family,Country,Chris Stapleton,107.0,29,10,222.6,17.7,10,9,23,19.4,3.0,11,21,14.99,0,0,0,742.0,0
+SS100712,48,Canada,Android,Laptop,Premium,R&B,H.E.R.,50.0,12,6,217.0,24.5,10,15,19,57.7,4.1,5,6,9.99,1,0,0,384.3,0
+SS100713,50,India,iOS,Laptop,Free,Pop,Dua Lipa,163.2,50,10,269.5,16.6,9,13,36,67.0,3.3,38,18,0.0,0,1,1,1095.1,0
+SS100714,57,Canada,Desktop,Mobile,Free,K-Pop,TWICE,76.0,18,5,227.0,17.4,8,17,37,5.0,3.2,9,8,0.0,0,2,0,488.6,0
+SS100715,51,France,Android,Mobile,Premium,Rock,Foo Fighters,124.8,40,6,260.5,20.6,10,20,26,47.7,3.4,15,16,9.99,1,1,0,719.1,0
+SS100716,39,Japan,iOS,Laptop,Premium,Lo-fi,Idealism,80.1,27,6,196.3,12.4,6,12,24,0.0,2.8,3,7,9.99,0,0,0,507.3,0
+SS100717,38,France,Desktop,Mobile,Free,EDM,Avicii,17.2,3,4,181.9,12.1,13,14,5,53.1,3.4,11,54,0.0,0,0,0,76.9,0
+SS100718,26,USA,Desktop,Laptop,Premium,Country,Carrie Underwood,131.8,28,12,201.4,20.3,10,15,40,10.8,3.2,8,31,9.99,1,0,3,1048.3,0
+SS100719,42,Brazil,Android,Mobile,Family,Pop,Ariana Grande,93.1,21,5,166.0,16.8,7,16,20,47.5,3.8,5,17,14.99,1,0,0,544.0,0
+SS100720,22,Canada,Web,Mobile,Student,Jazz,John Coltrane,32.2,8,6,228.4,14.1,4,15,22,51.6,3.9,18,41,5.99,0,1,0,261.7,0
+SS100721,57,Australia,Android,Laptop,Student,EDM,Avicii,45.9,10,12,195.3,16.4,9,15,35,59.6,2.9,11,12,5.99,0,0,0,453.6,0
+SS100722,54,France,iOS,Mobile,Free,EDM,Martin Garrix,166.0,32,6,184.5,28.2,8,15,26,54.6,4.7,8,36,0.0,0,0,0,1050.2,0
+SS100723,21,South Korea,Android,Mobile,Premium,Rock,Linkin Park,33.4,7,7,228.9,13.9,9,13,35,36.2,3.7,6,24,9.99,1,0,0,201.9,0
+SS100724,51,Brazil,Android,Mobile,Free,Lo-fi,Idealism,74.8,17,4,166.5,13.7,8,11,31,26.6,5.0,4,12,0.0,0,0,0,368.1,0
+SS100725,21,France,iOS,Tablet,Family,R&B,SZA,276.3,67,11,239.3,5.0,7,17,26,33.4,4.0,11,27,14.99,0,1,2,2063.0,0
+SS100726,48,Australia,Android,Mobile,Free,Country,Carrie Underwood,133.7,35,11,191.8,16.7,7,14,27,10.4,3.9,11,32,0.0,0,1,0,1094.5,0
+SS100727,19,India,Android,Mobile,Premium,EDM,Calvin Harris,153.1,32,11,254.0,21.6,8,14,12,30.3,3.4,1,18,9.99,0,0,1,1142.3,0
+SS100728,37,France,Android,Laptop,Free,Pop,Taylor Swift,84.7,16,10,195.1,22.9,18,26,22,28.6,4.3,11,30,0.0,0,0,0,607.3,0
+SS100729,45,USA,Desktop,Mobile,Free,Country,Morgan Wallen,30.1,7,8,234.0,17.8,9,10,36,17.7,3.8,8,28,0.0,1,1,0,213.7,0
+SS100730,48,UK,iOS,Mobile,Premium,Hip-Hop,Travis Scott,113.1,28,6,216.8,23.7,8,15,14,0.0,4.5,20,22,9.99,1,0,0,569.5,1
+SS100731,34,France,iOS,Mobile,Student,Rock,Linkin Park,48.2,12,5,238.3,22.1,6,24,16,6.9,5.0,2,7,5.99,1,1,0,235.5,0
+SS100732,57,South Korea,Android,Mobile,Student,Country,Carrie Underwood,45.0,11,13,214.2,24.8,14,11,14,0.0,3.2,3,22,5.99,1,1,1,320.2,0
+SS100733,50,India,Desktop,Smart Speaker,Family,Country,Luke Combs,105.5,19,11,146.8,23.9,8,19,26,28.2,4.3,5,2,14.99,1,1,1,794.3,0
+SS100734,25,South Korea,iOS,Laptop,Family,Lo-fi,Chillhop Music,50.5,11,6,248.3,28.0,11,11,39,42.9,4.3,10,18,14.99,1,0,2,326.5,0
+SS100735,46,Japan,Android,Tablet,Family,EDM,Avicii,98.4,25,8,206.7,15.8,10,13,30,0.0,4.2,16,26,14.99,1,1,1,707.2,0
+SS100736,48,USA,iOS,Tablet,Free,K-Pop,BTS,64.5,16,7,240.0,7.7,9,21,2,40.2,3.5,12,10,0.0,0,1,0,388.8,0
+SS100737,31,Germany,Android,Mobile,Premium,R&B,H.E.R.,96.3,24,4,236.2,21.6,9,15,31,32.3,3.5,8,30,9.99,1,0,1,525.0,0
+SS100738,49,UK,Android,Laptop,Family,K-Pop,NewJeans,71.7,23,9,180.6,22.5,11,11,19,9.1,3.3,1,14,14.99,0,1,0,517.1,0
+SS100739,56,Germany,Android,Mobile,Free,Classical,Max Richter,97.9,23,7,175.2,28.0,13,16,30,25.5,3.3,10,10,0.0,0,0,0,603.1,1
+SS100740,52,USA,iOS,Tablet,Free,Pop,The Weeknd,218.3,43,5,234.9,26.0,11,17,22,58.1,3.1,11,28,0.0,0,0,0,1311.2,0
+SS100741,50,India,Android,Smart Speaker,Premium,EDM,David Guetta,155.1,33,3,198.5,30.6,7,11,15,13.6,3.7,5,41,9.99,1,0,0,859.1,1
+SS100742,44,Brazil,Web,Mobile,Student,EDM,Calvin Harris,91.4,26,3,245.6,21.3,9,17,23,36.7,3.2,12,20,5.99,1,0,2,363.5,1
+SS100743,28,Japan,Android,Laptop,Premium,Rock,Linkin Park,199.0,41,7,203.2,18.6,8,13,19,42.6,4.1,28,40,9.99,0,0,0,1268.0,0
+SS100744,51,USA,Android,Mobile,Family,R&B,SZA,125.9,26,8,248.9,7.3,14,9,27,16.9,3.8,4,12,14.99,1,2,0,877.9,0
+SS100745,32,Brazil,Android,Tablet,Premium,Classical,Max Richter,191.4,52,5,226.1,19.2,12,12,14,57.2,3.9,11,11,9.99,1,1,0,1144.4,0
+SS100746,39,Australia,Android,Mobile,Student,Pop,Taylor Swift,36.2,8,10,220.9,13.1,9,21,12,43.9,3.6,18,34,5.99,1,0,0,316.4,0
+SS100747,30,France,Android,Mobile,Free,Hip-Hop,Drake,50.9,11,8,195.8,18.5,10,14,32,29.5,3.9,24,26,0.0,0,1,1,254.7,1
+SS100748,30,Germany,Android,Tablet,Student,K-Pop,BTS,112.3,22,10,218.8,17.4,8,19,36,87.0,3.6,3,8,5.99,1,1,0,791.5,0
+SS100749,23,Australia,Android,Mobile,Free,R&B,H.E.R.,90.1,27,7,255.3,20.3,7,18,30,57.3,4.4,24,43,0.0,0,0,0,563.7,0
+SS100750,59,India,Desktop,Mobile,Premium,Jazz,Norah Jones,98.1,28,5,207.9,16.3,10,12,17,0.0,3.4,2,18,9.99,0,0,1,489.5,0
+SS100751,22,France,Android,Laptop,Premium,Classical,Hans Zimmer,137.8,33,8,230.2,23.5,7,17,16,26.4,4.1,2,19,9.99,1,1,0,950.4,0
+SS100752,19,Brazil,Android,Laptop,Free,Classical,Yiruma,113.0,36,4,211.8,1.0,10,13,16,89.3,2.8,7,47,0.0,0,0,0,679.9,0
+SS100753,58,USA,iOS,Mobile,Free,EDM,Avicii,163.6,40,10,214.7,18.3,10,14,34,13.4,4.4,8,40,0.0,0,0,0,1237.6,0
+SS100754,40,India,iOS,Mobile,Family,EDM,Avicii,161.0,32,5,275.5,25.4,14,21,15,36.5,3.4,21,38,14.99,1,0,0,932.4,0
+SS100755,35,UK,Android,Mobile,Free,Country,Carrie Underwood,52.6,16,11,255.7,30.1,13,17,34,62.1,3.1,6,12,0.0,0,0,0,399.3,0
+SS100756,49,Germany,Web,Mobile,Student,Lo-fi,Chillhop Music,17.7,4,7,213.0,22.1,7,10,31,49.4,2.9,7,22,5.99,0,1,0,97.5,0
+SS100757,33,France,iOS,Smart Speaker,Student,Rock,Coldplay,50.3,9,12,218.1,28.8,12,20,38,52.5,2.8,15,25,5.99,1,0,0,375.9,0
+SS100758,21,Brazil,iOS,Tablet,Premium,Jazz,Norah Jones,48.1,11,4,183.3,18.2,14,22,36,51.2,3.4,1,10,9.99,1,1,2,287.7,0
+SS100759,48,India,iOS,Laptop,Free,Lo-fi,Chillhop Music,102.5,24,6,203.4,17.0,15,10,30,35.6,5.0,9,8,0.0,0,0,0,570.8,0
+SS100760,23,USA,Web,Mobile,Premium,Pop,The Weeknd,101.8,23,9,221.8,20.7,4,16,8,17.6,3.3,14,17,9.99,1,0,2,783.1,0
+SS100761,40,UK,Android,Smart Speaker,Free,K-Pop,BTS,86.8,25,12,242.3,17.0,8,10,31,44.6,2.0,8,30,0.0,1,0,0,665.6,0
+SS100762,58,India,Desktop,Mobile,Premium,EDM,Martin Garrix,128.7,38,14,238.5,11.5,12,19,25,26.1,4.1,7,3,9.99,1,1,0,1141.0,0
+SS100763,58,USA,Android,Smart Speaker,Free,Lo-fi,Chillhop Music,344.8,73,8,167.8,13.4,13,16,20,24.4,2.9,17,20,0.0,0,1,1,2314.4,0
+SS100764,32,India,iOS,Smart Speaker,Student,Classical,Ludovico Einaudi,85.6,21,14,247.1,9.2,7,27,39,67.6,4.5,10,9,5.99,1,0,1,684.8,0
+SS100765,51,Japan,Android,Smart Speaker,Student,Country,Carrie Underwood,115.1,31,7,206.6,20.7,10,23,22,26.6,3.5,3,32,5.99,0,0,1,822.9,0
+SS100766,43,Brazil,iOS,Mobile,Free,Hip-Hop,Drake,98.1,32,12,172.5,17.1,7,21,18,72.5,3.6,24,23,0.0,0,0,1,806.1,0
+SS100767,37,Japan,Web,Mobile,Free,Hip-Hop,Kendrick Lamar,67.7,13,5,260.8,14.5,6,19,36,40.6,4.8,8,9,0.0,0,0,1,333.0,0
+SS100768,22,USA,iOS,Laptop,Free,Lo-fi,Lofi Girl,138.6,45,9,265.6,13.0,14,14,20,31.5,4.3,2,32,0.0,0,0,0,1003.7,0
+SS100769,32,France,Android,Mobile,Free,Classical,Ludovico Einaudi,83.0,17,1,220.0,20.5,14,10,18,0.0,2.8,11,23,0.0,1,0,0,402.5,0
+SS100770,45,Canada,Web,Mobile,Free,Classical,Max Richter,58.6,15,4,236.9,22.5,8,24,12,81.6,2.9,7,16,0.0,0,0,1,239.8,1
+SS100771,60,USA,Desktop,Laptop,Family,Hip-Hop,Travis Scott,61.5,14,10,239.2,9.1,9,9,15,34.9,2.4,10,54,14.99,1,0,0,361.1,0
+SS100772,16,USA,Android,Laptop,Student,Rock,Imagine Dragons,166.9,46,3,263.0,8.0,6,13,16,0.0,5.0,11,18,5.99,0,0,0,851.8,0
+SS100773,48,Canada,Android,Mobile,Premium,Country,Carrie Underwood,136.6,40,9,237.7,23.7,11,20,31,56.7,3.1,1,14,9.99,1,0,1,936.1,0
+SS100774,54,India,iOS,Mobile,Family,R&B,Bruno Mars,72.5,17,11,159.5,7.4,5,10,13,33.9,4.7,5,27,14.99,1,1,0,519.9,0
+SS100775,58,Canada,iOS,Laptop,Free,Classical,Yiruma,127.5,27,6,286.4,20.8,14,10,4,14.5,3.4,17,45,0.0,0,0,1,720.9,0
+SS100776,35,Brazil,Android,Mobile,Premium,R&B,Bruno Mars,98.8,28,5,250.5,28.3,8,15,27,55.5,2.9,7,3,9.99,1,1,0,585.1,0
+SS100777,21,France,Android,Laptop,Family,Rock,Linkin Park,116.2,28,6,190.6,28.3,15,16,17,0.0,3.8,4,36,14.99,1,1,0,695.4,0
+SS100778,28,India,iOS,Tablet,Premium,Hip-Hop,Kendrick Lamar,66.5,16,5,170.9,22.2,9,17,24,19.3,3.5,13,27,9.99,1,0,0,442.0,0
+SS100779,54,Germany,Web,Tablet,Student,Lo-fi,Lofi Girl,49.1,14,8,229.2,22.0,9,13,38,28.4,4.4,13,41,5.99,1,1,0,340.8,0
+SS100780,55,UK,Android,Tablet,Student,Lo-fi,Idealism,82.7,19,8,199.4,32.8,5,5,25,53.7,4.5,8,37,5.99,0,2,0,603.3,0
+SS100781,44,Canada,iOS,Mobile,Free,Hip-Hop,J. Cole,55.0,16,7,222.5,1.0,4,12,41,84.3,3.3,13,24,0.0,1,0,0,280.1,0
+SS100782,21,Brazil,Web,Tablet,Student,R&B,Bruno Mars,52.3,12,14,238.2,13.7,5,14,23,29.6,2.6,5,27,5.99,0,0,0,427.4,0
+SS100783,21,UK,Android,Mobile,Family,Classical,Ludovico Einaudi,37.8,12,5,188.5,22.9,10,12,35,45.1,2.8,8,21,14.99,1,0,0,231.5,0
+SS100784,37,Australia,Android,Tablet,Family,R&B,Frank Ocean,17.9,4,13,167.6,14.6,4,18,18,95.5,2.0,6,42,14.99,0,0,0,170.3,0
+SS100785,42,Canada,Android,Mobile,Free,K-Pop,TWICE,73.4,19,4,224.7,25.7,10,27,25,35.1,3.6,14,12,0.0,0,0,0,380.2,0
+SS100786,17,Canada,iOS,Laptop,Premium,Rock,Imagine Dragons,184.7,45,8,189.7,16.7,9,10,14,45.3,3.8,4,20,9.99,1,0,1,1257.6,0
+SS100787,46,Japan,iOS,Mobile,Free,Pop,Dua Lipa,159.3,39,12,215.6,17.9,8,13,15,7.8,2.9,5,30,0.0,0,1,2,1274.8,0
+SS100788,40,UK,Web,Mobile,Family,R&B,H.E.R.,236.7,45,12,159.0,15.1,11,13,22,78.1,2.8,6,32,14.99,1,0,1,1902.9,0
+SS100789,16,Germany,iOS,Mobile,Free,Classical,Max Richter,50.8,12,7,200.4,13.3,8,17,9,19.3,3.8,10,32,0.0,1,0,0,428.8,0
+SS100790,20,Japan,Android,Mobile,Family,Hip-Hop,Drake,143.7,28,10,237.2,13.2,8,18,26,40.9,3.3,11,26,14.99,1,0,0,1077.7,0
+SS100791,36,Brazil,Android,Mobile,Premium,Country,Carrie Underwood,91.2,26,9,233.0,18.9,12,19,21,40.3,3.6,19,32,9.99,0,0,1,636.2,0
+SS100792,48,Japan,Android,Tablet,Free,Pop,Ariana Grande,61.6,16,6,180.0,11.6,9,24,27,36.9,3.5,9,27,0.0,1,0,0,328.3,0
+SS100793,53,Australia,iOS,Laptop,Free,Pop,Ariana Grande,172.9,54,10,165.6,23.7,4,16,10,25.4,4.0,7,47,0.0,0,0,0,1236.7,0
+SS100794,35,Australia,Desktop,Laptop,Premium,Classical,Max Richter,91.7,23,15,210.6,21.6,8,14,32,40.3,3.3,13,12,9.99,1,0,0,800.9,0
+SS100795,29,India,iOS,Tablet,Free,Classical,Hans Zimmer,27.2,6,10,231.3,24.7,8,12,43,73.7,3.4,7,32,0.0,0,0,0,254.2,1
+SS100796,59,Japan,iOS,Mobile,Student,Rock,Foo Fighters,158.3,31,10,225.4,9.1,12,11,40,85.2,2.3,1,19,5.99,1,1,1,1192.5,0
+SS100797,36,Brazil,Android,Smart Speaker,Family,Rock,Foo Fighters,122.4,28,10,190.5,5.1,7,15,45,31.1,3.8,6,21,14.99,1,0,0,910.3,0
+SS100798,30,Germany,iOS,Mobile,Premium,Pop,Dua Lipa,106.1,23,3,221.3,17.0,3,14,24,25.1,3.9,16,49,9.99,1,0,0,524.3,0
+SS100799,35,Japan,iOS,Mobile,Free,Jazz,Chet Baker,44.1,13,10,267.1,37.3,8,15,20,17.2,3.7,9,48,0.0,0,0,1,249.4,0
+SS100800,16,Brazil,Web,Mobile,Student,R&B,Frank Ocean,113.5,37,4,217.8,25.9,8,18,29,94.1,5.0,8,42,5.99,0,0,0,662.9,0
+SS100801,29,USA,Desktop,Tablet,Free,Hip-Hop,J. Cole,218.6,44,6,147.9,13.1,9,14,21,37.8,3.9,6,15,0.0,0,0,2,1365.0,0
+SS100802,39,UK,Desktop,Mobile,Family,R&B,SZA,120.4,35,16,217.7,20.0,11,10,5,59.5,3.7,2,14,14.99,1,0,1,1150.6,0
+SS100803,57,Brazil,iOS,Mobile,Free,Lo-fi,Lofi Girl,33.9,10,7,287.7,22.1,6,18,33,50.3,4.2,19,9,0.0,0,0,0,223.0,0
+SS100804,49,India,Web,Laptop,Free,Rock,Foo Fighters,125.8,24,5,161.1,7.4,7,12,21,83.6,5.0,8,44,0.0,0,0,0,707.1,0
+SS100805,51,South Korea,iOS,Tablet,Free,Country,Morgan Wallen,121.2,22,12,211.1,26.6,8,19,8,29.6,4.0,7,11,0.0,0,1,0,988.4,0
+SS100806,40,Canada,iOS,Tablet,Family,Rock,Coldplay,150.5,33,5,201.4,15.8,14,19,18,10.6,2.0,7,17,14.99,1,0,1,842.0,0
+SS100807,20,Brazil,Android,Mobile,Free,Hip-Hop,Travis Scott,119.2,30,6,213.6,16.4,6,17,22,75.9,4.1,7,15,0.0,0,0,0,758.2,0
+SS100808,33,Germany,Desktop,Mobile,Family,Rock,Foo Fighters,52.4,10,12,217.4,17.2,11,14,24,54.9,3.1,36,14,14.99,1,1,0,389.0,0
+SS100809,60,Brazil,Desktop,Laptop,Premium,R&B,SZA,102.7,29,8,253.3,25.0,9,9,24,45.0,2.3,12,6,9.99,0,0,0,766.4,0
+SS100810,17,Canada,iOS,Tablet,Premium,Hip-Hop,Kendrick Lamar,83.6,21,3,213.2,11.7,13,14,39,68.8,5.0,2,16,9.99,1,0,2,416.8,0
+SS100811,55,Japan,Android,Mobile,Family,Classical,Ludovico Einaudi,110.1,28,10,258.5,5.1,10,15,10,46.3,5.0,15,22,14.99,1,0,0,746.2,0
+SS100812,46,USA,Android,Laptop,Premium,R&B,Bruno Mars,176.5,33,7,205.5,19.3,11,17,22,69.5,3.1,8,9,9.99,1,0,0,1139.3,0
+SS100813,28,Canada,Android,Mobile,Family,K-Pop,BLACKPINK,64.3,12,13,196.7,2.7,15,16,14,40.4,3.1,9,13,14.99,1,0,1,563.3,0
+SS100814,51,India,Web,Mobile,Free,EDM,Avicii,256.9,56,6,184.6,14.9,6,19,38,54.8,3.9,8,40,0.0,0,0,0,1483.2,0
+SS100815,53,USA,Android,Mobile,Premium,EDM,Avicii,125.3,38,12,141.0,25.3,7,22,18,46.6,3.1,5,11,9.99,0,0,2,1056.4,0
+SS100816,17,India,iOS,Tablet,Student,EDM,Martin Garrix,158.8,38,14,220.5,21.1,13,12,20,27.8,3.7,15,19,5.99,1,1,1,1339.7,0
+SS100817,20,Australia,Android,Laptop,Student,Hip-Hop,Drake,146.8,41,5,288.1,24.3,12,13,36,30.5,3.2,2,20,5.99,1,0,1,837.7,0
+SS100818,45,India,iOS,Mobile,Family,K-Pop,NewJeans,122.4,23,7,227.4,21.3,7,20,39,26.4,3.5,17,13,14.99,1,0,1,768.2,0
+SS100819,60,UK,Web,Laptop,Family,Hip-Hop,Drake,135.7,41,9,236.1,33.9,11,26,40,40.8,2.7,8,34,14.99,1,1,1,938.2,0
+SS100820,17,Australia,Web,Mobile,Premium,K-Pop,BTS,5.2,2,5,194.3,12.9,5,16,6,25.0,4.5,1,39,9.99,1,0,1,30.0,0
+SS100821,45,Brazil,iOS,Mobile,Student,Lo-fi,Chillhop Music,146.6,31,9,200.7,19.8,4,14,29,44.6,4.8,1,8,5.99,1,0,0,981.1,0
+SS100822,22,India,Android,Tablet,Student,K-Pop,BTS,55.2,13,7,247.4,13.9,4,17,27,43.8,3.7,4,15,5.99,1,0,0,398.7,0
+SS100823,45,Japan,Android,Mobile,Free,EDM,Martin Garrix,95.1,19,7,286.3,23.7,10,12,23,39.5,3.8,6,12,0.0,0,0,1,602.0,0
+SS100824,44,Germany,Web,Smart Speaker,Free,R&B,SZA,121.9,38,8,266.5,16.6,8,14,25,39.9,4.3,4,17,0.0,1,0,0,827.2,0
+SS100825,20,India,Web,Tablet,Free,Country,Carrie Underwood,180.9,36,8,240.6,29.0,7,17,38,22.5,3.8,11,20,0.0,0,0,1,1269.8,0
+SS100826,46,India,Android,Laptop,Free,Rock,Coldplay,55.2,18,9,211.3,13.3,7,18,35,28.8,5.0,16,6,0.0,0,1,0,389.6,0
+SS100827,56,France,Android,Laptop,Free,EDM,David Guetta,74.5,24,6,218.0,26.8,11,19,34,0.0,2.7,16,20,0.0,0,0,0,387.0,0
+SS100828,54,Australia,iOS,Tablet,Premium,K-Pop,BLACKPINK,81.0,19,6,181.4,21.2,10,17,26,32.4,4.5,14,4,9.99,1,0,0,529.6,0
+SS100829,17,France,Web,Mobile,Student,Lo-fi,Chillhop Music,110.8,31,8,155.0,16.8,10,20,49,13.3,3.7,4,49,5.99,1,0,0,834.9,0
+SS100830,27,Germany,iOS,Laptop,Family,Lo-fi,Lofi Girl,84.1,19,8,167.2,20.8,9,19,20,37.2,2.9,9,37,14.99,1,0,0,598.1,0
+SS100831,26,USA,Android,Mobile,Premium,Pop,Ariana Grande,136.1,44,6,211.9,18.8,7,10,6,19.3,5.0,14,4,9.99,1,0,1,800.4,0
+SS100832,36,Japan,Desktop,Laptop,Free,Country,Carrie Underwood,28.0,9,9,198.9,19.5,9,18,21,0.0,5.0,12,22,0.0,1,0,0,132.4,0
+SS100833,22,Australia,iOS,Laptop,Free,Hip-Hop,Kendrick Lamar,90.6,19,2,154.2,15.6,10,12,25,84.6,3.6,12,7,0.0,0,0,0,414.0,0
+SS100834,54,Canada,iOS,Mobile,Free,Classical,Max Richter,230.7,65,5,208.6,12.1,10,14,38,29.9,4.2,21,31,0.0,0,0,0,1335.3,1
+SS100835,50,UK,Android,Mobile,Family,Lo-fi,Idealism,84.2,18,7,197.9,14.7,12,16,18,66.8,3.4,5,16,14.99,1,2,2,621.1,0
+SS100836,52,Australia,Android,Laptop,Free,Jazz,John Coltrane,125.6,26,5,165.4,5.2,7,16,29,23.4,3.6,7,36,0.0,1,0,1,717.0,0
+SS100837,24,France,Android,Smart Speaker,Student,Lo-fi,Lofi Girl,165.4,53,14,195.9,22.9,8,15,8,72.4,2.9,8,33,5.99,0,0,2,1401.1,0
+SS100838,16,UK,Android,Laptop,Family,R&B,SZA,123.2,25,8,197.8,8.4,7,13,36,9.7,2.8,8,17,14.99,1,0,1,891.4,0
+SS100839,56,Germany,Desktop,Mobile,Family,R&B,H.E.R.,269.7,73,9,186.6,15.5,5,12,25,38.9,5.0,7,19,14.99,1,0,0,1916.2,0
+SS100840,29,India,iOS,Smart Speaker,Free,R&B,H.E.R.,104.1,26,6,245.2,21.5,11,14,21,11.0,3.8,1,12,0.0,1,1,1,740.8,0
+SS100841,45,Japan,Desktop,Tablet,Free,R&B,Frank Ocean,140.0,44,8,137.7,22.9,4,16,47,92.2,3.8,22,7,0.0,0,0,0,919.5,0
+SS100842,56,South Korea,iOS,Laptop,Free,Jazz,Norah Jones,113.6,22,4,134.5,4.6,7,10,36,29.5,3.2,10,20,0.0,0,1,0,692.8,0
+SS100843,17,France,Android,Mobile,Free,EDM,Avicii,205.0,47,7,210.1,16.4,13,6,13,53.2,4.0,7,29,0.0,0,1,0,1365.9,0
+SS100844,16,South Korea,iOS,Mobile,Free,K-Pop,TWICE,76.8,18,5,213.7,20.2,6,22,23,44.9,2.6,3,21,0.0,1,1,1,495.9,0
+SS100845,16,Brazil,iOS,Mobile,Premium,EDM,David Guetta,281.9,52,7,225.4,17.4,12,10,54,34.4,3.2,18,18,9.99,1,0,2,1794.6,0
+SS100846,23,Germany,Web,Tablet,Family,R&B,H.E.R.,65.4,17,1,189.5,26.4,14,15,46,46.4,2.8,4,27,14.99,1,0,1,310.1,0
+SS100847,18,South Korea,iOS,Mobile,Student,Hip-Hop,J. Cole,243.1,47,4,175.1,11.2,7,16,34,64.9,4.8,7,18,5.99,1,0,1,1399.8,0
+SS100848,52,India,Android,Laptop,Premium,Classical,Max Richter,51.0,11,13,209.7,2.7,13,17,4,49.7,2.5,2,22,9.99,1,0,0,468.2,0
+SS100849,43,UK,iOS,Tablet,Free,Country,Chris Stapleton,142.6,27,11,193.2,22.7,9,16,39,38.6,2.9,41,16,0.0,0,0,0,1036.4,0
+SS100850,60,India,Web,Laptop,Premium,Country,Chris Stapleton,98.8,19,13,268.9,13.2,4,11,17,46.4,2.2,6,19,9.99,0,1,0,749.4,0
+SS100851,52,UK,iOS,Mobile,Premium,Rock,Foo Fighters,163.4,30,13,197.7,4.7,4,16,39,77.1,3.1,4,9,9.99,0,0,1,1390.4,0
+SS100852,59,UK,Android,Mobile,Family,EDM,David Guetta,127.4,38,10,208.0,15.9,11,24,16,25.8,3.4,14,13,14.99,0,0,1,905.9,0
+SS100853,26,Australia,Android,Laptop,Family,K-Pop,BLACKPINK,158.4,32,6,304.1,25.6,14,12,29,0.0,4.6,2,48,14.99,0,0,1,983.0,0
+SS100854,28,Brazil,Web,Mobile,Free,Jazz,Miles Davis,49.8,10,4,202.6,8.2,4,13,17,10.9,3.6,18,8,0.0,0,0,1,295.5,0
+SS100855,54,South Korea,Android,Mobile,Free,Pop,Taylor Swift,31.9,7,12,231.1,33.4,8,12,20,12.5,3.5,10,50,0.0,1,0,2,332.3,0
+SS100856,27,Germany,iOS,Mobile,Free,Classical,Max Richter,44.4,12,8,234.6,11.1,9,17,31,15.6,4.0,15,22,0.0,0,1,1,288.8,0
+SS100857,18,India,Android,Laptop,Student,Pop,Dua Lipa,43.6,8,17,237.8,17.6,12,17,9,16.4,3.4,8,7,5.99,0,0,0,505.3,0
+SS100858,46,India,Android,Laptop,Family,Hip-Hop,Travis Scott,49.4,14,7,221.0,8.5,11,12,50,34.5,5.0,5,32,14.99,1,0,0,277.1,0
+SS100859,52,Australia,Android,Mobile,Free,Jazz,Norah Jones,68.2,16,15,217.4,17.3,6,15,13,40.4,3.3,6,8,0.0,0,1,0,668.9,0
+SS100860,59,Brazil,Android,Laptop,Premium,Hip-Hop,Drake,67.8,16,7,213.8,16.1,10,19,12,40.2,4.1,7,30,9.99,1,0,0,465.6,0
+SS100861,57,South Korea,Android,Mobile,Student,R&B,SZA,100.2,29,13,188.1,6.6,7,17,31,18.9,4.5,3,25,5.99,1,0,2,856.5,1
+SS100862,21,Canada,iOS,Mobile,Free,Classical,Max Richter,57.8,12,14,222.4,36.8,2,15,38,56.9,3.3,12,21,0.0,0,1,1,557.4,1
+SS100863,50,USA,Android,Tablet,Free,Jazz,John Coltrane,60.9,19,4,287.1,13.5,8,13,20,46.8,3.9,18,23,0.0,1,0,0,307.6,0
+SS100864,54,USA,Android,Mobile,Premium,EDM,Avicii,87.4,18,6,256.0,13.5,10,16,12,69.8,3.4,10,24,9.99,0,0,1,601.9,0
+SS100865,47,Brazil,iOS,Mobile,Premium,Pop,The Weeknd,176.2,34,4,221.5,23.8,8,10,14,53.6,4.0,0,18,9.99,1,0,0,1009.4,0
+SS100866,52,France,iOS,Mobile,Student,K-Pop,BTS,76.0,20,4,242.5,29.7,9,19,13,27.3,3.9,5,52,5.99,1,0,1,405.1,0
+SS100867,53,India,Android,Mobile,Free,Lo-fi,Jinsang,96.2,20,10,177.0,24.9,5,14,27,63.7,3.7,4,41,0.0,0,0,0,665.1,0
+SS100868,36,India,Web,Laptop,Premium,Country,Chris Stapleton,105.8,31,7,200.1,8.6,14,11,23,41.0,2.9,4,31,9.99,0,0,0,772.5,0
+SS100869,17,India,Android,Laptop,Free,K-Pop,TWICE,53.3,10,8,246.0,18.5,10,8,29,52.6,5.0,14,16,0.0,0,0,1,411.3,0
+SS100870,36,Germany,iOS,Laptop,Family,EDM,Calvin Harris,80.7,15,10,266.5,3.8,14,16,28,50.8,4.3,4,15,14.99,0,1,1,586.1,0
+SS100871,25,Canada,Android,Smart Speaker,Free,Country,Carrie Underwood,64.1,19,1,180.7,23.3,6,11,33,32.3,2.5,8,24,0.0,0,0,2,330.2,1
+SS100872,21,South Korea,Android,Tablet,Free,EDM,Martin Garrix,166.8,35,13,191.6,5.6,8,14,19,37.3,3.5,4,15,0.0,0,0,1,1413.1,0
+SS100873,21,South Korea,Android,Mobile,Student,Hip-Hop,Travis Scott,159.1,37,7,292.9,11.4,9,12,16,32.1,2.5,5,18,5.99,0,0,0,1036.2,0
+SS100874,47,Germany,Web,Laptop,Student,Country,Luke Combs,59.9,14,10,213.7,17.0,4,9,26,16.2,4.4,12,32,5.99,1,0,0,485.7,0
+SS100875,38,India,Android,Laptop,Student,R&B,Frank Ocean,95.1,20,10,279.3,20.1,8,16,23,0.0,3.8,13,42,5.99,0,1,0,672.0,0
+SS100876,40,Germany,iOS,Laptop,Student,Lo-fi,Idealism,140.1,33,13,217.9,15.2,5,16,27,19.7,3.8,9,24,5.99,1,0,3,1068.2,0
+SS100877,49,Canada,Web,Mobile,Family,R&B,Frank Ocean,119.4,27,8,219.4,27.6,7,17,16,39.4,3.1,0,5,14.99,1,1,1,847.5,0
+SS100878,40,South Korea,Android,Smart Speaker,Student,Country,Carrie Underwood,126.9,35,1,198.4,22.1,9,15,31,58.9,3.5,8,23,5.99,0,0,0,608.8,0
+SS100879,44,Japan,Android,Mobile,Student,Classical,Ludovico Einaudi,53.5,14,8,245.8,21.5,14,14,11,52.5,4.4,19,7,5.99,1,1,2,330.0,0
+SS100880,19,France,Android,Tablet,Student,EDM,David Guetta,238.1,46,9,261.6,8.4,10,13,19,28.8,4.6,2,31,5.99,1,0,1,1690.5,0
+SS100881,54,Canada,Android,Mobile,Free,Rock,Linkin Park,67.4,21,4,170.7,28.9,12,20,36,20.0,4.5,10,33,0.0,0,1,2,309.7,0
+SS100882,36,Canada,Desktop,Tablet,Premium,Country,Luke Combs,66.2,15,9,196.6,11.4,9,13,12,31.0,2.6,12,37,9.99,1,0,0,452.4,0
+SS100883,22,Australia,Android,Mobile,Free,Pop,The Weeknd,40.7,12,7,244.8,29.2,17,12,36,13.5,3.7,2,70,0.0,0,0,0,232.1,0
+SS100884,52,South Korea,iOS,Mobile,Premium,EDM,Avicii,89.7,18,3,205.1,31.2,5,11,8,0.0,4.0,5,15,9.99,1,1,0,528.7,1
+SS100885,49,Germany,Android,Mobile,Free,R&B,Frank Ocean,186.7,42,10,191.3,20.6,14,9,7,1.0,3.2,26,45,0.0,0,0,0,1351.7,0
+SS100886,18,Canada,iOS,Mobile,Family,Classical,Max Richter,118.7,30,6,248.4,24.2,7,20,8,65.2,2.5,21,43,14.99,1,1,3,697.0,0
+SS100887,24,France,Android,Mobile,Student,Rock,Imagine Dragons,94.0,26,7,251.9,1.0,13,20,25,75.9,2.8,21,23,5.99,1,0,0,619.9,1
+SS100888,16,Canada,Android,Laptop,Family,Jazz,Chet Baker,152.6,37,6,192.9,15.6,5,13,32,51.6,5.0,5,8,14.99,1,1,0,958.2,0
+SS100889,28,South Korea,Android,Tablet,Student,R&B,SZA,184.1,34,12,218.1,24.7,5,13,38,33.7,2.8,18,40,5.99,1,1,0,1432.9,0
+SS100890,20,Brazil,Desktop,Tablet,Free,Hip-Hop,Kendrick Lamar,158.9,37,8,164.1,23.5,11,15,37,4.4,3.8,14,46,0.0,1,0,0,1071.1,0
+SS100891,47,India,iOS,Mobile,Premium,Hip-Hop,Travis Scott,25.3,6,8,176.0,8.5,3,18,33,31.5,3.7,3,10,9.99,1,0,2,255.8,0
+SS100892,39,Australia,Android,Mobile,Premium,Jazz,Chet Baker,153.3,32,6,214.7,14.9,4,14,15,48.5,3.7,4,29,9.99,1,0,0,999.2,0
+SS100893,60,Brazil,Web,Tablet,Premium,Rock,Imagine Dragons,129.9,33,10,211.2,1.0,11,15,15,53.3,3.5,10,22,9.99,0,0,0,949.9,0
+SS100894,49,France,Web,Smart Speaker,Student,R&B,Bruno Mars,59.1,15,13,173.3,19.9,4,12,33,50.2,4.4,1,21,5.99,0,1,0,542.3,0
+SS100895,43,Germany,iOS,Mobile,Premium,Jazz,Miles Davis,130.2,34,10,182.8,3.8,12,8,40,61.6,3.8,6,7,9.99,1,1,1,1014.1,0
+SS100896,38,India,Desktop,Mobile,Family,R&B,SZA,186.9,55,10,169.5,24.9,9,16,13,77.7,3.3,7,39,14.99,1,0,0,1409.2,0
+SS100897,18,Canada,Android,Mobile,Premium,R&B,H.E.R.,69.3,14,10,227.3,25.3,8,14,38,26.1,3.8,11,16,9.99,1,0,0,497.7,0
+SS100898,19,France,Web,Mobile,Free,Rock,Foo Fighters,165.4,32,3,135.2,13.7,4,14,3,96.7,2.8,5,56,0.0,1,0,1,876.8,0
+SS100899,43,Australia,Web,Tablet,Premium,R&B,Frank Ocean,120.2,23,5,171.6,20.6,16,18,28,0.0,4.2,6,18,9.99,1,0,0,672.5,0
+SS100900,16,Canada,iOS,Mobile,Premium,Jazz,Norah Jones,8.6,2,7,139.2,15.5,7,20,23,17.9,3.3,14,15,9.99,1,0,2,63.7,0
+SS100901,17,South Korea,iOS,Laptop,Family,Classical,Hans Zimmer,98.2,24,5,225.9,18.7,8,18,22,39.4,3.3,27,16,14.99,1,0,0,530.0,0
+SS100902,25,Australia,Android,Mobile,Free,Lo-fi,Lofi Girl,117.5,32,4,141.5,9.0,15,9,24,47.1,4.2,10,19,0.0,0,0,0,642.6,0
+SS100903,55,Japan,Android,Mobile,Student,K-Pop,BLACKPINK,82.7,18,1,211.2,21.4,9,17,15,31.0,3.5,17,19,5.99,1,2,0,413.5,1
+SS100904,36,India,Android,Laptop,Premium,Pop,The Weeknd,122.9,23,3,272.3,5.5,8,12,29,24.1,3.5,13,39,9.99,0,0,0,727.1,0
+SS100905,47,Germany,Desktop,Laptop,Student,R&B,H.E.R.,92.0,19,7,273.6,4.2,14,12,25,83.5,4.7,20,19,5.99,1,1,0,601.7,0
+SS100906,34,India,Android,Mobile,Premium,Rock,Coldplay,313.8,74,8,141.4,16.1,15,21,34,23.0,3.0,1,43,9.99,0,0,0,2186.5,0
+SS100907,23,USA,iOS,Mobile,Student,Classical,Hans Zimmer,79.1,17,5,221.3,15.5,9,12,41,12.6,4.2,12,39,5.99,1,0,0,466.2,0
+SS100908,32,Germany,Android,Mobile,Free,Rock,Foo Fighters,60.2,12,8,172.4,18.9,9,15,25,72.2,4.6,21,36,0.0,1,2,0,450.3,0
+SS100909,20,Brazil,Android,Smart Speaker,Premium,Lo-fi,Jinsang,160.6,30,6,164.7,12.5,9,14,15,53.7,4.7,7,32,9.99,1,0,0,1026.2,0
+SS100910,50,USA,Android,Tablet,Free,Rock,Coldplay,85.4,17,12,205.7,30.2,9,17,11,59.1,5.0,11,11,0.0,0,1,0,691.6,1
+SS100911,24,Australia,Desktop,Mobile,Free,Classical,Max Richter,95.0,23,7,256.7,18.1,10,19,43,39.3,3.3,8,34,0.0,0,0,1,635.1,0
+SS100912,32,Australia,Android,Smart Speaker,Premium,Hip-Hop,Kendrick Lamar,90.1,24,10,232.8,18.6,14,15,41,4.7,3.1,16,39,9.99,1,0,0,593.9,0
+SS100913,60,Australia,Android,Laptop,Premium,Lo-fi,Idealism,155.6,37,9,182.8,18.4,13,18,34,36.9,4.5,3,44,9.99,1,0,1,1145.8,0
+SS100914,42,South Korea,Android,Mobile,Family,Lo-fi,Jinsang,49.1,13,3,236.8,24.0,5,12,25,1.7,4.6,3,7,14.99,1,0,0,227.7,0
+SS100915,36,France,iOS,Mobile,Free,K-Pop,BLACKPINK,165.2,31,8,124.7,21.0,8,14,33,40.3,3.2,7,38,0.0,0,0,0,1153.7,0
+SS100916,40,India,iOS,Tablet,Free,R&B,SZA,136.0,32,4,181.4,20.1,12,16,38,49.4,4.2,13,7,0.0,1,1,0,728.0,0
+SS100917,51,France,Android,Laptop,Family,Pop,Ariana Grande,257.4,62,8,178.7,22.2,10,9,17,58.7,5.0,1,30,14.99,0,0,0,1823.6,0
+SS100918,27,India,Android,Smart Speaker,Free,K-Pop,BTS,112.1,29,5,213.0,4.2,6,13,24,33.0,3.9,13,27,0.0,1,0,0,653.5,0
+SS100919,44,France,Android,Mobile,Free,EDM,Calvin Harris,51.6,11,9,202.3,4.5,5,18,12,51.5,4.5,7,12,0.0,0,2,0,318.8,0
+SS100920,55,Brazil,Android,Smart Speaker,Free,Lo-fi,Jinsang,112.9,26,3,204.6,16.5,13,15,23,15.1,5.0,11,23,0.0,0,0,0,588.2,1
+SS100921,41,Japan,Web,Tablet,Student,Jazz,John Coltrane,121.2,36,8,203.4,15.6,6,15,41,56.3,5.0,5,20,5.99,1,1,0,937.0,0
+SS100922,36,UK,Web,Tablet,Family,Classical,Yiruma,196.1,38,10,210.9,21.1,6,19,36,49.8,4.0,8,28,14.99,1,0,1,1359.7,0
+SS100923,22,Germany,Android,Smart Speaker,Premium,Lo-fi,Idealism,51.5,13,11,230.5,17.1,13,11,25,17.4,4.8,8,22,9.99,0,0,1,406.9,0
+SS100924,27,Germany,iOS,Mobile,Premium,Country,Morgan Wallen,33.9,8,5,215.7,21.1,10,15,2,46.7,3.2,5,26,9.99,1,0,0,158.3,0
+SS100925,58,Canada,Android,Laptop,Free,EDM,Calvin Harris,114.3,33,8,199.2,8.3,8,12,17,59.0,3.8,11,18,0.0,1,0,0,839.8,0
+SS100926,40,Germany,Android,Mobile,Free,Pop,Ariana Grande,263.6,60,9,225.3,16.9,13,18,25,36.7,3.4,10,66,0.0,1,0,0,1914.0,0
+SS100927,29,France,iOS,Tablet,Student,Pop,Taylor Swift,147.6,31,13,241.4,7.6,5,9,22,16.9,2.3,1,27,5.99,1,0,0,1262.8,0
+SS100928,34,USA,iOS,Laptop,Free,EDM,Calvin Harris,152.5,29,3,188.9,19.7,5,20,24,38.9,2.5,19,16,0.0,1,0,1,837.0,0
+SS100929,42,Australia,Android,Mobile,Free,Classical,Hans Zimmer,40.0,13,5,207.7,3.9,9,13,27,47.2,4.1,5,16,0.0,0,0,0,251.3,0
+SS100930,40,Canada,Android,Mobile,Free,Pop,Dua Lipa,103.3,19,18,254.2,19.4,8,13,18,16.7,4.2,8,33,0.0,0,0,1,1017.1,0
+SS100931,47,UK,Android,Mobile,Free,Hip-Hop,Drake,198.2,42,7,168.1,6.7,9,15,24,12.8,3.0,3,72,0.0,1,0,0,1289.9,0
+SS100932,27,Australia,Android,Mobile,Premium,K-Pop,NewJeans,122.0,33,1,278.6,14.3,7,23,22,46.5,5.0,11,41,9.99,1,0,1,561.7,0
+SS100933,45,USA,iOS,Mobile,Premium,K-Pop,BLACKPINK,32.2,9,6,159.1,23.3,9,7,16,53.1,2.9,7,21,9.99,1,0,0,181.2,0
+SS100934,35,USA,Web,Smart Speaker,Free,Pop,Ariana Grande,102.1,27,1,196.9,18.6,6,19,44,82.3,4.0,10,6,0.0,0,0,1,485.1,0
+SS100935,58,South Korea,Android,Laptop,Student,Classical,Yiruma,141.7,27,9,173.9,5.5,8,16,19,49.6,3.5,2,13,5.99,1,1,1,944.7,0
+SS100936,23,Canada,iOS,Smart Speaker,Premium,Pop,The Weeknd,5.0,1,11,293.1,12.3,10,16,2,8.4,3.9,9,15,9.99,1,0,0,85.0,0
+SS100937,22,Canada,Desktop,Mobile,Premium,K-Pop,NewJeans,95.5,23,5,190.9,6.5,7,15,44,79.9,4.5,1,6,9.99,1,0,0,667.3,0
+SS100938,36,Brazil,Android,Mobile,Premium,Country,Morgan Wallen,55.9,12,6,191.0,5.1,11,16,15,58.2,4.4,3,19,9.99,1,0,1,335.3,0
+SS100939,38,Japan,iOS,Smart Speaker,Student,Country,Morgan Wallen,163.4,32,11,195.9,17.8,9,13,34,0.0,4.4,2,30,5.99,1,1,0,1339.7,0
+SS100940,47,South Korea,Android,Laptop,Premium,Classical,Max Richter,77.1,17,2,213.6,20.9,12,13,17,12.3,4.3,7,17,9.99,1,0,0,386.0,0
+SS100941,34,Brazil,iOS,Mobile,Free,Jazz,Norah Jones,128.9,26,3,197.5,20.1,3,12,30,24.2,2.8,21,35,0.0,0,0,0,641.8,0
+SS100942,57,UK,Web,Tablet,Free,Lo-fi,Jinsang,100.4,29,7,205.0,21.2,5,11,23,53.4,4.7,12,16,0.0,1,0,0,635.2,0
+SS100943,37,UK,Web,Mobile,Free,Jazz,John Coltrane,75.3,14,5,120.0,16.9,6,13,35,0.0,3.0,26,9,0.0,1,0,1,432.3,0
+SS100944,21,Japan,Android,Mobile,Student,EDM,David Guetta,280.2,76,7,212.2,15.1,10,17,22,32.4,3.7,7,14,5.99,1,0,0,1810.7,0
+SS100945,21,South Korea,Web,Laptop,Free,K-Pop,BTS,70.0,21,4,210.7,9.5,9,16,17,52.2,3.5,15,13,0.0,1,1,0,416.8,0
+SS100946,59,France,iOS,Laptop,Free,Classical,Hans Zimmer,105.6,19,9,249.5,13.9,8,12,27,0.0,4.1,20,7,0.0,1,0,0,709.1,1
+SS100947,22,South Korea,Web,Laptop,Premium,Country,Morgan Wallen,100.3,29,7,259.7,7.8,8,21,20,51.4,3.4,14,11,9.99,1,0,0,599.5,0
+SS100948,58,Brazil,Web,Mobile,Free,Classical,Max Richter,112.6,34,10,202.9,11.1,15,23,3,54.1,3.7,6,5,0.0,1,0,0,842.8,0
+SS100949,28,USA,iOS,Mobile,Free,Country,Morgan Wallen,268.6,59,9,241.0,17.6,15,19,17,16.4,5.0,6,5,0.0,0,0,1,1901.3,0
+SS100950,20,Australia,Android,Mobile,Free,Pop,Dua Lipa,141.8,37,9,168.1,16.2,14,15,56,9.6,2.8,13,17,0.0,0,0,0,987.4,0
+SS100951,29,USA,Android,Mobile,Student,Pop,Taylor Swift,74.8,22,3,239.2,38.5,9,18,4,16.0,3.8,20,15,5.99,0,1,1,387.0,0
+SS100952,43,Australia,Web,Mobile,Free,Pop,Taylor Swift,222.6,49,10,188.2,7.6,5,18,27,0.0,2.9,3,58,0.0,0,0,1,1621.0,0
+SS100953,35,Brazil,Android,Laptop,Free,Classical,Hans Zimmer,156.0,32,7,165.0,16.1,11,22,21,27.8,4.3,7,12,0.0,0,0,0,1092.1,0
+SS100954,51,Brazil,iOS,Tablet,Free,K-Pop,BTS,75.8,15,7,202.9,7.0,11,11,44,39.8,3.2,17,16,0.0,0,0,1,522.3,0
+SS100955,43,UK,iOS,Smart Speaker,Premium,Rock,Coldplay,203.7,60,12,263.2,14.3,7,13,12,8.2,3.8,4,24,9.99,1,0,0,1628.8,0
+SS100956,34,Brazil,Web,Tablet,Family,Hip-Hop,Kendrick Lamar,39.7,9,5,216.9,14.6,12,19,25,56.4,2.7,14,36,14.99,1,1,1,232.1,0
+SS100957,44,Canada,Web,Mobile,Student,Country,Carrie Underwood,47.7,9,13,266.9,22.9,7,9,32,37.3,4.8,11,44,5.99,0,0,0,424.1,0
+SS100958,59,Brazil,Android,Mobile,Premium,K-Pop,TWICE,30.5,9,13,181.5,13.9,7,16,22,40.7,3.9,15,24,9.99,1,1,0,259.9,0
+SS100959,34,France,iOS,Smart Speaker,Family,Jazz,Miles Davis,20.7,6,11,249.8,15.7,10,15,16,26.2,3.9,5,19,14.99,1,0,1,246.2,0
+SS100960,22,UK,Web,Mobile,Family,EDM,David Guetta,195.6,65,5,185.2,14.0,8,15,24,51.3,4.5,4,13,14.99,0,0,0,1167.8,0
+SS100961,34,USA,Android,Mobile,Premium,EDM,David Guetta,113.4,26,1,218.6,7.2,12,18,21,63.4,2.8,3,22,9.99,1,0,0,601.7,0
+SS100962,53,France,iOS,Mobile,Family,Pop,Taylor Swift,32.8,9,12,218.2,12.4,11,19,21,26.0,3.3,19,42,14.99,1,0,0,196.5,0
+SS100963,25,Australia,iOS,Laptop,Family,Hip-Hop,Drake,98.7,21,8,235.1,14.3,10,22,34,51.7,3.9,2,22,14.99,1,2,1,634.1,0
+SS100964,58,UK,Android,Smart Speaker,Premium,Country,Luke Combs,168.3,31,5,219.5,17.5,10,19,28,52.0,2.4,1,27,9.99,1,1,0,1097.5,0
+SS100965,42,UK,Android,Mobile,Student,R&B,Bruno Mars,62.1,18,12,181.9,20.9,8,9,30,44.2,2.5,7,34,5.99,1,1,0,482.0,0
+SS100966,43,Australia,Android,Laptop,Free,K-Pop,BLACKPINK,82.7,18,5,243.5,15.4,9,18,28,71.9,3.1,4,26,0.0,0,0,1,445.7,0
+SS100967,30,Canada,Web,Laptop,Free,K-Pop,BLACKPINK,287.6,81,7,275.8,15.2,9,16,35,19.0,2.9,20,28,0.0,0,0,0,1827.2,0
+SS100968,57,France,Android,Tablet,Student,R&B,Frank Ocean,87.5,29,10,187.8,5.0,9,17,38,25.7,3.5,1,25,5.99,1,0,0,720.7,0
+SS100969,17,Canada,Android,Mobile,Student,Rock,Foo Fighters,34.9,7,4,140.3,20.8,8,19,21,17.9,4.2,5,11,5.99,1,1,0,164.8,0
+SS100970,29,Australia,iOS,Laptop,Student,Jazz,John Coltrane,71.9,18,8,229.0,12.1,6,14,33,51.0,4.4,1,22,5.99,1,1,3,500.3,0
+SS100971,34,UK,Android,Smart Speaker,Premium,Pop,Taylor Swift,31.1,6,12,197.4,22.2,8,13,10,29.0,5.0,5,24,9.99,1,0,1,168.6,0
+SS100972,37,Japan,Android,Smart Speaker,Premium,EDM,Calvin Harris,148.6,34,9,205.0,26.2,10,12,2,19.7,3.8,7,51,9.99,0,0,0,1045.0,0
+SS100973,37,Japan,Android,Mobile,Premium,Country,Morgan Wallen,56.4,17,12,231.1,15.7,5,11,44,71.6,3.9,6,14,9.99,1,0,0,501.0,0
+SS100974,22,Germany,Android,Mobile,Free,K-Pop,BLACKPINK,55.1,13,12,192.7,9.8,9,18,20,74.8,3.8,12,23,0.0,0,0,0,404.2,0
+SS100975,26,South Korea,Android,Smart Speaker,Free,K-Pop,NewJeans,302.3,86,8,199.8,16.9,7,9,27,27.8,4.1,16,17,0.0,1,0,1,1974.3,0
+SS100976,20,UK,iOS,Smart Speaker,Premium,Pop,The Weeknd,44.1,8,1,206.2,19.4,7,21,11,4.9,4.1,2,48,9.99,1,1,0,178.6,0
+SS100977,41,Germany,Android,Mobile,Premium,Hip-Hop,Drake,38.5,8,4,265.9,14.8,8,20,10,76.0,4.5,9,38,9.99,0,0,0,190.0,0
+SS100978,31,Japan,Android,Mobile,Family,Rock,Foo Fighters,49.5,13,11,211.1,13.1,6,17,16,45.4,4.5,6,23,14.99,1,0,0,420.1,0
+SS100979,41,South Korea,Android,Mobile,Family,Rock,Imagine Dragons,171.3,40,3,163.0,20.9,6,11,31,44.3,4.2,5,2,14.99,1,0,0,943.8,0
+SS100980,42,Canada,Android,Laptop,Family,Hip-Hop,Drake,137.4,29,7,164.6,20.5,11,11,18,37.3,5.0,10,39,14.99,1,1,0,922.6,0
+SS100981,47,USA,Android,Mobile,Free,Lo-fi,Chillhop Music,71.3,14,9,215.3,14.6,9,13,20,17.4,3.8,8,8,0.0,1,0,0,511.8,0
+SS100982,40,Japan,Android,Mobile,Student,Hip-Hop,J. Cole,67.1,21,13,167.1,5.4,13,16,16,25.9,3.3,9,6,5.99,1,0,0,531.3,0
+SS100983,45,Germany,Android,Tablet,Free,K-Pop,NewJeans,131.3,43,6,150.6,20.2,12,12,37,49.9,3.4,26,35,0.0,0,0,0,749.5,0
+SS100984,42,India,iOS,Mobile,Premium,Classical,Yiruma,116.0,35,6,234.2,11.6,10,12,34,25.2,3.7,6,28,9.99,1,0,0,749.8,0
+SS100985,45,South Korea,Desktop,Smart Speaker,Family,Jazz,Norah Jones,91.0,23,8,236.0,18.5,15,12,19,44.5,2.9,2,26,14.99,1,0,0,705.6,0
+SS100986,43,Australia,Android,Mobile,Free,Rock,Foo Fighters,140.2,34,9,196.0,18.1,14,15,32,35.3,3.3,10,14,0.0,0,1,1,955.8,0
+SS100987,30,Brazil,iOS,Mobile,Premium,R&B,Bruno Mars,47.2,14,7,221.2,3.8,9,14,21,11.7,2.9,19,7,9.99,0,0,1,255.0,1
+SS100988,27,Canada,Android,Smart Speaker,Free,Jazz,Norah Jones,57.0,14,12,217.1,17.6,7,13,20,70.7,4.1,10,3,0.0,1,0,1,405.6,0
+SS100989,51,France,Android,Mobile,Free,Rock,Linkin Park,144.5,35,5,232.9,20.6,4,17,23,48.1,4.1,17,26,0.0,0,0,0,879.4,1
+SS100990,31,Australia,Android,Mobile,Free,Jazz,Norah Jones,121.7,37,8,233.0,21.5,9,13,31,42.3,2.4,11,9,0.0,1,1,1,826.5,0
+SS100991,40,Germany,Android,Mobile,Free,Pop,Taylor Swift,19.3,4,10,120.0,17.8,4,16,14,47.2,3.3,6,29,0.0,0,0,1,169.3,0
+SS100992,24,Germany,iOS,Laptop,Family,Pop,The Weeknd,102.9,23,7,200.9,3.2,6,22,30,0.0,5.0,8,10,14.99,1,0,2,652.6,0
+SS100993,35,France,Android,Mobile,Student,K-Pop,NewJeans,296.3,75,11,229.7,25.9,12,17,51,24.2,4.3,3,23,5.99,1,1,1,2354.7,1
+SS100994,39,Brazil,Web,Smart Speaker,Premium,Jazz,John Coltrane,158.3,37,9,194.4,19.9,11,18,26,1.4,4.2,4,10,9.99,0,0,0,1131.6,0
+SS100995,44,India,iOS,Smart Speaker,Premium,Pop,Taylor Swift,72.7,19,11,211.4,8.6,5,19,24,37.7,3.3,6,33,9.99,1,0,1,497.3,0
+SS100996,39,South Korea,iOS,Mobile,Free,Country,Chris Stapleton,60.4,12,9,238.5,11.5,14,12,23,42.2,4.0,8,25,0.0,0,0,0,474.1,0
+SS100997,32,India,Android,Mobile,Free,Pop,Ariana Grande,125.1,28,9,213.1,18.6,7,13,29,38.1,3.8,17,22,0.0,0,0,0,873.5,0
+SS100998,59,Germany,Android,Laptop,Premium,Lo-fi,Idealism,195.2,46,6,267.3,21.8,8,7,6,60.9,3.2,4,12,9.99,1,0,0,1221.3,0
+SS100999,39,Canada,iOS,Smart Speaker,Free,K-Pop,BLACKPINK,27.5,5,6,252.8,13.6,9,23,43,2.1,3.4,12,7,0.0,1,1,0,182.8,0
+SS101000,52,Australia,iOS,Mobile,Family,Lo-fi,Chillhop Music,119.8,24,12,205.5,22.8,6,12,35,17.4,3.4,12,26,14.99,0,0,2,890.0,1
+SS101001,49,South Korea,iOS,Mobile,Free,Lo-fi,Lofi Girl,81.8,16,10,202.5,4.5,6,14,17,44.1,2.6,6,14,0.0,0,0,1,632.4,0
+SS101002,41,USA,Android,Mobile,Premium,R&B,Frank Ocean,113.4,32,4,120.0,9.7,11,15,24,40.8,2.7,7,21,9.99,0,0,0,617.4,0
+SS101003,55,India,iOS,Smart Speaker,Premium,K-Pop,NewJeans,36.4,11,9,197.6,2.5,10,10,18,6.1,3.6,9,21,9.99,0,1,1,253.2,0
+SS101004,21,France,iOS,Mobile,Free,Rock,Coldplay,195.1,41,1,158.6,10.7,7,16,27,61.3,3.1,11,20,0.0,0,0,0,975.4,0
+SS101005,57,UK,Android,Laptop,Free,EDM,David Guetta,225.4,54,6,218.4,27.6,7,11,25,69.0,3.6,6,39,0.0,0,1,1,1447.7,0
+SS101006,54,Australia,Web,Mobile,Family,Rock,Coldplay,150.0,32,11,215.8,31.4,6,17,27,44.4,2.5,8,20,14.99,1,0,0,1154.9,0
+SS101007,38,France,iOS,Laptop,Free,EDM,Martin Garrix,251.2,51,8,236.4,18.6,15,18,13,1.8,4.4,14,11,0.0,0,0,0,1692.5,0
+SS101008,49,Japan,Android,Mobile,Student,Country,Luke Combs,79.2,21,8,263.1,12.5,11,19,19,38.5,5.0,3,30,5.99,1,0,0,435.2,0
+SS101009,39,Brazil,Android,Laptop,Student,EDM,Calvin Harris,118.1,32,1,209.0,15.4,9,15,37,42.5,4.6,13,29,5.99,1,0,0,519.5,0
+SS101010,28,India,iOS,Mobile,Free,Pop,Ariana Grande,151.2,36,7,296.7,20.3,12,21,18,29.0,4.7,3,13,0.0,0,0,1,1012.6,0
+SS101011,51,Canada,iOS,Mobile,Premium,R&B,Bruno Mars,126.1,34,9,218.8,6.1,15,14,2,64.6,4.3,5,12,9.99,1,0,0,875.3,0
+SS101012,27,Germany,Desktop,Mobile,Premium,K-Pop,BLACKPINK,85.8,18,10,160.2,13.0,9,16,22,32.4,4.0,6,25,9.99,1,0,1,583.3,0
+SS101013,30,India,iOS,Tablet,Free,Classical,Max Richter,91.7,19,11,188.6,27.0,10,16,51,81.3,3.9,10,9,0.0,0,1,0,728.7,0
+SS101014,39,Brazil,Android,Laptop,Premium,Classical,Yiruma,213.9,51,7,195.8,9.7,9,13,33,52.2,3.1,3,25,9.99,0,0,2,1480.1,0
+SS101015,53,Japan,Android,Mobile,Free,EDM,David Guetta,99.8,21,7,232.5,11.8,11,16,18,41.1,4.4,3,45,0.0,0,0,0,630.6,0
+SS101016,33,Canada,iOS,Mobile,Free,Rock,Coldplay,188.9,44,3,174.0,17.1,7,17,23,55.2,4.3,11,30,0.0,0,0,1,1045.6,0
+SS101017,38,France,iOS,Mobile,Premium,Classical,Max Richter,96.6,20,7,198.7,19.0,7,10,31,68.7,3.4,10,46,9.99,1,0,0,663.3,0
+SS101018,17,France,Desktop,Mobile,Family,Jazz,John Coltrane,188.2,53,4,203.9,12.6,10,14,5,54.8,4.2,3,21,14.99,1,0,0,1036.3,0
+SS101019,21,Japan,iOS,Tablet,Free,Country,Carrie Underwood,106.4,22,2,193.0,17.5,8,11,15,33.3,3.2,8,21,0.0,0,0,0,506.7,0
+SS101020,18,Canada,Desktop,Mobile,Free,Jazz,Norah Jones,144.0,30,4,240.8,21.3,14,14,28,20.5,3.3,32,23,0.0,1,0,1,847.3,0
+SS101021,19,USA,Web,Laptop,Student,Lo-fi,Idealism,65.5,18,13,234.4,30.7,5,10,42,10.3,4.4,8,27,5.99,1,0,0,496.7,0
+SS101022,55,Brazil,iOS,Laptop,Premium,Country,Chris Stapleton,118.0,27,7,254.3,16.1,6,19,19,0.0,4.1,5,26,9.99,1,0,0,752.6,0
+SS101023,53,Germany,iOS,Smart Speaker,Free,Pop,Taylor Swift,66.1,13,9,197.4,16.7,4,15,41,38.8,3.6,11,12,0.0,0,0,1,558.2,0
+SS101024,52,Japan,iOS,Laptop,Free,R&B,Bruno Mars,78.0,22,6,255.7,27.7,9,17,16,26.5,3.5,24,20,0.0,0,1,1,442.9,0
+SS101025,18,Australia,iOS,Mobile,Premium,R&B,Bruno Mars,82.1,17,2,158.2,13.2,10,11,2,27.6,3.9,10,38,9.99,1,0,1,474.9,0
+SS101026,19,USA,Web,Mobile,Free,Pop,Taylor Swift,90.7,17,11,157.2,7.7,11,20,32,57.6,2.3,8,10,0.0,0,0,1,657.2,0
+SS101027,28,France,Android,Mobile,Free,Hip-Hop,Travis Scott,175.9,34,1,163.9,18.8,10,8,30,32.5,3.2,12,1,0.0,0,0,1,837.2,1
+SS101028,41,France,Desktop,Mobile,Free,K-Pop,BTS,76.1,19,6,210.4,24.5,8,17,32,76.7,2.8,2,23,0.0,0,0,0,532.7,0
+SS101029,31,Japan,iOS,Mobile,Student,R&B,Frank Ocean,110.8,25,8,255.7,19.5,9,11,32,22.4,3.8,7,27,5.99,1,0,0,741.1,0
+SS101030,37,India,Android,Smart Speaker,Student,Hip-Hop,Kendrick Lamar,188.6,34,9,187.1,16.3,12,22,26,13.6,4.7,16,27,5.99,1,0,1,1326.8,0
+SS101031,23,South Korea,Android,Mobile,Family,Rock,Imagine Dragons,142.3,32,5,191.9,6.9,4,19,21,7.3,4.2,7,7,14.99,0,0,0,884.3,0
+SS101032,48,France,Android,Laptop,Premium,Rock,Linkin Park,27.9,8,2,201.8,16.6,13,17,22,50.9,3.4,2,10,9.99,1,0,1,103.1,0
+SS101033,30,Australia,iOS,Mobile,Premium,Hip-Hop,Drake,35.7,11,5,231.8,25.6,16,12,19,60.3,3.2,7,37,9.99,1,0,0,314.4,0
+SS101034,18,Germany,Android,Mobile,Family,Hip-Hop,Kendrick Lamar,127.5,26,5,191.9,8.4,11,19,20,21.9,3.2,16,37,14.99,1,0,0,791.8,0
+SS101035,49,India,Android,Mobile,Student,K-Pop,NewJeans,73.6,18,5,189.7,15.3,6,17,4,11.6,5.0,3,21,5.99,1,0,1,428.8,0
+SS101036,56,Brazil,Android,Mobile,Student,Country,Chris Stapleton,32.1,9,11,158.9,14.3,15,8,11,68.7,3.9,11,25,5.99,1,0,1,236.2,0
+SS101037,16,Japan,Android,Mobile,Family,EDM,David Guetta,70.2,18,4,188.3,12.1,7,15,22,3.1,4.0,17,11,14.99,1,0,1,474.8,0
+SS101038,35,UK,Desktop,Smart Speaker,Free,Jazz,John Coltrane,130.3,27,9,254.7,18.7,11,11,2,57.2,2.1,12,9,0.0,0,0,0,907.5,0
+SS101039,53,Brazil,iOS,Laptop,Premium,Lo-fi,Idealism,81.5,20,9,213.5,20.1,8,10,2,22.4,2.9,7,6,9.99,1,0,1,563.6,0
+SS101040,47,UK,Android,Mobile,Premium,Country,Chris Stapleton,104.5,20,11,181.9,20.0,15,17,20,43.7,3.8,3,8,9.99,1,0,0,871.9,0
+SS101041,54,USA,Desktop,Mobile,Free,Pop,Dua Lipa,86.2,18,8,257.0,10.2,11,9,23,58.7,3.4,10,25,0.0,0,1,1,525.0,1
+SS101042,34,India,Android,Smart Speaker,Student,Lo-fi,Idealism,64.0,12,11,187.8,5.5,11,20,21,45.5,3.9,5,19,5.99,1,1,0,496.3,0
+SS101043,32,Japan,Desktop,Mobile,Free,Pop,Taylor Swift,116.6,22,7,264.0,18.8,12,15,2,28.5,3.9,16,22,0.0,0,0,0,753.3,0
+SS101044,47,UK,Desktop,Mobile,Free,Pop,Dua Lipa,29.5,8,10,263.3,13.5,10,12,41,65.7,4.3,32,22,0.0,0,1,1,174.9,1
+SS101045,22,USA,iOS,Tablet,Student,EDM,David Guetta,58.7,13,3,212.1,29.9,9,6,8,41.4,2.3,3,10,5.99,1,0,0,248.7,0
+SS101046,26,France,iOS,Laptop,Free,K-Pop,BTS,157.9,52,1,153.1,30.2,13,7,15,100.0,2.9,14,25,0.0,0,1,0,745.2,1
+SS101047,43,Japan,Web,Mobile,Premium,Pop,Ariana Grande,36.6,7,9,297.0,30.9,5,18,10,0.0,3.7,14,40,9.99,1,2,1,288.6,0
+SS101048,46,UK,Android,Laptop,Family,Rock,Foo Fighters,101.3,28,10,224.7,10.4,4,14,38,0.0,3.3,7,10,14.99,1,0,0,726.7,0
+SS101049,21,Japan,Android,Mobile,Premium,Rock,Imagine Dragons,77.5,17,10,197.7,21.0,11,23,29,56.9,3.6,6,20,9.99,0,0,1,527.6,0
+SS101050,38,Australia,Android,Laptop,Free,R&B,SZA,72.8,14,6,246.3,23.1,7,12,19,34.3,3.9,3,30,0.0,1,0,0,518.6,0
+SS101051,32,India,Android,Mobile,Free,Lo-fi,Idealism,166.6,49,13,236.7,22.3,9,10,18,52.4,3.2,13,37,0.0,0,0,0,1397.6,1
+SS101052,38,UK,Android,Tablet,Free,R&B,Frank Ocean,185.5,36,6,259.8,14.5,6,13,26,10.8,4.0,6,27,0.0,1,1,1,1151.3,0
+SS101053,59,Japan,Web,Laptop,Free,Rock,Foo Fighters,49.4,16,9,184.8,26.0,5,13,10,36.2,4.2,5,11,0.0,0,0,0,397.8,0
+SS101054,19,Japan,Android,Mobile,Family,Hip-Hop,Kendrick Lamar,91.1,22,10,222.1,17.0,8,20,28,45.1,3.9,9,5,14.99,1,1,0,688.7,0
+SS101055,60,Australia,Android,Laptop,Student,Hip-Hop,Travis Scott,23.6,6,14,164.9,17.9,7,13,18,23.0,4.4,2,17,5.99,1,1,2,287.5,0
+SS101056,36,France,Android,Mobile,Free,Hip-Hop,Kendrick Lamar,161.3,41,7,235.3,6.2,13,16,30,40.1,2.1,7,18,0.0,1,0,0,1090.7,0
+SS101057,50,Germany,Android,Smart Speaker,Premium,Classical,Hans Zimmer,98.1,22,6,209.1,21.5,11,17,29,5.0,3.3,8,37,9.99,1,0,0,551.9,0
+SS101058,35,India,Web,Mobile,Free,EDM,Calvin Harris,34.7,7,3,220.7,15.2,9,11,17,43.7,4.5,24,16,0.0,0,0,2,149.1,0
+SS101059,29,France,Web,Mobile,Free,EDM,Avicii,60.6,16,13,204.4,20.3,12,15,2,66.8,3.1,8,10,0.0,0,1,1,478.7,1
+SS101060,50,India,iOS,Tablet,Free,Country,Carrie Underwood,46.4,10,9,200.5,18.6,13,14,21,7.8,3.0,12,13,0.0,0,0,0,342.4,0
+SS101061,46,France,iOS,Mobile,Premium,Classical,Yiruma,58.3,11,10,177.0,18.3,14,18,8,6.4,3.7,6,27,9.99,1,1,0,423.3,0
+SS101062,22,India,Web,Mobile,Premium,Hip-Hop,Travis Scott,25.4,5,19,240.0,16.7,14,16,25,61.2,3.8,2,21,9.99,1,0,2,211.3,0
+SS101063,47,Canada,Android,Tablet,Free,R&B,SZA,212.6,69,9,266.6,22.5,14,13,21,6.1,3.4,6,19,0.0,0,0,0,1556.0,1
+SS101064,49,India,iOS,Laptop,Family,R&B,H.E.R.,50.7,9,3,188.8,15.6,12,15,18,53.5,5.0,7,37,14.99,1,2,1,318.0,0
+SS101065,33,Japan,Android,Mobile,Family,Country,Carrie Underwood,101.1,32,7,231.0,6.8,8,9,10,36.2,4.0,7,4,14.99,1,0,0,660.8,0
+SS101066,57,Canada,Android,Mobile,Premium,R&B,Bruno Mars,129.6,29,5,226.4,21.0,8,13,37,25.8,3.1,9,34,9.99,0,2,2,780.8,0
+SS101067,44,Germany,Desktop,Laptop,Free,Hip-Hop,J. Cole,185.6,42,7,210.3,11.3,7,14,19,67.3,2.6,7,2,0.0,1,0,0,1177.5,1
+SS101068,31,USA,Web,Tablet,Free,K-Pop,NewJeans,103.3,21,7,152.0,7.7,9,18,50,55.4,4.1,8,33,0.0,0,0,1,654.2,1
+SS101069,16,South Korea,iOS,Laptop,Family,EDM,Avicii,85.3,25,6,160.5,9.8,14,15,24,41.2,3.1,1,23,14.99,0,0,0,522.3,0
+SS101070,46,Australia,Android,Laptop,Free,Pop,Dua Lipa,105.9,31,3,180.3,19.0,5,12,28,0.0,5.0,17,22,0.0,0,0,1,580.7,0
+SS101071,25,Canada,iOS,Tablet,Premium,Jazz,John Coltrane,49.2,10,14,128.7,16.3,9,13,24,50.7,4.1,4,22,9.99,1,0,0,441.5,0
+SS101072,50,India,Desktop,Mobile,Premium,Rock,Foo Fighters,52.0,15,9,263.5,2.1,5,12,28,11.4,4.2,8,33,9.99,0,0,2,357.5,0
+SS101073,39,Australia,Desktop,Mobile,Free,Country,Luke Combs,84.1,20,7,224.0,14.3,11,19,36,30.1,4.0,10,10,0.0,1,1,0,532.4,0
+SS101074,37,Japan,iOS,Laptop,Premium,Country,Carrie Underwood,18.5,4,11,208.9,25.2,11,9,36,35.2,4.7,0,29,9.99,1,1,1,58.0,0
+SS101075,23,USA,iOS,Mobile,Family,R&B,SZA,64.9,14,10,126.8,13.8,4,15,5,76.7,1.9,2,33,14.99,1,1,0,563.3,0
+SS101076,48,Germany,Android,Mobile,Premium,Classical,Max Richter,74.5,21,9,140.7,15.8,10,13,33,29.4,2.8,6,19,9.99,1,0,0,441.9,0
+SS101077,23,France,Android,Mobile,Student,Classical,Ludovico Einaudi,272.5,72,10,209.9,24.3,8,20,29,3.7,4.6,10,14,5.99,1,0,0,2040.7,0
+SS101078,34,South Korea,Android,Laptop,Family,Jazz,Norah Jones,199.3,37,8,284.9,22.6,7,18,24,67.3,5.0,9,6,14.99,1,0,0,1365.3,0
+SS101079,53,France,iOS,Laptop,Student,Pop,Taylor Swift,129.4,31,10,183.5,24.2,7,14,43,51.0,2.8,2,72,5.99,1,0,1,967.4,0
+SS101080,57,South Korea,Desktop,Tablet,Premium,R&B,SZA,163.6,53,11,242.8,1.0,13,19,43,51.8,2.3,2,22,9.99,1,1,0,1287.5,0
+SS101081,60,UK,Web,Mobile,Premium,Hip-Hop,J. Cole,51.7,15,9,191.8,29.1,5,16,34,67.7,3.9,9,5,9.99,0,1,1,339.4,0
+SS101082,59,USA,Android,Tablet,Premium,Jazz,Chet Baker,107.6,28,7,212.1,21.5,6,11,18,72.9,4.2,9,11,9.99,1,0,0,733.9,0
+SS101083,41,Germany,Android,Mobile,Free,Pop,Taylor Swift,152.1,28,13,256.2,34.2,8,26,11,15.4,3.9,4,14,0.0,0,0,1,1224.1,0
+SS101084,25,Japan,Android,Laptop,Free,Classical,Ludovico Einaudi,52.0,14,6,196.9,11.5,6,12,32,4.4,3.8,15,34,0.0,0,0,0,334.9,0
+SS101085,53,Canada,iOS,Laptop,Free,K-Pop,NewJeans,35.8,12,9,183.8,4.7,8,15,39,53.5,2.3,10,11,0.0,0,0,0,224.3,0
+SS101086,52,UK,Web,Mobile,Student,Lo-fi,Jinsang,121.4,28,9,263.9,17.1,10,17,2,29.2,3.5,5,14,5.99,1,0,1,856.7,0
+SS101087,60,USA,Web,Smart Speaker,Student,Rock,Imagine Dragons,38.8,12,6,211.7,15.1,8,12,36,31.2,3.6,20,31,5.99,1,0,2,217.9,0
+SS101088,45,Germany,Web,Mobile,Premium,Pop,Ariana Grande,136.3,37,5,251.5,21.6,8,21,21,10.3,3.4,6,16,9.99,1,0,1,810.0,0
+SS101089,22,India,iOS,Mobile,Free,K-Pop,BLACKPINK,183.8,34,7,184.0,24.5,10,20,4,47.8,2.3,6,21,0.0,0,0,1,1234.9,0
+SS101090,38,Brazil,iOS,Mobile,Premium,Pop,Ariana Grande,53.2,11,6,263.5,16.4,12,21,29,43.8,4.3,12,8,9.99,1,0,1,328.2,0
+SS101091,36,South Korea,Desktop,Mobile,Family,Pop,The Weeknd,56.0,18,3,220.4,15.3,4,18,34,31.6,4.5,11,9,14.99,1,0,0,340.6,0
+SS101092,53,South Korea,iOS,Laptop,Free,Lo-fi,Chillhop Music,180.8,44,6,226.5,20.7,8,13,20,4.5,3.2,18,10,0.0,0,0,1,1150.3,0
+SS101093,33,UK,Android,Mobile,Premium,Country,Luke Combs,103.6,30,9,215.0,15.2,14,9,12,61.6,3.7,11,20,9.99,1,1,2,749.9,0
+SS101094,30,India,Android,Mobile,Premium,K-Pop,TWICE,167.2,51,12,190.8,14.6,10,15,43,40.6,3.4,10,21,9.99,0,1,1,1370.4,0
+SS101095,19,Germany,Android,Mobile,Student,Country,Chris Stapleton,86.0,19,10,209.9,24.3,17,13,17,59.6,3.4,6,23,5.99,1,1,0,735.9,0
+SS101096,53,Japan,Android,Laptop,Free,Pop,Taylor Swift,90.1,21,1,193.2,25.8,5,15,37,0.0,4.2,3,37,0.0,0,0,0,371.9,0
+SS101097,49,France,iOS,Mobile,Premium,Pop,Dua Lipa,102.0,21,10,246.5,24.6,10,11,7,36.3,4.2,9,14,9.99,1,0,0,807.0,0
+SS101098,17,USA,iOS,Tablet,Family,R&B,Bruno Mars,241.7,46,6,202.3,15.8,11,22,29,19.2,4.7,2,7,14.99,0,1,0,1606.5,0
+SS101099,35,India,Android,Mobile,Premium,Pop,Dua Lipa,159.8,44,10,153.1,2.0,11,10,28,35.8,4.6,6,31,9.99,1,1,0,1217.2,0
+SS101100,37,USA,Android,Laptop,Family,Country,Chris Stapleton,63.5,12,8,146.2,16.0,5,11,34,55.8,3.7,6,23,14.99,0,0,2,523.2,0
+SS101101,37,Germany,Android,Smart Speaker,Family,Pop,Taylor Swift,112.3,26,7,144.4,11.7,7,19,40,43.1,5.0,6,30,14.99,1,1,0,820.7,0
+SS101102,57,USA,Web,Mobile,Free,Classical,Ludovico Einaudi,82.3,23,8,233.5,16.1,16,13,15,35.4,5.0,6,23,0.0,0,0,2,552.3,0
+SS101103,22,France,Android,Mobile,Premium,Country,Chris Stapleton,72.8,14,8,166.2,12.3,10,11,30,35.3,3.3,4,15,9.99,0,1,0,493.1,1
+SS101104,29,Canada,Android,Smart Speaker,Student,K-Pop,BTS,134.1,43,13,221.4,16.9,7,9,9,0.7,3.9,32,15,5.99,0,0,1,1075.4,0
+SS101105,24,South Korea,iOS,Mobile,Family,Rock,Imagine Dragons,118.6,27,8,215.2,9.7,9,18,9,15.1,2.2,7,13,14.99,1,0,0,787.4,0
+SS101106,26,Canada,iOS,Laptop,Free,EDM,Calvin Harris,53.6,11,12,207.5,8.0,9,18,18,59.7,3.8,21,41,0.0,0,1,0,539.5,0
+SS101107,56,UK,Android,Mobile,Student,Classical,Max Richter,102.1,28,11,226.7,25.6,10,14,29,23.9,5.0,9,60,5.99,1,0,1,825.6,0
+SS101108,58,India,Web,Mobile,Family,K-Pop,NewJeans,71.4,14,10,216.0,10.2,8,21,42,60.1,5.0,26,28,14.99,1,0,0,510.1,0
+SS101109,18,UK,Android,Tablet,Free,EDM,Avicii,129.2,36,2,120.0,17.0,10,14,44,53.2,3.7,10,18,0.0,0,1,1,588.4,0
+SS101110,44,Japan,iOS,Mobile,Premium,Rock,Imagine Dragons,69.4,14,12,197.7,23.7,12,10,20,54.3,4.1,7,13,9.99,0,0,0,571.4,1
+SS101111,26,Japan,iOS,Tablet,Free,K-Pop,BLACKPINK,90.4,28,6,226.2,23.4,13,16,27,42.3,4.3,8,25,0.0,0,1,3,513.2,0
+SS101112,24,Brazil,Android,Mobile,Family,Country,Carrie Underwood,74.1,22,11,272.3,22.6,17,12,34,25.4,5.0,2,8,14.99,0,0,0,617.9,0
+SS101113,29,India,Android,Mobile,Family,EDM,David Guetta,28.7,7,5,274.1,19.1,5,15,32,31.7,3.0,4,27,14.99,1,0,0,60.3,0
+SS101114,24,Canada,iOS,Mobile,Free,Pop,Ariana Grande,235.0,46,4,158.2,22.1,6,13,22,49.1,5.0,9,13,0.0,0,0,0,1390.4,0
+SS101115,38,Germany,Android,Tablet,Premium,Classical,Ludovico Einaudi,101.5,30,15,196.7,26.6,7,13,25,0.0,3.5,2,2,9.99,1,0,1,902.7,0
+SS101116,60,France,Android,Mobile,Free,Country,Luke Combs,239.6,46,5,150.5,20.0,13,20,23,62.4,2.9,14,46,0.0,0,0,0,1331.0,0
+SS101117,42,UK,Android,Mobile,Premium,Lo-fi,Chillhop Music,104.3,29,12,267.8,4.1,12,21,22,24.0,3.5,7,31,9.99,1,0,1,841.0,0
+SS101118,48,USA,Android,Mobile,Premium,EDM,Avicii,148.2,36,8,248.5,13.3,7,16,20,33.1,3.2,22,7,9.99,0,0,0,980.9,0
+SS101119,38,South Korea,Web,Laptop,Premium,Hip-Hop,J. Cole,66.2,17,7,223.3,21.9,13,12,23,33.3,4.1,24,34,9.99,1,0,1,414.0,0
+SS101120,16,Australia,iOS,Mobile,Free,Classical,Ludovico Einaudi,67.3,20,8,216.3,12.6,7,18,20,34.1,2.5,15,13,0.0,0,0,1,515.7,1
+SS101121,19,Canada,Desktop,Smart Speaker,Free,Country,Chris Stapleton,98.1,18,3,262.5,28.3,6,20,12,6.1,3.9,15,34,0.0,0,0,0,534.2,0
+SS101122,28,Canada,iOS,Mobile,Premium,Lo-fi,Idealism,238.4,58,8,256.0,16.6,8,11,33,38.3,4.3,15,20,9.99,1,0,0,1641.8,0
+SS101123,26,Australia,iOS,Mobile,Premium,Pop,Dua Lipa,54.9,12,4,254.0,17.6,9,20,30,48.1,5.0,9,20,9.99,1,0,0,299.1,0
+SS101124,53,Australia,Android,Mobile,Student,Rock,Linkin Park,23.5,5,7,227.4,24.9,7,13,45,0.0,4.3,16,21,5.99,1,0,0,170.2,0
+SS101125,53,Japan,Android,Mobile,Free,EDM,David Guetta,178.4,42,11,196.7,15.7,8,4,28,6.4,4.9,3,20,0.0,0,1,0,1342.1,0
+SS101126,54,Brazil,Android,Tablet,Free,Pop,Ariana Grande,153.4,34,9,239.2,18.2,11,17,19,54.7,3.3,18,10,0.0,0,2,0,1081.8,0
+SS101127,44,India,Android,Smart Speaker,Family,Country,Carrie Underwood,76.8,15,3,241.0,23.3,7,7,17,50.6,4.1,2,46,14.99,1,1,0,384.6,0
+SS101128,41,USA,iOS,Laptop,Free,Hip-Hop,Drake,290.4,61,11,202.8,6.7,11,14,25,41.6,2.0,9,28,0.0,0,0,0,2305.8,1
+SS101129,45,Brazil,Android,Tablet,Free,Jazz,John Coltrane,297.5,69,8,196.7,15.0,10,18,30,20.0,3.7,22,9,0.0,0,0,0,1971.2,0
+SS101130,34,South Korea,Android,Tablet,Family,Lo-fi,Jinsang,27.1,6,6,253.1,22.8,12,19,21,50.7,4.1,3,14,14.99,1,0,0,202.0,0
+SS101131,46,France,Web,Mobile,Free,Jazz,Norah Jones,65.2,14,11,273.2,17.5,11,11,8,8.5,4.2,3,47,0.0,0,0,0,524.1,0
+SS101132,51,South Korea,Android,Mobile,Premium,K-Pop,BLACKPINK,97.6,24,7,181.5,27.3,11,14,16,32.0,2.5,9,7,9.99,0,1,0,720.3,0
+SS101133,50,Brazil,Web,Laptop,Free,Rock,Coldplay,127.2,28,4,200.0,6.0,4,17,24,6.3,3.5,3,27,0.0,0,2,1,659.7,1
+SS101134,43,UK,Web,Smart Speaker,Family,Country,Chris Stapleton,116.2,28,14,223.3,5.2,15,13,32,31.4,3.6,3,10,14.99,1,0,1,1012.9,0
+SS101135,18,India,Android,Tablet,Premium,EDM,Calvin Harris,101.2,21,8,228.5,22.4,10,18,8,12.3,3.5,1,13,9.99,1,0,0,663.7,0
+SS101136,48,Japan,Android,Laptop,Family,Pop,Taylor Swift,49.3,9,8,190.2,23.1,6,10,27,51.6,4.4,4,20,14.99,0,0,0,249.7,0
+SS101137,32,France,Desktop,Mobile,Free,R&B,Bruno Mars,136.5,25,7,281.6,15.6,17,9,26,44.5,3.6,19,26,0.0,0,0,0,824.4,0
+SS101138,49,Australia,Web,Tablet,Student,R&B,H.E.R.,141.0,28,12,226.0,19.8,9,17,19,22.4,3.9,13,22,5.99,0,0,2,1173.7,0
+SS101139,40,USA,Desktop,Laptop,Premium,Classical,Ludovico Einaudi,171.3,38,6,230.2,22.2,9,18,18,59.0,3.4,5,9,9.99,1,0,0,1079.8,0
+SS101140,55,Japan,Android,Smart Speaker,Free,Rock,Coldplay,44.6,9,3,276.8,11.3,7,10,16,14.0,4.7,25,46,0.0,0,1,1,219.3,0
+SS101141,31,Canada,iOS,Laptop,Free,EDM,Calvin Harris,88.3,26,6,192.9,12.1,4,18,26,34.2,4.7,11,30,0.0,0,0,0,583.7,0
+SS101142,57,Brazil,Android,Mobile,Free,EDM,David Guetta,74.5,18,13,206.6,18.3,12,23,36,21.5,3.6,18,39,0.0,1,0,0,611.1,0
+SS101143,54,USA,Android,Laptop,Family,R&B,Bruno Mars,44.0,12,11,162.4,23.3,8,13,37,51.3,5.0,4,19,14.99,1,0,0,372.6,0
+SS101144,30,Canada,Android,Mobile,Premium,Jazz,John Coltrane,87.4,29,7,203.5,8.8,12,16,12,49.2,3.2,5,31,9.99,1,1,0,592.7,0
+SS101145,37,Japan,iOS,Mobile,Premium,R&B,SZA,51.1,9,13,153.4,15.6,11,10,22,63.6,4.6,5,39,9.99,1,0,0,454.1,0
+SS101146,39,South Korea,iOS,Laptop,Premium,K-Pop,BLACKPINK,39.0,8,11,238.4,15.3,15,22,2,36.8,3.0,5,25,9.99,1,0,0,284.4,0
+SS101147,50,UK,Web,Tablet,Student,Rock,Linkin Park,154.6,36,7,226.0,19.9,10,17,25,0.0,4.4,0,24,5.99,1,1,0,1082.0,0
+SS101148,47,Japan,Android,Tablet,Student,Country,Chris Stapleton,76.6,21,7,199.5,16.9,7,12,31,25.5,4.4,7,27,5.99,1,0,0,449.1,0
+SS101149,54,UK,Desktop,Mobile,Student,R&B,Bruno Mars,63.2,13,9,206.2,13.2,8,10,41,69.4,3.0,9,27,5.99,1,0,0,447.2,0
+SS101150,32,Japan,Android,Mobile,Premium,Pop,The Weeknd,195.2,48,5,238.9,25.7,8,21,4,27.9,3.7,8,25,9.99,1,0,0,1213.7,0
+SS101151,38,Australia,Desktop,Mobile,Free,Hip-Hop,J. Cole,143.4,29,8,166.8,13.2,8,24,12,0.0,5.0,26,33,0.0,0,1,0,931.8,0
+SS101152,35,Japan,iOS,Laptop,Family,Country,Morgan Wallen,21.5,4,9,217.8,15.0,6,9,26,44.9,3.1,24,19,14.99,1,0,0,128.2,1
+SS101153,56,UK,Android,Laptop,Premium,Country,Carrie Underwood,127.7,33,2,236.6,5.9,10,21,6,46.5,4.1,1,44,9.99,1,1,0,761.8,0
+SS101154,29,India,Web,Mobile,Free,Rock,Foo Fighters,127.3,35,7,142.3,12.0,8,19,26,19.0,4.1,25,4,0.0,0,0,0,863.0,0
+SS101155,42,Japan,iOS,Mobile,Premium,Jazz,Norah Jones,85.2,23,7,236.0,20.6,7,15,31,29.6,3.8,22,30,9.99,1,0,0,545.4,0
+SS101156,21,India,Android,Tablet,Free,Classical,Ludovico Einaudi,83.2,26,12,146.4,19.2,6,15,10,16.4,2.4,6,42,0.0,1,2,0,629.7,0
+SS101157,54,Germany,Android,Mobile,Family,Hip-Hop,Travis Scott,31.3,8,2,205.5,21.2,7,11,25,46.5,4.5,11,14,14.99,1,1,0,66.0,0
+SS101158,33,India,Desktop,Laptop,Family,EDM,Avicii,288.6,95,7,165.8,20.9,4,18,11,36.2,3.8,7,16,14.99,1,0,0,1930.1,0
+SS101159,31,Germany,Desktop,Tablet,Family,Jazz,Chet Baker,87.2,27,6,264.4,31.6,8,13,39,9.4,4.7,21,44,14.99,0,0,0,585.2,0
+SS101160,42,USA,iOS,Mobile,Free,Lo-fi,Chillhop Music,123.6,34,11,166.0,11.8,10,17,26,34.8,4.0,27,30,0.0,0,1,0,930.1,1
+SS101161,38,USA,Android,Mobile,Free,Country,Carrie Underwood,90.2,27,8,147.3,5.7,7,18,17,18.9,3.9,41,31,0.0,0,0,0,490.0,0
+SS101162,54,France,Android,Laptop,Free,Pop,Dua Lipa,63.9,13,14,215.1,9.6,6,11,10,67.1,4.1,19,18,0.0,0,0,0,544.1,1
+SS101163,39,France,Android,Mobile,Free,Rock,Coldplay,161.4,49,10,194.3,12.1,14,14,28,54.7,3.0,15,17,0.0,0,0,1,1160.1,1
+SS101164,39,Australia,iOS,Mobile,Free,EDM,Avicii,110.3,21,7,152.8,10.2,5,14,39,32.3,5.0,10,18,0.0,1,0,0,727.4,0
+SS101165,20,Canada,Android,Smart Speaker,Free,Hip-Hop,Drake,87.7,25,9,230.0,17.7,13,19,16,36.8,3.5,5,17,0.0,1,0,0,720.0,0
+SS101166,16,Brazil,Android,Mobile,Family,Classical,Yiruma,122.9,38,7,134.3,25.8,9,9,19,57.3,3.5,10,18,14.99,0,0,1,837.6,0
+SS101167,33,Canada,Web,Smart Speaker,Free,Pop,Ariana Grande,95.4,32,11,170.6,27.8,14,8,16,31.2,4.8,6,28,0.0,1,1,0,769.7,0
+SS101168,60,USA,Desktop,Mobile,Free,Hip-Hop,Drake,248.7,52,3,188.1,20.5,12,15,41,51.7,4.0,12,17,0.0,0,0,1,1319.7,0
+SS101169,57,UK,Android,Mobile,Premium,Pop,Taylor Swift,158.3,43,5,240.5,32.0,9,8,3,67.5,3.6,1,10,9.99,1,0,1,979.7,0
+SS101170,44,Brazil,Android,Mobile,Premium,Rock,Foo Fighters,134.7,32,10,259.2,14.5,10,17,38,24.2,4.1,7,41,9.99,1,0,2,974.2,0
+SS101171,44,France,iOS,Laptop,Premium,K-Pop,BTS,34.2,10,12,251.9,5.6,7,16,20,71.2,4.3,1,14,9.99,1,1,1,305.5,0
+SS101172,33,Brazil,Android,Smart Speaker,Premium,Hip-Hop,Kendrick Lamar,137.4,25,1,204.2,24.4,8,18,23,64.8,3.7,15,16,9.99,1,0,0,635.2,0
+SS101173,23,Brazil,Android,Mobile,Family,Lo-fi,Chillhop Music,135.4,41,13,120.0,4.1,9,10,20,40.5,4.5,8,8,14.99,1,0,0,1093.9,0
+SS101174,16,Japan,Android,Smart Speaker,Premium,Rock,Linkin Park,51.7,13,8,224.9,11.7,8,14,27,25.2,2.8,4,24,9.99,1,2,0,394.9,0
+SS101175,31,India,Android,Laptop,Student,Pop,Ariana Grande,33.6,7,1,265.9,20.6,7,14,16,40.2,4.0,6,13,5.99,1,1,0,60.9,0
+SS101176,30,Brazil,Web,Smart Speaker,Premium,R&B,H.E.R.,154.6,43,1,256.9,16.3,9,14,36,29.6,4.4,4,10,9.99,1,2,0,720.8,0
+SS101177,24,USA,Android,Laptop,Student,K-Pop,BTS,165.7,45,3,227.6,15.7,8,14,36,17.6,4.3,3,35,5.99,1,0,0,928.5,0
+SS101178,27,Australia,iOS,Laptop,Free,Hip-Hop,Drake,67.6,13,8,164.8,8.7,8,13,13,46.7,2.0,8,51,0.0,0,0,0,518.5,0
+SS101179,17,Australia,Android,Smart Speaker,Student,Pop,Ariana Grande,65.6,18,8,190.0,16.9,1,16,31,12.5,3.7,5,15,5.99,1,2,0,474.6,0
+SS101180,43,Japan,iOS,Laptop,Free,Country,Carrie Underwood,109.2,36,10,283.5,24.0,9,14,20,27.6,2.8,7,30,0.0,0,0,0,785.9,0
+SS101181,57,USA,iOS,Tablet,Premium,Classical,Max Richter,76.4,19,6,156.2,17.1,9,20,25,27.8,4.8,0,25,9.99,1,0,0,486.0,0
+SS101182,47,France,Web,Mobile,Free,R&B,H.E.R.,33.1,11,4,166.4,11.2,8,19,41,5.0,3.5,22,23,0.0,0,0,0,193.9,0
+SS101183,36,Brazil,Android,Mobile,Free,K-Pop,NewJeans,51.3,10,7,245.8,8.3,7,15,17,49.5,4.7,20,9,0.0,0,0,0,396.5,0
+SS101184,34,Canada,iOS,Laptop,Free,Country,Morgan Wallen,121.0,26,8,193.6,11.3,10,14,34,30.0,2.8,10,24,0.0,0,0,2,867.3,0
+SS101185,29,Canada,Desktop,Mobile,Premium,R&B,Frank Ocean,53.3,12,9,165.1,19.7,13,13,29,63.6,4.1,25,31,9.99,1,1,0,406.6,0
+SS101186,22,USA,Android,Mobile,Free,Classical,Max Richter,170.5,49,5,268.1,19.4,10,15,22,29.6,3.8,7,59,0.0,0,0,0,1022.3,0
+SS101187,42,Canada,Android,Tablet,Premium,Pop,Ariana Grande,134.2,28,11,227.5,11.4,6,10,28,26.1,5.0,7,5,9.99,1,0,0,994.8,0
+SS101188,41,USA,Android,Laptop,Family,R&B,H.E.R.,123.9,26,6,195.5,1.5,12,17,27,15.1,4.7,10,30,14.99,1,1,0,708.5,0
+SS101189,16,Japan,Desktop,Smart Speaker,Free,Classical,Yiruma,107.8,34,5,166.5,19.9,6,13,11,35.9,4.7,13,23,0.0,0,0,1,621.4,0
+SS101190,34,Japan,Android,Mobile,Premium,Hip-Hop,Drake,62.0,12,6,287.8,10.7,8,12,17,36.0,5.0,4,19,9.99,1,0,0,423.7,0
+SS101191,28,Germany,Android,Mobile,Free,Lo-fi,Lofi Girl,144.8,33,12,209.1,21.8,14,9,13,51.3,4.0,13,41,0.0,0,1,0,1129.0,0
+SS101192,23,France,Desktop,Mobile,Free,Lo-fi,Jinsang,60.8,12,8,263.1,11.7,14,8,21,36.5,3.7,3,15,0.0,0,0,2,448.3,0
+SS101193,47,USA,Android,Smart Speaker,Premium,Rock,Foo Fighters,175.9,48,6,244.0,10.1,8,16,39,81.1,3.6,3,51,9.99,1,1,1,1079.8,0
+SS101194,39,South Korea,Android,Mobile,Family,R&B,SZA,227.1,69,11,190.2,18.1,14,15,30,45.0,4.1,14,4,14.99,1,0,1,1705.4,0
+SS101195,44,Canada,iOS,Smart Speaker,Free,Hip-Hop,Drake,109.9,23,15,190.5,33.5,11,19,8,13.3,1.6,43,17,0.0,0,2,0,959.1,1
+SS101196,48,Japan,Android,Mobile,Premium,Classical,Max Richter,210.4,42,9,265.0,22.2,8,12,21,11.4,3.8,4,35,9.99,1,1,1,1556.1,0
+SS101197,60,South Korea,Android,Mobile,Free,Hip-Hop,J. Cole,51.8,13,12,265.6,18.0,9,8,27,46.8,4.0,10,23,0.0,0,1,0,401.0,1
+SS101198,52,USA,Android,Tablet,Premium,R&B,H.E.R.,135.0,44,12,138.7,19.5,11,14,32,12.6,3.7,5,13,9.99,1,0,1,1058.3,0
+SS101199,43,South Korea,iOS,Laptop,Premium,Classical,Ludovico Einaudi,99.7,20,6,230.9,4.7,16,19,17,48.1,2.6,8,15,9.99,1,2,0,667.2,0
