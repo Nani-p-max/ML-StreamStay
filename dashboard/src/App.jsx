@@ -199,8 +199,7 @@ function App() {
   const [predictionResult, setPredictionResult] = useState(null)
   const [predicting, setPredicting] = useState(false)
 
-  const apiBase = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000'
-
+  const apiBase = import.meta.env.VITE_API_BASE_URL || 'http://127.0.0.1:8000'
 
   const refreshData = async () => {
     setLoading(true)
@@ -245,13 +244,13 @@ function App() {
     }
   }
 
-  const runPrediction = async () => {
+  const runPrediction = async (inputData = subscriberInput) => {
     setPredicting(true)
     try {
       const res = await fetch(`${apiBase}/predict`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(subscriberInput),
+        body: JSON.stringify(inputData),
       })
 
       if (!res.ok) throw new Error('Inference API error')
@@ -259,18 +258,31 @@ function App() {
       setPredictionResult(data)
     } catch {
       // Robust client-side mock estimation based on XGBoost heuristics when API is offline
-      const days = subscriberInput.days_since_last_active
-      const skips = subscriberInput.skip_rate_pct
-      const fails = subscriberInput.payment_failures
-      const daily = subscriberInput.daily_listening_minutes
+      const days = Number(inputData.days_since_last_active) || 0
+      const skips = Number(inputData.skip_rate_pct) || 0
+      const fails = Number(inputData.payment_failures) || 0
+      const daily = Number(inputData.daily_listening_minutes) || 0
+      const prevCancels = Number(inputData.previous_cancellations) || 0
+      const tenure = Number(inputData.subscription_months) || 1
+      const autoRenew = Number(inputData.auto_renew) || 0
+      const offline = Number(inputData.offline_usage_pct) || 0
 
-      let prob = 0.08 + (days / 40) * 0.45 + (skips / 100) * 0.25 + fails * 0.12 - (daily / 120) * 0.2
-      prob = Math.max(0.02, Math.min(0.96, prob))
+      let prob = 0.12 
+        + (days / 35) * 0.38 
+        + (skips / 100) * 0.22 
+        + fails * 0.08 
+        + prevCancels * 0.06
+        - (daily / 100) * 0.16
+        - (tenure / 24) * 0.08
+        - autoRenew * 0.08
+        - (offline / 100) * 0.05
 
-      const expectedMins = Math.max(0, daily * 7 * (1 - skips / 200) + subscriberInput.playlists_created * 5)
-      const riskLabel = prob >= 0.65 ? 'HIGH' : prob >= 0.35 ? 'MEDIUM' : 'LOW'
-      const watchBand = expectedMins >= 300 ? 'HIGH' : expectedMins >= 100 ? 'MEDIUM' : 'LOW'
-      const tasteSeg = daily > 50 ? 2 : skips > 30 ? 0 : 1
+      prob = Math.max(0.02, Math.min(0.98, prob))
+
+      const expectedMins = Math.max(0, daily * 7 * (1 - skips / 200) + (Number(inputData.playlists_created) || 0) * 5)
+      const riskLabel = prob >= 0.50 ? 'HIGH' : prob >= 0.20 ? 'MEDIUM' : 'LOW'
+      const watchBand = expectedMins >= 800 ? 'HIGH' : expectedMins >= 300 ? 'MEDIUM' : 'LOW'
+      const tasteSeg = daily > 60 ? 1 : skips > 35 ? 0 : offline > 30 ? 2 : 3
 
       const action =
         riskLabel === 'HIGH'
@@ -280,14 +292,14 @@ function App() {
             : 'Retention stable: Enrol in VIP loyalty perks and early album release notifications.'
 
       setPredictionResult({
-        churn_probability: prob,
+        churn_probability: Number(prob.toFixed(4)),
         churn_risk_label: riskLabel,
-        churn_risk_description: `${riskLabel} risk of churn within 30 days based on engagement patterns.`,
-        expected_weekly_watch_time_min: Math.round(expectedMins),
+        churn_risk_description: `Subscriber has a ${(prob * 100).toFixed(0)}% probability of churning in 30 days.`,
+        expected_weekly_watch_time_min: Math.round(expectedMins * 10) / 10,
         watch_time_band: watchBand,
         taste_segment: tasteSeg,
         retention_action: action,
-        model_version: metrics.model_version,
+        model_version: metrics.model_version || 'champion',
         is_client_fallback: true,
       })
     } finally {
@@ -295,9 +307,16 @@ function App() {
     }
   }
 
+  // Real-time automatic re-scoring whenever subscriber input parameters change
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      runPrediction(subscriberInput)
+    }, 180)
+    return () => clearTimeout(timer)
+  }, [subscriberInput])
+
   useEffect(() => {
     refreshData()
-    runPrediction()
   }, [])
 
   const summaryCards = useMemo(
@@ -805,7 +824,7 @@ function App() {
                 <button
                   type="button"
                   className="primary-button predict-btn"
-                  onClick={runPrediction}
+                  onClick={() => runPrediction(subscriberInput)}
                   disabled={predicting}
                 >
                   {predicting ? 'Scoring Subscriber...' : 'Run Pipeline Inference'}
@@ -831,7 +850,9 @@ function App() {
                 <div className="result-card">
                   <div className="result-top">
                     <div>
-                      <span className="result-eyebrow">Churn Probability</span>
+                      <span className="result-eyebrow">
+                        Churn Probability {predicting && <span style={{ opacity: 0.6, fontSize: '0.75rem', fontWeight: 500 }}>(Scoring...)</span>}
+                      </span>
                       <div className="prob-display">
                         {(predictionResult.churn_probability * 100).toFixed(1)}%
                       </div>
