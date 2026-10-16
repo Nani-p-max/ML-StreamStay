@@ -132,86 +132,32 @@ const pipelineStages = [
   },
 ]
 
-const presetSubscribers = {
-  at_risk: {
-    label: 'At-Risk Lapsed User',
-    age: 28,
-    country: 'India',
-    platform: 'Android',
-    device_type: 'Mobile',
-    subscription_type: 'Free',
-    top_genre: 'Pop',
-    top_artist: 'Avicii',
-    daily_listening_minutes: 8.0,
-    songs_per_day: 2.0,
-    sessions_per_week: 1.5,
-    avg_song_duration_sec: 175.0,
-    skip_rate_pct: 45.0,
-    playlists_created: 0,
-    likes_per_week: 1,
-    unique_artists_per_week: 2,
-    offline_usage_pct: 0.0,
-    recommendation_rating: 1.8,
-    days_since_last_active: 32,
-    subscription_months: 2,
-    monthly_fee: 0.0,
-    auto_renew: 0,
-    payment_failures: 2,
-    previous_cancellations: 1,
-  },
-  loyal_power: {
-    label: 'Loyal Premium Audiophile',
-    age: 34,
-    country: 'United States',
-    platform: 'iOS',
-    device_type: 'Mobile',
-    subscription_type: 'Premium',
-    top_genre: 'Rock',
-    top_artist: 'Queen',
-    daily_listening_minutes: 85.0,
-    songs_per_day: 22.0,
-    sessions_per_week: 9.0,
-    avg_song_duration_sec: 220.0,
-    skip_rate_pct: 8.0,
-    playlists_created: 14,
-    likes_per_week: 28,
-    unique_artists_per_week: 18,
-    offline_usage_pct: 45.0,
-    recommendation_rating: 4.8,
-    days_since_last_active: 0,
-    subscription_months: 24,
-    monthly_fee: 9.99,
-    auto_renew: 1,
-    payment_failures: 0,
-    previous_cancellations: 0,
-  },
-  onboarding: {
-    label: 'New Free-Tier Explorer',
-    age: 22,
-    country: 'United Kingdom',
-    platform: 'Web',
-    device_type: 'Desktop',
-    subscription_type: 'Free',
-    top_genre: 'Hip Hop',
-    top_artist: 'Drake',
-    daily_listening_minutes: 35.0,
-    songs_per_day: 9.0,
-    sessions_per_week: 4.0,
-    avg_song_duration_sec: 190.0,
-    skip_rate_pct: 22.0,
-    playlists_created: 2,
-    likes_per_week: 6,
-    unique_artists_per_week: 7,
-    offline_usage_pct: 5.0,
-    recommendation_rating: 3.5,
-    days_since_last_active: 3,
-    subscription_months: 1,
-    monthly_fee: 0.0,
-    auto_renew: 0,
-    payment_failures: 0,
-    previous_cancellations: 0,
-  },
+const defaultSubscriber = {
+  age: 28,
+  country: 'India',
+  platform: 'Android',
+  device_type: 'Mobile',
+  subscription_type: 'Free',
+  top_genre: 'Pop',
+  top_artist: 'Avicii',
+  daily_listening_minutes: 25.0,
+  songs_per_day: 6.0,
+  sessions_per_week: 3.5,
+  avg_song_duration_sec: 190.0,
+  skip_rate_pct: 25.0,
+  playlists_created: 2,
+  likes_per_week: 5,
+  unique_artists_per_week: 5,
+  offline_usage_pct: 10.0,
+  recommendation_rating: 3.5,
+  days_since_last_active: 5,
+  subscription_months: 6,
+  monthly_fee: 0.0,
+  auto_renew: 0,
+  payment_failures: 0,
+  previous_cancellations: 0,
 }
+
 
 const fallbackMetrics = {
   model_version: 'streamstay_champion_v20261012_1131',
@@ -249,7 +195,7 @@ function App() {
   const [plotFilter, setPlotFilter] = useState('All')
 
   // Interactive Inference State
-  const [subscriberInput, setSubscriberInput] = useState(presetSubscribers.at_risk)
+  const [subscriberInput, setSubscriberInput] = useState(defaultSubscriber)
   const [predictionResult, setPredictionResult] = useState(null)
   const [predicting, setPredicting] = useState(false)
 
@@ -690,23 +636,6 @@ function App() {
             </div>
           </div>
 
-          <div className="preset-selector-row">
-            <span>Quick Presets:</span>
-            {Object.entries(presetSubscribers).map(([key, preset]) => (
-              <button
-                key={key}
-                type="button"
-                className={`ghost-button ${subscriberInput === preset ? 'active-preset' : ''}`}
-                onClick={() => {
-                  setSubscriberInput(preset)
-                  setPredictionResult(null)
-                }}
-              >
-                {preset.label}
-              </button>
-            ))}
-          </div>
-
           <div className="inference-grid">
             {/* Input Form */}
             <div className="inference-inputs">
@@ -739,6 +668,33 @@ function App() {
                 </label>
 
                 <label>
+                  <span>Songs Per Day</span>
+                  <input
+                    type="number"
+                    min="0"
+                    max="100"
+                    value={subscriberInput.songs_per_day}
+                    onChange={(e) =>
+                      setSubscriberInput({ ...subscriberInput, songs_per_day: Number(e.target.value) })
+                    }
+                  />
+                </label>
+
+                <label>
+                  <span>Sessions Per Week</span>
+                  <input
+                    type="number"
+                    min="0"
+                    max="50"
+                    step="0.5"
+                    value={subscriberInput.sessions_per_week}
+                    onChange={(e) =>
+                      setSubscriberInput({ ...subscriberInput, sessions_per_week: Number(e.target.value) })
+                    }
+                  />
+                </label>
+
+                <label>
                   <span>Skip Rate (%)</span>
                   <input
                     type="number"
@@ -752,14 +708,14 @@ function App() {
                 </label>
 
                 <label>
-                  <span>Payment Failures</span>
+                  <span>Offline Usage (%)</span>
                   <input
                     type="number"
                     min="0"
-                    max="10"
-                    value={subscriberInput.payment_failures}
+                    max="100"
+                    value={subscriberInput.offline_usage_pct}
                     onChange={(e) =>
-                      setSubscriberInput({ ...subscriberInput, payment_failures: Number(e.target.value) })
+                      setSubscriberInput({ ...subscriberInput, offline_usage_pct: Number(e.target.value) })
                     }
                   />
                 </label>
@@ -780,27 +736,92 @@ function App() {
                 </label>
 
                 <label>
-                  <span>Offline Usage (%)</span>
+                  <span>Tenure (Months)</span>
+                  <input
+                    type="number"
+                    min="0"
+                    max="60"
+                    value={subscriberInput.subscription_months}
+                    onChange={(e) =>
+                      setSubscriberInput({ ...subscriberInput, subscription_months: Number(e.target.value) })
+                    }
+                  />
+                </label>
+
+                <label>
+                  <span>Payment Failures</span>
+                  <input
+                    type="number"
+                    min="0"
+                    max="10"
+                    value={subscriberInput.payment_failures}
+                    onChange={(e) =>
+                      setSubscriberInput({ ...subscriberInput, payment_failures: Number(e.target.value) })
+                    }
+                  />
+                </label>
+
+                <label>
+                  <span>Playlists Created</span>
+                  <input
+                    type="number"
+                    min="0"
+                    max="50"
+                    value={subscriberInput.playlists_created}
+                    onChange={(e) =>
+                      setSubscriberInput({ ...subscriberInput, playlists_created: Number(e.target.value) })
+                    }
+                  />
+                </label>
+
+                <label>
+                  <span>Likes Per Week</span>
                   <input
                     type="number"
                     min="0"
                     max="100"
-                    value={subscriberInput.offline_usage_pct}
+                    value={subscriberInput.likes_per_week}
                     onChange={(e) =>
-                      setSubscriberInput({ ...subscriberInput, offline_usage_pct: Number(e.target.value) })
+                      setSubscriberInput({ ...subscriberInput, likes_per_week: Number(e.target.value) })
                     }
                   />
                 </label>
+
+                <label>
+                  <span>Auto-Renew</span>
+                  <select
+                    value={subscriberInput.auto_renew}
+                    onChange={(e) =>
+                      setSubscriberInput({ ...subscriberInput, auto_renew: Number(e.target.value) })
+                    }
+                  >
+                    <option value={0}>Disabled (0)</option>
+                    <option value={1}>Active Auto-Renew (1)</option>
+                  </select>
+                </label>
               </div>
 
-              <button
-                type="button"
-                className="primary-button predict-btn"
-                onClick={runPrediction}
-                disabled={predicting}
-              >
-                {predicting ? 'Scoring Subscriber...' : 'Run Pipeline Inference'}
-              </button>
+              <div className="predict-actions">
+                <button
+                  type="button"
+                  className="primary-button predict-btn"
+                  onClick={runPrediction}
+                  disabled={predicting}
+                >
+                  {predicting ? 'Scoring Subscriber...' : 'Run Pipeline Inference'}
+                </button>
+                <button
+                  type="button"
+                  className="ghost-button"
+                  onClick={() => {
+                    setSubscriberInput(defaultSubscriber)
+                    setPredictionResult(null)
+                  }}
+                  disabled={predicting}
+                >
+                  Reset Defaults
+                </button>
+              </div>
             </div>
 
             {/* Inference Output Card */}

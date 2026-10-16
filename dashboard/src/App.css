@@ -604,11 +604,18 @@ h3 {
   box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.15);
 }
 
-.predict-btn {
-  width: 100%;
+.predict-actions {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.predict-actions .predict-btn {
+  flex: 1;
   padding: 12px;
   font-size: 0.95rem;
 }
+
 
 .result-card {
   background: #f8fafc;
